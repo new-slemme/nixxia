@@ -1,0 +1,174 @@
+{
+  "english": "High Elves",
+  "sigtaara": "KÄlotÄdhel",
+  "native_name": "Caailodaedhail",
+  "kingdom": "Firgolkys (Material Realm Beings)",
+  "phylum": "Yoosaanurii (Arcane Vertebrates)",
+  "class": "Duwanihii (Mammals)",
+  "order": "Ursgizil (Humanoids)",
+  "family": "Hadrimkirii (Mind Children)",
+  "genus": "Aedhelkys (Elf Family)",
+  "species": "Seraa",
+  "appeared_in_age": "second_age",
+  "genetic_ancestors": [
+    "Hah'Slen"
+  ],
+  "genetic_descendants": [
+    "Aedhelirsos"
+  ],
+  "origin": [
+    "Nirmaaz",
+    "Haegoohyh",
+    "Feiikro"
+  ],
+  "home_continent": "Siniath",
+  "geographic_distribution": [
+    "Siniath"
+  ],
+  "magical_affinity": [
+    "Tazri"
+  ],
+  "hybrid": false,
+  "artificial": false,
+  "culture": {
+    "core_values": [
+      "perfection through legacy",
+      "supremacy of knowledge and arcane heritage",
+      "ruthless preservation of highblood lines",
+      "spiritual attunement",
+      "refined etiquette"
+    ],
+    "origins": "Descended from the Hah'Slen, the Kaelotaedhel established the first arcane societies and cities in Siniath, shaping the mystical and philosophical foundation of all elvenkind.",
+    "society": "Highly stratified, led by elder councils and arcane scholars. Lineage, accomplishment, and mastery of the arcane define status. Formally meritocratic, but lineage remains crucial for high office.",
+    "institutions": {
+      "Ael’theryn": "First permanent Kaelotaedhel city and center of arcane learning, located in northern Siniath."
+    },
+    "social_structure": "Rigid caste hierarchy based on bloodline purity, magical potential, and achievement. Extended families form the backbone of social units; elders are revered as custodians of knowledge.",
+    "traditions": {
+      "funerary_rites": "Elders are consumed by their kin in arcane funerals—believed to pass on memory and talent through ritual cannibalism.",
+      "dueling": "Political and philosophical disputes resolved through magical duels (Eidrae'Thasir).",
+      "memory_sanctification": "Ancestors’ names preserved through living spell-structures and memory sanctuaries.",
+      "seasonal_festivals": "Elaborate celebrations tied to celestial events and natural cycles.",
+      "binding_of_memory": "Individuals weave their life stories into crafted items, passed down as family relics.",
+      "ritual_silence": "Moments of communal reflection and mourning marked by collective silence."
+    },
+    "beauty_ideals": "Elegance, symmetry, and ethereal grace. Tall, slender physiques, unblemished or luminescent skin, elaborate and flowing hair, and dignified bearing are prized. Ornamentation must accentuate, not overwhelm.",
+    "gender_roles": {
+      "male": [
+        "Protectors and defenders of kin; esteemed as warriors, guardians, or keepers of tradition.",
+        "Self-sacrifice and service viewed as highest virtues."
+      ],
+      "female": [
+        "Bearers and nurturers of lineage; expected to birth at least one child for legacy.",
+        "Regarded as architects of knowledge, shaping culture as scholars, mages, diplomats."
+      ]
+    },
+    "relationship_ideals": "Bonds founded on mutual ambition, respect, and shared pursuit of excellence. Romance is personal, but family approval and duty to legacy remain paramount.",
+    "taboos": [
+      "Interbreeding with outsiders or non-elves.",
+      "Revealing private (soul) names to outsiders.",
+      "Refusing to partake in funerary cannibalism.",
+      "Mocking or disrupting rituals.",
+      "Betraying kin or sharing secrets with foreigners."
+    ],
+    "xenophobia": "Historically isolationist, viewing themselves as stewards of wisdom and order. Reluctant to adopt foreign customs; outsiders rarely granted high status.",
+    "influence": "Created the Kaekreaedhel as magical servitors (later a source of deep shame and schism). Drove much of the fracturing between elven subraces.",
+    "notable_events": [
+      "Founding of Ael’theryn",
+      "Creation of Kaekreaedhel",
+      "The First Blood of the Boughs (Elven civil strife)",
+      "Establishment of the Triumvirate"
+    ],
+    "related_organizations": [
+      "The Cult of Esoteric Paradoxes"
+    ]
+  },
+  "traits": {
+    "intellectual_focus": "Mastery of high-level Tazri manipulation and Sigtaara linguistic perfection. Emphasis on research, contemplation, and arcane tradition.",
+    "appearance": "Tall (1.8–2.1m), slender, graceful. Skin is fair or faintly glowing, sometimes runic-tattooed by lineage. Hair ranges from platinum, gold, and silver to deep blue. Eyes are almond-shaped, color-adaptive, and reflective.",
+    "magical_style": "Fluent in Tazri, often combining spellcraft with ritual, art, and language. Prefer finesse and subtlety over brute magical force.",
+    "lifespan": "260–300 years",
+    "physiology": {
+      "skeleton": "Light, high-density, expanded cranial vault; elongated metacarpals and phalanges for dexterity.",
+      "musculature": "Lean, long fibers favoring endurance and precise movement. 70% slow-twitch muscle composition.",
+      "respiration": "Large lung capacity (6.5–7.2L), high red blood cell count. Efficient at oxygen transport and heat regulation.",
+      "circulation": "Enlarged heart, high erythrocyte count, resting heart rate 45–55 bpm.",
+      "skin": "Smooth, fair to glowing, broad melanin spectrum; resistant to sunlight.",
+      "hair": "Dense on scalp, silken and flowing.",
+      "senses": [
+        "Superior vision, rapid light/dark adaptation, near-UV perception.",
+        "Refined auditory range, sound directionality, harmonic sensitivity.",
+        "Enhanced olfactory and tactile acuity (especially in hands)."
+      ],
+      "extrasensory": "Mon’Yænu—instinctual magic sense present in all elves, perceives arcane flows, enchantments, and magical presence."
+    },
+    "reproduction": {
+      "method": "Sexual",
+      "cycle": "Fertility cycles are rare (few per century).",
+      "gestation": "Approx. 2 years.",
+      "birth": "Single, highly developed neonates; twins are exceedingly rare.",
+      "development": "Cognitive awareness at birth, slow motor development over two decades.",
+      "courtship": "Complex, involves intellectual and magical compatibility, with family and social input.",
+      "interbreeding": "Taboo and nearly unheard of; 'tainted' bloodlines are erased from history.",
+      "cultural_influence": "Every woman expected to bear at least one child for the continuation of legacy."
+    },
+    "growth": {
+      "neonate": "Advanced cognition, slow physical development (0–20 years).",
+      "childhood": "20–100 years; focused on knowledge and cultural training.",
+      "adolescence": "100–250 years; rapid growth, magical training, advanced apprenticeship.",
+      "adulthood": "250–300+ years; stability, mastery, and the peak of magical, artistic, or political achievement."
+    },
+    "growth_rate": "Very slow; full maturity near first century, functional adulthood after 250 years.",
+    "sexual_dimorphism": "Males: denser muscle, broader shoulders. Females: more flexible, higher endurance."
+  },
+  "intelligence": {
+    "type": "Highly analytical, disciplined, and long-term oriented.",
+    "strengths": [
+      "Problem-solving",
+      "Pattern recognition",
+      "Arcane theory",
+      "Linguistic mastery"
+    ],
+    "learning_style": "Ritualized study, mentorship, and communal lore transmission.",
+    "comparison_to_human": "Vastly superior in arcane arts, memory, and composure; slower to act but more deliberate."
+  },
+  "controversies": [
+    "Magical elitism and eugenic practices.",
+    "Endocannibalism viewed as abhorrent by outsiders.",
+    "Ethical fallout from the creation of Kaekreaedhel.",
+    "Suppression of Nil’Thur worship during periods of orthodoxy."
+  ],
+  "lore": {
+    "origin_myth": "Formed from the purest remnants of Hah'Slen after the War of One and All. Claim descent from the first Dreamers who walked the Arcane Sea.",
+    "founders": [
+      "First Triumvirate of Siniath"
+    ],
+    "core_legends": [
+      "The Founding of Ael’theryn",
+      "The Consuming of the Essence",
+      "Creation and Rebellion of the Kaekreaedhel"
+    ],
+    "taboos": [
+      "Dilution of bloodline",
+      "Betrayal of kin or tradition",
+      "Uttering private names to outsiders",
+      "Refusing funerary rites"
+    ]
+  },
+  "habitat": "Ancient forests, marble cities, and arcane sanctuaries in northern Siniath.",
+  "distribution": [
+    "Siniath (native)"
+  ],
+  "related_species": [
+    "Kaemisaedhel",
+    "Zaetaedhel",
+    "Kaekreaedhel",
+    "Aedhelirsos"
+  ],
+  "notable_magic": [
+    "Advanced Tazri (arcane manipulation, ritual casting)",
+    "Memory sanctification",
+    "Ritual enchantment"
+  ],
+  "subspecies": {}
+}
