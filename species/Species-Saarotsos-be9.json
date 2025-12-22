@@ -1,0 +1,420 @@
+{
+    "id": "82876be9-27ce-4020-a85c-85952839c886",
+    "title": "Saarotsos",
+    "slug": "saarotsos-species",
+    "state": "public",
+    "isWip": false,
+    "isDraft": false,
+    "entityClass": "Species",
+    "icon": "fa-solid fa-file",
+    "url": "https://www.worldanvil.com/w/nixxia-slemme/a/saarotsos-species",
+    "subscribergroups": [
+        {
+            "id": "314300fc-d4c6-4472-a987-1ddc66cd1576",
+            "title": "Friends",
+            "slug": null,
+            "state": null,
+            "entityClass": "SubscriberGroup",
+            "icon": null,
+            "url": null,
+            "subscribergroups": []
+        }
+    ],
+    "folderId": "-1",
+    "tags": "#dragonborn,#-dovahsos,#race,#species",
+    "updateDate": {
+        "date": "2025-11-05 15:33:23.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "position": 1000,
+    "excerpt": null,
+    "wordcount": 2218,
+    "creationDate": {
+        "date": "2020-07-05 00:13:35.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "publicationDate": {
+        "date": "2020-07-05 22:56:47.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 59,
+    "userMetadata": null,
+    "articleMetadata": null,
+    "cssClasses": null,
+    "displayCss": null,
+    "templateType": "species",
+    "customArticleTemplate": null,
+    "editor": "plutarch",
+    "content": "[left][p]The [b]Saarotsos[/b] (/ˈsɑː.roʊt.sɔs/), whose name in the tongue of the ancients means [i]“sacred-blooded,”[/i] are a race hewn from fire and remembrance. Tall they stand, clad in scale that gleams like hammered bronze and dusk-lit emerald. Their eyes are coals that never cool, and their horns rise in spirals like ancient runes half-forgotten by the world. Few among the mortal races look upon them without a shiver, for they carry in their bearing the hush of old power.[/p][/left]\r\n[p][/p]\r\n[p]But fire alone does not make one Saarotsos.[/p]\r\n[p]Among their kind, birth is but the casting of a vessel. Flesh must house more than bone and breath — it must house @[Kori](Article:ed668ff5-b13f-4067-9ee5-bba19b8fe841), the Flame Within, the silent ember that waits behind the heart. Until that ember stirs, a Saarotsos is not counted among the living, nor named, nor mourned if lost. Only upon reaching @[Ko'Gornazil](Article:88ef8e93-4129-4efe-a12a-29d3c4c512af), the second stir of the Inner Flame, does a hatchling begin to [i]become[/i]. And it is only with @[Ko'Wokazil](Article:25266614-b7a1-4e9d-bf9c-9da77283ae73), when the spark becomes fire and will takes shape, that one is recognized as kin.[/p]\r\n[p]Their laws do not measure coin, nor blood-right, nor conquest. They measure [i]burn[/i]. The depth of it. The purity. How brightly it speaks of the soul beneath scale. Theirs is a society of trials, of silence, of watching. Rites are not written but felt, and names are not given — they are [i]earned[/i] in flame.[/p]\r\n[p]Yet for all their mysticism, the Saarotsos are a martial people, born to strength and tempered in conflict. Their citadels — great towers of obsidian stone and enchanted bronze — rise across the western reaches of @[Silgolt](Article:5fba9363-1980-4fb6-a4f0-e2fcef910377), testament to their mastery of architecture and arcane craft. Each stronghold is ruled by a [b]Dovjun[/b], a Dragonlord of proven flame and might, whose authority is both spiritual and absolute.[/p]\r\n[p]These Dovjun convene in the [b]Dovahrein[/b], a high council whose word shapes the course of all Saarotsos kin. While each city guards its own rites and banners, it is the council’s voice that echoes across the continent when war stirs or destiny calls.[/p]\r\n[p][/p]",
+    "author": {
+        "id": "55c968f3-82a0-4acf-971e-6dc4164d9531",
+        "title": "slemme",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "https://www.worldanvil.com/author/slemme",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "9852ad85-4b3c-4744-9e5f-025755be8b7d",
+        "title": "Dragonbrood (Dovagoraan)",
+        "slug": "dragonbrood-28dovagoraan29-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "ra ra-dragon-wing",
+        "url": "https://www.worldanvil.com/w/nixxia-slemme/c/dragonbrood-28dovagoraan29-category",
+        "subscribergroups": [
+            {
+                "id": "314300fc-d4c6-4472-a987-1ddc66cd1576",
+                "title": "Friends",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": null,
+        "tags": null,
+        "updateDate": {
+            "date": "2025-06-24 08:59:19.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "world": {
+        "id": "3bb21e6d-c322-4fc6-b444-40d355e70c3e",
+        "title": "Nixxia",
+        "slug": "nixxia-slemme",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/nixxia-slemme",
+        "subscribergroups": [
+            {
+                "id": "314300fc-d4c6-4472-a987-1ddc66cd1576",
+                "title": "Friends",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-12-18 14:12:56.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleParent": null,
+    "cover": {
+        "id": 1261036,
+        "title": "Sahrotsos-Banner.jpg",
+        "slug": null,
+        "state": "private",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://www.worldanvil.com/uploads/images/c57714d898d1256d922b152af79d2222.jpg",
+        "subscribergroups": [],
+        "folderId": "c5c6c323-4de7-47d1-b141-f6823e6342b8",
+        "tags": null,
+        "updateDate": {
+            "date": "2025-11-10 13:26:22.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "coverSource": "Species",
+    "pronunciation": null,
+    "snippet": null,
+    "seeded": "",
+    "sidebarcontent": null,
+    "sidepanelcontenttop": "[img:6644964|none]\n[p][/p]\n",
+    "sidepanelcontent": null,
+    "sidebarcontentbottom": null,
+    "footnotes": null,
+    "fullfooter": null,
+    "authornotes": null,
+    "scrapbook": null,
+    "credits": null,
+    "displaySidebar": true,
+    "articleNext": "9cf9a02f-4d2b-4d18-bf02-b09445a0e4ae",
+    "articlePrevious": "fae70045-c0b0-4542-ab4f-8de5aecc4844",
+    "timeline": null,
+    "prompt": null,
+    "gallery": null,
+    "block": null,
+    "orgchart": null,
+    "showSeeded": false,
+    "webhookUpdate": false,
+    "communityUpdate": false,
+    "commentPlaceholder": null,
+    "passcodecta": null,
+    "metaTitle": null,
+    "metaDescription": null,
+    "subheading": "SÂROTSOS",
+    "coverIsMap": false,
+    "isFeaturedArticle": false,
+    "isAdultContent": false,
+    "isLocked": false,
+    "allowComments": true,
+    "allowContentCopy": false,
+    "showInToc": true,
+    "isEmphasized": false,
+    "displayAuthor": false,
+    "displayChildrenUnder": true,
+    "displayTitle": true,
+    "displaySheet": true,
+    "badge": null,
+    "editURL": "https://www.worldanvil.com/world/species/82876be9-27ce-4020-a85c-85952839c886/edit",
+    "trinominal": "Dovahsos Vahzahdov",
+    "ancenstry": null,
+    "lifespan": "140 years",
+    "anatomy": "[p]Saarotsos possess a formidable and regal physiology befitting their draconic heritage. Standing between 1.9 and 2.3 meters tall, they are built for both power and grace, with muscular frames sheathed in scale that ranges from lustrous obsidian to weathered bronze and deep jade. Including their long, tapering tails — which serve as both counterbalance and weapon — they measure between 2.6 and 3 meters in length. Their average mass ranges from 98 to 130 kilograms, most of it dense muscle and reinforced bone.[/p]\r\n[p]Each Saarotsos bears four limbs: two powerful legs built for endurance and sudden bursts of speed, and two arms capable of great dexterity and crushing strength. Their skeletal structure is reinforced with interlocking plates and high-density marrow, offering resistance to blunt force and extreme heat. Their hands end in talons, retractable to allow for both tool use and combat, while their digitigrade feet lend them a distinctly predatory gait.[/p]\r\n[p]The skull is crowned with a pair of sweeping horns, their shape and size varying by lineage. Their eyes, slit-pupiled and reflective, are capable of infrared sensitivity and are adapted to both nocturnal and subterranean conditions. Internally, Saarotsos lungs are bifurcated and hyper-efficient, enabling sustained physical exertion in high-altitude or toxic environments — a trait retained from their dragon ancestry.[/p]\r\n[p]Though wingless, some Saarotsos bloodlines retain vestigial spinal ridges or membrane traces, remnants of ancient ancestry. Their voices are deep and resonant, often likened to choral bellows, and their breath carries an undertone of sulfur and stone — a subtle reminder of the fire slumbering within.[/p]\r\n[p]Their average lifespan is approximately 140 years, though exceptional individuals who burn with clarity and discipline have been known to reach beyond this span, their bodies sustained by the steady harmony of their Kori.[/p]\r\n[p][/p]",
+    "perception": "[p]Saarotsos possess a refined suite of sensory tools honed by millennia of survival and war. Their vision is among the most advanced in mortal species, capable of perceiving not only a broad range of colors but also infrared heat signatures. This grants them the ability to track prey or threats through smoke, darkness, and even behind cover, their slit pupils adjusting rapidly to changes in light.[/p]\r\n[p]Their hearing, though not as finely tuned as their vision, is nonetheless keen. They are sensitive to low-frequency vibrations and infrasonic rumbling — particularly useful in seismic regions or during underground travel. Many Saarotsos warriors have been trained to listen for the breathing patterns of their foes or the subtle shift of a blade drawn in silence.[/p]\r\n[p]Olfactory sense is likewise heightened, with nasal receptors adapted to chemical and pheromonal cues. The scent of blood, fear, or sulfur carries more than physical meaning for them — it can signal mood, intent, or latent magic.[/p]\r\n[p]More esoteric is their [b]Koric awareness[/b] — an extrasensory perception born from their affinity with the Flame Within. Those who have awakened their Kori may feel the emotional turbulence of nearby beings, sense the presence of life even through stone, or instinctively respond to invisible threats. It is not telepathy, but a resonance of will, akin to feeling the pressure of heat before flame.[/p]\r\n[p]Saarotsos do not possess echolocation or overt psionic abilities, but their deep-rooted connection to the fabric of the world through Kori gives them a sixth sense — one that has made them notoriously difficult to ambush and impossible to truly deceive.[/p]\r\n[p][/p]",
+    "genetics": "[p]Saarotsos reproduce sexually and are oviparous, laying clutches of large, leathery-shelled eggs after an extended internal gestation period. Conception is rare and significant; fertility among Saarotsos is naturally low, with successful clutches often spaced many years apart. A typical clutch consists of two to five eggs, each incubated over the course of approximately eight to nine months in communal hatcheries known as [b]Kavahls[/b], which are kept warm by volcanic heat, geothermal chambers, or flamebinding rituals.[/p]\r\n[p]The eggs themselves are considered sacred — not only as vessels of blood, but of fire. Each is etched with sigils by attending flamekeepers, who oversee the gestation and determine the precise moment of awakening. Upon hatching, the young emerge fully limbed and scaled, though smaller and softer than adults, and their Kori remains dormant.[/p]\r\n[p]Saarotsos exhibit strong sexual dimorphism. Males are generally larger, broader of shoulder, and possess heavier horns and bone crests, while females are more compact, agile, and bear sharper claws and sensory ridges. While both sexes are equally capable in combat, their physical distinctions often shape different roles in ceremonial, military, or spiritual traditions.[/p]\r\n[p]Genetically, Saarotsos exhibit remarkable consistency across generations, preserving traits such as scale coloration, horn shape, and flame resonance within distinct bloodlines. Lineage is recorded through living memory, oral tradition, and the branded flame-marks of one’s [b]Vokariin[/b] — a sigil of heritage that appears along the inner arm upon one’s awakening.[/p]\r\n[p]Rarely, a clutch may produce a [b]Lokraasos[/b] — a winged Skyborn of divine bearing. These beings are regarded not as mere variants, but as omens of celestial favor. Typically born singly or as one of two eggs in a clutch, their arrival is heralded by ritual and prophecy. The birth of a Lokraasos is considered a sacred event, marking the clutch as blessed and the bloodline as spiritually significant.[/p]\r\n[p]Crossbreeding with other Dovagoraan species is exceedingly rare and, when it occurs, often results in infertile offspring or children born without the capacity to awaken Kori. Such children, though not ostracized, are regarded as [i]dim-blooded[/i], and their place in society remains ambiguous.[/p]\r\n[p][/p]",
+    "ecology": null,
+    "diet": null,
+    "domestication": null,
+    "uses": null,
+    "biocycle": null,
+    "growthrate": "[p]Saarotsos hatchlings emerge from their leathery eggs after an incubation period of eight to nine months, measuring approximately 0.6 meters in length. During the first five years, growth is rapid as the skeletal frame ossifies and the dermal armor begins to thicken. Muscle density increases substantially by age 10, and their tails elongate proportionally to balance the developing torso.[/p]\r\n[p]From age 10 to 30, growth slows into a steady pace. During this juvenile phase, the horns begin to take their definitive shapes, secondary sexual characteristics emerge, and the lungs and heart expand to their mature configurations. Sensory organs — particularly the eyes and nasal structures — undergo refinement, granting the young Saarotsos their heightened perception.[/p]\r\n[p]Full physical maturity is generally achieved by age 30, though variations occur depending on genetics and environmental factors. Mental development continues in parallel, with most individuals reaching peak cognitive function between 40 and 60 years of age. Barring injury or disease, physical capability remains stable until approximately age 110, after which signs of biological decline — such as reduced regeneration and decreased muscle responsiveness — gradually begin to manifest.[/p]\r\n[p]By age 140, the Saarotsos approaches the natural end of their lifespan. However, individuals with exceptional mastery over their Kori often show delayed senescence, maintaining vitality decades beyond expectation. Aging Saarotsos exhibit thickened scale layers, dulled horn edges, and subtle darkening of their skin hue.[/p]\r\n[p]Unlike many species, the Saarotsos do not experience metamorphic transformations or puberty-like phase shifts. Their growth is continuous, governed by a slow-burning metabolism and a rigid developmental blueprint that favors resilience over rapid adaptation.[/p]\r\n[p][/p]",
+    "symbiotic": null,
+    "isSentient": false,
+    "isIntelligent": false,
+    "geographicalOrigin": "They live in the eastern part of the continent of Silgolt.",
+    "averageIntelligence": "Their average intelligence lies above that of the average human.",
+    "averagePhysique": "They usually posses a sturdy build. Their backs are covered in colourful scales, while their chests are covered in smooth but thick skin.",
+    "facialCharacteristics": null,
+    "skinHairColor": "The colouration and pattern of the scales varies between individuals, but the colours tend to be rather intense.",
+    "traits": null,
+    "averageHeight": "1.9 - 2.3m",
+    "averageWeight": "98 - 130kg",
+    "averageLength": "2.6 - 3.0m",
+    "namingTraditions": null,
+    "firstnamesMale": null,
+    "firstnamesFemale": null,
+    "lastnames": null,
+    "majorReligions": null,
+    "majorOrganizations": null,
+    "beautyIdeals": null,
+    "genderIdeals": null,
+    "courtshipIdeals": null,
+    "relationshipsIdeals": null,
+    "technologicalLevel": null,
+    "languages": null,
+    "etiquette": null,
+    "dresscode": null,
+    "culture": null,
+    "customs": null,
+    "taboos": null,
+    "history": null,
+    "socialstructure": "[p]In the current age — the Sixth Age of Nixxia — the Saarotsos are unified under the banner of the Revakgol Empire, a vast dominion born of flame and forged by conquest. Though their citadels retain local traditions and rulers, all Dovjun now swear fealty to the imperial throne. The Dovahrein, once a loose assembly of equals, now functions as the empire’s high council, executing the will of the Emperor of Revakgol — himself traditionally a Saarotsos of unmatched burn, chosen through trial and acclaim.[/p]\r\n[p]Saarotsos society is highly stratified, its structure forged in equal parts by bloodline, personal achievement, and mastery of Kori. At the apex stands the [b]Dovahrein[/b], a high council of the most powerful and spiritually attuned leaders — each one a [b]Dovjun[/b], ruling from their citadel-thrones. These leaders are typically drawn from hereditary lines, with succession passing through clan lineage — but the right to rule may be challenged during the time of ascension. Such challenges, often decided by trial, duel, or public demonstration of flame, ensure that unworthy heirs cannot ascend unopposed.[/p]\r\n[p]Each citadel or city-state operates as an autonomous domain under its Dovjun, who oversees everything from military decisions to religious rites. While differences in regional culture exist, all Saarotsos recognize the supremacy of the Dovahrein during times of war, great ritual, or crisis.[/p]\r\n[p]Below the Dovjun are the [b]Tufae[/b] — warrior-champions, generals, and flamepriests who guide civic life and martial training. They act as advisors, enforcers, and keepers of the sacred flame. Among them are the [b]Kovahiil[/b], spiritual interpreters of the Kori who mediate both personal and societal matters.[/p]\r\n[p]The majority of Saarotsos citizens belong to the [b]Yol'Tikjootuz[/b] (lit. [i]fire-sworn[/i]) — artisans, soldiers, hunters, and scholars who have awakened their flame and earned a place in the greater chorus of society. Only upon reaching [b]Ko'Wokazil[/b] is one considered a person under law, and granted the right to bear their clan’s name and crest, making the Yol'Tikjootuz a society not of birthright but of earned identity.[/p]\r\n[p]Those who have not yet awakened their Kori, known as [b]Wek'Kirii[/b] (lit. [i]Blind Children[/i]), live lives of service and observation. Though not dishonored, they are given no surname, no crest, and no voice in civic deliberation. Some choose exile. Others become silent flamekeepers, tending the halls of the dead or guiding eggs within the Kavahls.[/p]\r\n[p]At the margins of all are the [b]Lokraasos[/b], rare and revered. Winged and divine, they move above the stratified hierarchy, serving as emissaries of the divine will and arbiters between citadels. Their word is not law — but it is [i]always[/i] heard.[/p]\r\n[p]Clan and bloodline do still hold sway, particularly in matters of matchmaking, trade, and ancient honor feuds, but they do not override the one true measure of standing: the brightness of one’s flame. In Saarotsos society, the path to greatness is open to any who dare to burn.[/p]\r\n[p][/p]",
+    "mythsAndLegends": null,
+    "historicalFigures": null,
+    "interspeciesRelations": null,
+    "isExtinct": false,
+    "conservation": null,
+    "behaviour": null,
+    "datasheet": null,
+    "people": [
+        {
+            "id": "a97217fa-075b-4e89-8197-3269658cad80",
+            "title": "Kaemisyol",
+            "slug": "kaemisyol-article",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/nixxia-slemme/a/kaemisyol-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-11-10 13:28:29.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "relatedHistories": [
+        {
+            "id": "bd240c4a-61bb-4222-ae88-d0281d79542c",
+            "title": "The Empire of Revakgol",
+            "slug": null,
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "HistoricalEntry",
+            "icon": "fa-solid fa-calendar-lines-pen",
+            "url": "https://www.worldanvil.com/w/nixxia-slemme/h/bd240c4a-61bb-4222-ae88-d0281d79542c",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-05-01 22:47:40.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "discoverer": null,
+    "parents": [
+        {
+            "id": "23315d21-2cac-45c5-8f5c-acd925c48818",
+            "title": "Dragons",
+            "slug": "dragons-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/nixxia-slemme/a/dragons-species",
+            "subscribergroups": [],
+            "folderId": "e05535e6-a6b2-4a84-a713-057f427aca51",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-30 09:26:05.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "children": [
+        {
+            "id": "fae70045-c0b0-4542-ab4f-8de5aecc4844",
+            "title": "Aedhelirsos",
+            "slug": "aedhelirsos-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/nixxia-slemme/a/aedhelirsos-species",
+            "subscribergroups": [],
+            "folderId": "248d304d-56a2-4f18-bf85-005d15049046",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-05-17 19:15:23.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "35845ac5-c81d-4362-962d-51b2dbcd35c9",
+            "title": "Lokraasos",
+            "slug": "lokraasos-species",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/nixxia-slemme/a/lokraasos-species",
+            "subscribergroups": [
+                {
+                    "id": "314300fc-d4c6-4472-a987-1ddc66cd1576",
+                    "title": "Friends",
+                    "slug": null,
+                    "state": null,
+                    "entityClass": "SubscriberGroup",
+                    "icon": null,
+                    "url": null,
+                    "subscribergroups": []
+                }
+            ],
+            "folderId": "248d304d-56a2-4f18-bf85-005d15049046",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-05-17 19:27:28.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "locations": [
+        {
+            "id": "b1397da3-e08b-4529-a23c-8a4a8cd16089",
+            "title": "Eastern Silgolt",
+            "slug": "eastern-silgolt-location",
+            "state": "private",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Location",
+            "icon": "fa-solid fa-mountain",
+            "url": "https://www.worldanvil.com/w/nixxia-slemme/a/eastern-silgolt-location",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2025-05-07 14:03:27.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "relatedOrganizations": [
+        {
+            "id": "8f205df9-b160-479b-bbc6-e5fb0efb9943",
+            "title": "Empire of Revakgol",
+            "slug": "empire-of-revakgol-organization",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/nixxia-slemme/a/empire-of-revakgol-organization",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2025-05-11 20:19:08.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "16d199c7-3d11-4f6b-a4ef-f3d6d8630dea",
+            "title": "The Dragon Gods - Firraaii",
+            "slug": "the-dragon-gods---firraaii-organization",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/nixxia-slemme/a/the-dragon-gods---firraaii-organization",
+            "subscribergroups": [],
+            "folderId": "31682838-08fe-400e-9457-9f5febef05cc",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-05-06 11:35:59.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "isEditable": true,
+    "success": true
+}
