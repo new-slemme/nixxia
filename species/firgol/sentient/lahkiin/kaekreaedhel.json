@@ -1,0 +1,126 @@
+"Kaekreaedhel": {
+      "english": "Twisted Elves",
+      "sigtaara": "KÄKREÄdhel",
+      "native_name": "Kaekreaedhel",
+      "kingdom": "Firgolkys (Material Realm Beings)",
+      "phylum": "Yoosaanuri (Arcane Vertebrates)",
+      "class": "Duwanihii (Mammals)",
+      "order": "Ursgizil (Humanoids)",
+      "family": "Hadrimkirii (Mind Children)",
+      "genus": "Aedhelkys (Elf Family)",
+      "species": "Kaemisaedhel",
+      "species": "Taaltihae",
+      "created_in_age": "fourth_age",
+      "genetic_ancestors": [
+        "Kaemisaedhel"
+      ],
+      "origin": "Arcane manipulation by Kaelotaedhel upon Kaemisaedhel kin",
+      "home_continent": "Siniath",
+      "geographic_distribution": [
+        "Siniath",
+        "Silgolt"
+      ],
+      "artificial": true,
+      "hybrid": false,
+      "culture": {
+        "origin": "Forged through magical experimentation as a servitor race by the High Elves, then broken free over centuries of struggle.",
+        "social_structure": "Organized in flexible, role-based circles (enclaves) emphasizing mutual reliance, oath-pacts, and consensus over centralized authority. Elders and war-leaders are chosen by merit and magical strength.",
+        "traditions": {
+          "body-warping rituals": "Voluntary Kori or magical transformations to assert identity or adapt purpose.",
+          "scarring and rune-marking": "Bodies serve as canvases—scars, sigils, tattoos, and arcane birthmarks record both pain and reclamation.",
+          "echo-hunts": "Collective trance-hunts to seek ancestral memory or break remaining magical chains."
+        },
+        "beauty_ideals": "Strength, scars, polished horns, arcane markings, and bearing under pressure. Survival-shaped faces and bodies are revered.",
+        "gender_ideals": "Modern enclaves scorn the imposed gender roles of their slavery era; capability is all that matters. Gender is fluid or ignored.",
+        "relationship_ideals": "Alliances built on shared hardship, trust, and oath. Romance is private, long partnerships are forged in survival, not fantasy.",
+        "taboos": [
+          "Serving a Kaelotaedhel willingly",
+          "Imprinting or magically subjugating another Kaekreaedhel",
+          "Breeding rituals, memory manipulation"
+        ],
+        "exploitation_history": [
+          "Once used as magical test subjects, laborers, warriors, and sources of arcane material by their creators. Modern enclaves fiercely guard their autonomy."
+        ],
+        "related_organizations": [
+          "Empire of Revakgol"
+        ]
+      },
+      "traits": {
+        "appearance": "Tall (2–2.3m), muscular, broad-shouldered, with horned skulls (ram, spiral, or forward), red to rose skin (often iridescent, rune-lined, and marked by birth glyphs). Clawed hands/feet, glowing eyes (red, amber, violet), severe elven features.",
+        "magical_style": "Innate resistance to magic, bloodline-based thaumic conduits. Adapt quickly to high-magic environments. Skilled in blood magic, resilience, and arcane disruption.",
+        "lifespan": "Approx. 250 years (shorter than High Elves, longer than most mortals).",
+        "physiology": {
+          "skeleton": "Dense, reinforced, pronounced spinal curve for horn support.",
+          "musculature": "Layered, enduring, optimized for labor and conflict.",
+          "horns": "Grown from brow/temple, used for combat and as magical foci.",
+          "skin": "Deep crimson to pale rose, iridescent, bearing sigils/glyphs.",
+          "hands": "Long-fingered, clawed for strength and dexterity.",
+          "joints": "Hyper-flexible, resilient.",
+          "thaumic_conduits": "Arcane channels in nerves and veins, enable magical resistance/adaptation.",
+          "reproductive_organs": "Females have dual wombs for simultaneous or staggered pregnancies.",
+          "average_height": "2–2.3m",
+          "average_weight": "70–90kg"
+        },
+        "reproduction": {
+          "method": "Sexual",
+          "fertility": "Triggered by population strain, magical scarcity, or trauma. Dual wombs in females allow for two simultaneous pregnancies (one rapid, one stasis).",
+          "inheritance": "Arcane traits pass almost unchanged. Mixed unions tend to produce Kaekreaedhel-dominant children.",
+          "development": "Children born with horn buds, glowing eyes, early magical awareness. Rapid growth: adolescence by 10, full maturity by 35."
+        },
+        "growth": {
+          "childhood": "0–10 years; short, focused on survival, resilience, and pain resistance.",
+          "adolescence": "10–35 years; horn growth completes, magical aptitude emerges, prime for labor or combat.",
+          "adulthood": "35–180 years; physical, magical, and mental prime. Most productive and capable.",
+          "elderhood": "180–250 years; arcane fatigue shows (dulling horns, less skin luster, waning senses). Most die by battle or choice, not age."
+        },
+        "body_coloring": "Red to dusky rose, iridescent shimmer. Rune-like markings can shift or glow with emotion/magic."
+      },
+      "intelligence": {
+        "average": "Slightly below other elves (a legacy of imposed constraints), but highly adaptive, tactical, and precise. Abstract reasoning/innovation is possible, but usually driven by discipline or direct need."
+      },
+      "senses": {
+        "sight": "See in total darkness, glowing eyes can perceive magic and auras.",
+        "hearing": "Exceptional; can isolate frequencies, track whispers/heartbeats.",
+        "smell": "Can detect blood, rot, magical residues (glyphs, spellwork).",
+        "touch": "Sensitive; clawed fingers and taloned feet provide surface feedback.",
+        "echolocation": "Clicks/throat sounds create mental map up to 30m radius.",
+        "arcane/empathic_sense": "Detect magical pressure, presence of spellcasters, and surface emotions. Useful for magical reconnaissance and empathy, but overwhelming in magical storms."
+      },
+      "controversies": [
+        "Legacy as an artificially created servitor race.",
+        "Ongoing prejudice from other elves and mortals.",
+        "Suspected formation of hidden 'Kori-broods' to reshape future elvenkind.",
+        "Black market for their arcane tissue persists in some regions."
+      ],
+      "lore": {
+        "origin_myth": "Created through betrayal and arcane manipulation by the Kaelotaedhel. Freed themselves by gradual erosion of magical bonds rather than outright war.",
+        "core_legends": [
+          "The First Unbinding: A Kaekreaedhel slave threw their master from a living-glass tower, sparking revolt.",
+          "The Silent Matron: Mythical fugitive who bore twins and founded a new lineage in exile."
+        ]
+      },
+      "taboos": [
+        "Serving a Kaelotaedhel willingly",
+        "Imposing magical chains or breeding rituals upon their own kind",
+        "Manipulation of memory or identity, even with consent"
+      ],
+      "relationships": {
+        "Kaelotaedhel": "Hatred, unforgiving, often violent on contact.",
+        "Kaemisaedhel": "Reverence and remembrance; kinship for what was lost.",
+        "Zaetaedhel": "Indifference; seen as irrelevant or soft.",
+        "Non-elves": "Vary between uneasy alliance (with outcasts or sorcerers) and isolationism."
+      },
+      "habitat": [
+        "Hidden enclaves in Siniath and Silgolt, deep forests, ruins, underground"
+      ],
+      "related_species": [
+        "Kaemisaedhel",
+        "Kaelotaedhel"
+      ],
+      "notable_magic": [
+        "Blood magic",
+        "Magical resistance/disruption",
+        "Arcane adaptation",
+        "Echo magic"
+      ]
+    }
