@@ -1,0 +1,391 @@
+"Saarotsos":{
+						"english":"Saarotsos",
+						"sigtaara":"SÂROTSOS",
+						"native_name":"Saarotsos",
+						"family":"Kaesendova",
+						"genus":"Dovahsos",
+						"species":"Vahzahdov",
+						"appeared_in_age":"second_age",
+						"genetic_ancestors":[
+							"Dragons"
+						],
+						"genetic_descendants":[
+							"Aedhelirsos",
+							"Lokraasos"
+						],
+						"origin":[
+							"Eastern Silgolt"
+						],
+						"home_continent":"Silgolt",
+						"geographic_distribution":[
+							"Eastern Silgolt"
+						],
+						"magical_affinity":[
+							"Kori"
+						],
+						"hybrid":false,
+						"artificial":false,
+						"culture":{
+							"core_values":[
+								"mastery of the inner flame (Kori)",
+								"strength through trial",
+								"remembrance of bloodline",
+								"honor through achievement, not birth"
+							],
+							"origins":"Forged in the memory of dragons, Saarotsos society is built on the awakening and mastery of Kori, the Flame Within. True personhood is only achieved after spiritual rites—Ko'Gornazil and Ko'Wokazil.",
+							"society":"Stratified yet meritocratic: only those who have awakened their Kori are recognized as full citizens. Martial and mystical, with an emphasis on silent discipline and earning one's name through fire.",
+							"institutions":{
+								"Revakgol Empire":"The current unifying dominion, ruled by an Emperor chosen by trial and acclaim among the Dovjun.",
+								"Dovahrein":"High council of Dovjun (Dragonlords) from each citadel, whose collective voice determines imperial law, war, and ritual.",
+								"Kavahl":"Communal hatcheries where eggs are incubated and watched by flamekeepers."
+							},
+							"social_structure":"Hierarchical yet based on achieved burn rather than mere inheritance. Dovjun (rulers), Tufae (warrior-champions/flamepriests), Yol'Tikjootuz (the fire-sworn populace), and Wek'Kirii (the 'blind' pre-Kori young). Lokraasos (rare winged) stand outside standard ranks.",
+							"traditions":{
+								"Kori Trials":"Rites marking the stirrings and awakenings of the Inner Flame, which define stages of personhood.",
+								"Naming":"Names are only earned, never given at birth—awarded after passing Ko'Wokazil.",
+								"Flame-marks":"Living sigils of lineage and accomplishment, appearing on the inner arm upon awakening.",
+								"Clan Trials":"Lineage and bloodline rites, including trial by flame or duel for succession."
+							},
+							"beauty_ideals":[
+								"Burning eyes, vivid scale pattern, prominent horns, and bearing that reveals disciplined will. Stature, endurance, and the clarity of one’s 'burn' are admired."
+							],
+							"gender_roles":{
+								"male":[
+									"Generally larger, broader, with heavier horns. Take on ceremonial, martial, and architectural roles; often rule as Dovjun."
+								],
+								"female":[
+									"More compact, agile, with sharper claws and sensory ridges. Common among spiritual guides, flamekeepers, and tacticians."
+								]
+							},
+							"relationship_ideals":"Bonds are formed by shared trial, proven loyalty, and compatibility of flame. Romantic unions are sacred, but always subordinate to the needs of clan and Empire.",
+							"taboos":[
+								"Bearing a name without earning it",
+								"Failing to awaken Kori",
+								"Disrespecting one’s flame or that of another",
+								"Killing a Lokraasos"
+							],
+							"xenophobia":"Cautious and proud, but not isolationist—outsiders are judged by strength and flame, not birth.",
+							"influence":"Empire of Revakgol, Dovahrein, strong architectural and arcane presence across Silgolt.",
+							"notable_events":[
+								"Unification under Kaemisyol",
+								"Birth of the Revakgol Empire",
+								"First appearance of Lokraasos",
+								"Rise of the Dovahrein"
+							],
+							"related_organizations":[
+								"Empire of Revakgol",
+								"The Dragon Gods - Firhohii"
+							]
+						},
+						"traits":{
+							"appearance":"Tall (1.9–2.3m), robust, muscular, covered in bronze, emerald, or obsidian scales. Long tails (2.6–3m total length), spiral horns, burning slit-pupiled eyes, and distinct draconic features. Deep, resonant voices.",
+							"magical_style":"Kori (the Inner Flame): spiritual, will-based magic. All arts, rituals, and even law revolve around the mastery of this innate power.",
+							"lifespan":"Approx. 140 years (longer in rare cases of disciplined Kori).",
+							"physiology":{
+								"skeleton":"Dense, interlocking plates; reinforced marrow; robust cranial horns.",
+								"musculature":"Powerful, long, endurance-optimized; suited for sudden bursts and long conflict.",
+								"respiration":"Bifurcated, highly efficient for heat and toxin resistance.",
+								"circulation":"",
+								"dermal":"Colorful, armored scales (bronze, obsidian, jade); chest is thick, smooth skin.",
+								"hair":"",
+								"senses":[
+									"Infrared vision"
+								],
+								"adaptations":[
+									"Resistance to heat/blunt force",
+									"Vestigial ridges or membrane traces in some lineages"
+								]
+							},
+							"reproduction":{
+								"method":"Sexual, oviparous (eggs)",
+								"cycle":"Low fertility; clutches of 1-2 eggs, laid after long gestation.",
+								"gestation":"",
+								"development":"Rapid growth (0–5 years), ossification and scale thickening; horns and secondary traits emerge by 10–30 years.",
+								"courtship":"",
+								"interbreeding":"Rare with other Dovagoraan; offspring often infertile or Kori-dormant ('dim-blooded').",
+								"cultural_influence":"Eggs incubated in communal, flame-warmed Kavahls. Flamekeepers oversee hatching and perform rites."
+							},
+							"growth":{
+								"infancy":"",
+								"childhood":"",
+								"adolescence":"",
+								"adulthood":""
+							},
+							"growth_rate":"Continuous, resilience-oriented; no abrupt puberty/metamorphosis.",
+							"sexual_dimorphism":"Males: larger, heavier horns; Females: sharper claws, sensory ridges."
+						},
+						"intelligence":{
+							"type":"Strategic, contemplative, martial and mystical.",
+							"strengths":[
+								"Martial and architectural innovation",
+								"Spiritual discipline",
+								"Collective memory (oral tradition, flame-marks)"
+							],
+							"learning_style":"Trial, challenge, oral lore, and direct apprenticeship.",
+							"comparison_to_human":"Above human average; strong pattern-recognition and emotional self-control."
+						},
+						"controversies":[
+							"Strict meritocracy leaves Wek'Kirii in social limbo.",
+							"Occasional clan feuds, dueling, and succession trials turn bloody.",
+							"Ambiguous treatment of 'dim-blooded' crossbreeds.",
+							"Intimidating rites and law to outsiders."
+						],
+						"lore":{
+							"origin_myth":"Born of fire and remembrance, Saarotsos claim descent from dragons—their flame is legacy, not accident. Each must awaken Kori to become truly alive.",
+							"founders":[
+								"First Dovjun",
+								"Kaemisyol (the Conqueror)"
+							],
+							"core_legends":[
+								"The First Awakening of Kori",
+								"Unification under Revakgol",
+								"The Divine Birth of a Lokraasos"
+							],
+							"taboos":[
+								"Dilution of bloodline",
+								"Betrayal of kin or tradition",
+								"Uttering private names to outsiders",
+								"Refusing funerary rites"
+							]
+						},
+						"habitat":"Citadels and cities of obsidian and bronze in eastern Silgolt; volcanic and mountainous regions.",
+						"distribution":[
+							"Eastern Silgolt"
+						],
+						"related_species":[
+							"Lokraasos",
+							"Aedhelirsos",
+							"Dragons"
+						],
+						"notable_magic":[
+							"Kori (Innate Flame Magic)",
+							"Flamebinding",
+							"Sacred Rites of the Dovahrein"
+						],
+						"related_organizations":[
+							"Empire of Revakgol",
+							"The Dragon Gods - Firhohii"
+						],
+						"subspecies":{
+							"Lokraasos":{
+								"english":"Skylords",
+								"sigtaara":"LOKRÂSOS",
+								"native_name":"Lokraasos",
+								"family":"Kaesendova",
+								"genus":"Dovahsos",
+								"species":"Nehylkaa",
+								"appeared_in_age":"second_age",
+								"genetic_ancestors":[
+									"Saarotsos"
+								],
+								"genetic_descendants":[
+									
+								],
+								"home_continent":"Silgolt",
+								"geographic_distribution":[
+									"Eastern Silgolt"
+								],
+								"magical_affinity":[
+									"Kori"
+								],
+								"hybrid":false,
+								"artificial":false,
+								"culture":{
+									"role":[
+										"divine heralds",
+										"arbiters in faith, prophecy, and destiny",
+										"emissaries above the clan hierarchy"
+									],
+									"status":"Always female, always singular, never born in pairs or by design. Their appearance is an omen and a cause for ritual and silence.",
+									"reverence":"Held apart, not above, the Saarotsos hierarchy. Their counsel is heeded by all citadels; armies march or halt by their silent nod.",
+									"courtship":"No formal courtship—bonds, if they form, are private and based on emotional resonance, never legacy.",
+									"relationship_ideals":"Lifelong, solemn, rare attachments. Loyalty is sacred; betrayal is unforgettable.",
+									"taboos":[
+										"Falsely claiming Lokraasos identity (punishable by exile or death)",
+										"Touching wings without permission",
+										"Invoking status for personal gain",
+										"Speaking false prophecy or mimicking ritual"
+									],
+									"mythmaking":[
+										"Every Lokraasos becomes legend in her time—her words recorded, her presence shaping fate, her deeds woven into oracles and visions."
+									],
+									"related_organizations":[
+										"Empire of Revakgol",
+										"The Dragon Gods - Firraaii"
+									]
+								},
+								"traits":{
+									"appearance":"Tall (1.9m), sleek but powerful, with prehensile, serpent-like hair, metallic-black skin (bronze, ash, obsidian), and vast membranous wings (8m span). Eyes glow copper, crimson, or gold; expressions serene but intense.",
+									"physique":"Hexalimbic: 2 legs, 2 arms, 2 massive wings. 2.7m total length (with tail). Superior endurance, agility, and coordination. Prehensile tail for balance and combat.",
+									"wings":"Muscular, flight-adapted, veined with flame-fed blood. Membranes shimmer with iridescence and change hue with mood or light.",
+									"musculature":"Dense and elegant, especially in pectoral/dorsal regions to anchor flight motion. Legs digitigrade, ending in talons.",
+									"scales":"Armored, metallic, iridescent. Vein-like markings and arcane script may appear over time.",
+									"hair":"Serpentine, prehensile, and subtly emotive.",
+									"sensory_organs":{
+										"vision":"Unparalleled: panoramic, focal, and magical sight. See movement over leagues, track heat, and perceive magical residue.",
+										"hearing":"Highly tuned for distance, wind, and subtle air pressure shifts.",
+										"smell":"Maps scents to emotion/magic; tongue detects poisons and arcane volatility.",
+										"extrasensory":"Acute Koric resonance—feels the inner flame and emotion in others as warmth, pressure, or rhythm. Not true telepathy, but a supernatural empathy."
+									}
+								},
+								"reproduction":{
+									"method":"Born spontaneously, always female, always alone. Never planned or inherited.",
+									"egg":"Develops from an ordinary Saarotsos egg under mysterious conditions—egg darkens, heats, and glows as Lokraasos forms.",
+									"incubation":"10 months (longer than normal), marked by maternal Koric resonance and dreams.",
+									"fertility":"Lokraasos cannot reproduce their kind; no Lokraasos has ever laid an egg.",
+									"legacy":"Continued through myth, vision, and influence, not blood."
+								},
+								"growth":{
+									"hatchling":"Small, swift growth, wings begin unfurling in weeks.",
+									"juvenile":"By age 2 can glide, by 10 can fly short distances; tail and prehensile hair develop.",
+									"adolescence":"10–30 years; wings, senses, and Koric awareness fully mature. Experiences 'sky-dreams'—visionary trance flights.",
+									"adulthood":"30–35 years; physical and mental maturity, flame stabilizes, full mastery of flight. Cognitive peak at 60–100 years.",
+									"elderhood":"No visible aging until final decades; most live 180 years, sometimes more—often fade from the world at life's end."
+								},
+								"intelligence":{
+									"type":"Extraordinary—rapid spatial reasoning, prophecy, layered memory, philosophical and linguistic insight.",
+									"strengths":[
+										"Pattern recognition",
+										"Magical and aerial navigation",
+										"Reading emotion, wind, and fate"
+									]
+								},
+								"controversies":[
+									"Their mere presence can shift the fate of clans and empires.",
+									"Untouchability and spiritual authority create tension among ambitious Dovjun.",
+									"Attempts to manufacture Lokraasos through magic are viewed as heretical."
+								],
+								"lore":{
+									"origin_myth":"Lokraasos are seen as daughters of the High Flame—a divine interruption, not a planned lineage.",
+									"core_legends":[
+										"Songs of Skylords calming volcanoes, shattering siege-gates, or delivering omens.",
+										"The belief that the sky itself knows their names before birth."
+									],
+									"taboos":[
+										"Falsely claiming to be Lokraasos",
+										"Touching wings uninvited",
+										"Profaning ritual or prophecy"
+									]
+								},
+								"habitat":"Towers, high cliffs, volcanic spires, and open skies above Eastern Silgolt.",
+								"distribution":[
+									"Eastern Silgolt"
+								],
+								"related_species":[
+									"Saarotsos",
+									"Kaemisaedhel",
+									"Dragons"
+								],
+								"notable_magic":[
+									"Koric resonance",
+									"Prophecy (sky-dreams)",
+									"Spiritual guidance"
+								]
+							},
+							"Aedhelirsos":{
+								"english":"Elvenborn (Hybrid)",
+								"sigtaara":"ÄDHeLÍSOS",
+								"family":"Kaesendova",
+								"genus":"Dovahsos",
+								"species":"Aedheldov",
+								"appeared_in_age":"fourth_age",
+								"genetic_ancestors":[
+									"Kaelotaedhel",
+									"Saarotsos"
+								],
+								"genetic_descendants":[
+									
+								],
+								"home_continent":"Silgolt",
+								"geographic_distribution":[
+									
+								],
+								"magical_affinity":[
+									"Tazri",
+									"Kori"
+								],
+								"hybrid":true,
+								"artificial":false,
+								"culture":{
+									"core_values":[
+										"balance between forces",
+										"self-definition through legacy",
+										"honoring ancient echoes"
+									],
+									"society":"Solitary by nature and rare in number: Aedhelirsos are most often found in liminal spaces: high forests, flame-lit caverns, or polyethnic cities. Some serve as emissaries or seers, others as guardians of ancient truths. Their society is loose, woven more by memory and shared ritual than by blood.",
+									"roles":[
+										"emissaries",
+										"seers",
+										"guardians of old truths"
+									],
+									"traditions":{
+										"spellweaving":"Aedhelirsos magic is sung or woven, blending Tazri and Kori in instinctive harmony rather than rigid technique.",
+										"birthsigns":"Those born by magical rite are regarded as sacred extensions of legacy, with their coming often foretold by omens.",
+										"resonance_flares":"Instinctive magical surges, or 'flares,' during adolescence mark the alignment of Kori and Tazri."
+									},
+									"reproduction":{
+										"natural":"Sterile by default due to fundamental incompatibility between elf and dragonkin.",
+										"arcane":"Possible only through deliberate, intense Tazri intervention and perfect Kori-Tazri harmonization. Such births are sacred, rare, and typically mark significant omens or turning points."
+									},
+									"philosophy":"Existence is not inheritance but covenant: a promise to balance what was lost and what can yet be made whole."
+								},
+								"traits":{
+									"appearance":"Elf-like with silvery or pearl-toned skin, subtle scale patterns along the forearms, back, and temples, and eyes that glow faintly gold or emerald. Lithe and graceful, yet bearing a quiet draconic power beneath the surface.",
+									"physique":"Tall and agile (1.8–2.0 m, 65–85 kg), balanced between elven fluidity and dragonborn resilience. Movements are measured and precise.",
+									"magic":"Naturally attuned to both Kori and Tazri—magical expression comes as much from emotion and instinct as from conscious ritual.",
+									"sensory_organs":{
+										"vision":"Rivals elven acuity, but with the added perception of emotion and arcane resonance as color or pattern.",
+										"hearing":"Capable of discerning truth or deception as broken or harmonious tones; can sense the subtle resonance of spellcraft.",
+										"extrasensory":"Their balanced Kori and Tazri allow them to sense magical disturbances, emotional shifts, and changes in weather or fate."
+									}
+								},
+								"reproduction":{
+									"sterility":"Default state—unable to bear children by natural means.",
+									"magical_birth":"Rare, requires powerful ritual and perfect magical balance."
+								},
+								"growth":{
+									"early":"Infants are preternaturally calm and observant, developing agility and verbal skills early (age 6–12).",
+									"adolescence":"Begins near 20, marked by first resonance flares—unique bursts of blended magic. Lasts several decades.",
+									"adulthood":"Full maturity by ~45, emotional and magical balance stabilizes. Lifespan ranges 220–300 years.",
+									"elderhood":"Some dissolve into dust and silence, their body returning to the elements when perfect balance is achieved."
+								},
+								"intelligence":{
+									"type":"",
+									"strengths":[
+										
+									]
+								},
+								"controversies":[
+									"Feared or mistrusted by both parent lineages for their liminal nature.",
+									"Seen as a symbol of dangerous convergence, or of lost unity between elves and dragonborn.",
+									"Their existence challenges the purity doctrines of both High Elves and Saarotsos."
+								],
+								"lore":{
+									"origin_myth":"Aedhelirsos are said to be the last living echoes of the first_age, born where the Hah'Slen and Rúth'Sunvaar once mingled before their fall.",
+									"core_legends":[
+										"Some claim the first Aedhelirsos was born at the twilight of the War of One and All—a living bridge meant to heal the wound between fire and memory.",
+										"Stories tell of those who, at the end of their life, dissolve into starlight and leave only a song or silent echo in their place."
+									],
+									"taboos":[
+										"Revealing the precise rituals used for magical conception to outsiders.",
+										"Using both Kori and Tazri to harm kin—a betrayal seen as a shattering of their very purpose.",
+										"Seeking power for its own sake; balance is the highest law."
+									]
+								},
+								"habitat":"High forests, volcanic caverns, liminal settlements—where boundaries between magic and memory are thin.",
+								"distribution":[
+									"Silgolt (rare enclaves)",
+									"Mixed cities where Elven and Dovagoraan cultures meet"
+								],
+								"related_species":[
+									"Kaelotaedhel",
+									"Saarotsos"
+								],
+								"notable_magic":[
+									"Spellweaving—blending Kori and Tazri",
+									"Resonance perception—seeing or hearing magic as color and sound",
+									"Instinctive counterspells"
+								]
+							}
+						}
+					}
