@@ -1,0 +1,127 @@
+{
+  "english": "Sea Elves",
+  "kingdom": "Firgolkys (Material Realm Beings)",
+  "phylum": "Yoosaanuri (Arcane Vertebrates)",
+  "class": "Duwanihii (Mammals)",
+  "order": "Ursgizil (Humanoids)",
+  "family": "Hadrimkirii (Mind Children)",
+  "genus": "Aedhelkys (Elf Family)",
+  "species": "Zaetiril",
+  "appeared_in_age": "second_age",
+  "magical_affinity": [
+    "Tazri"
+  ],
+  "home_continent": "Siniath",
+  "aquatic": true,
+  "hybrid": false,
+  "culture": {
+    "core_values": [
+      "adaptation to the tides of fate",
+      "communal survival",
+      "mystical reverence for deep places",
+      "emotional transparency and vulnerability",
+      "harmony with the ocean"
+    ],
+    "society": "Matriarchal, fluid, and ocean-linked. Power flows through lineages of Dream-Mothers — visionaries believed to hear the 'sea’s memory.'",
+    "traditions": {
+      "dream-vigil": "Young Zaetaedhel spend three nights adrift in magical trance, seeking their true name from the deep.",
+      "reef-binding": "Houses or clans are ritually tied to coral formations, which are nourished by the magic of their members.",
+      "shellsong": "Songs encoded with arcane power are passed orally from mother to child — used to calm storms or summon allies.",
+      "Whispering Ritual": "A ceremonial gathering during lunar high tides where stories, dreams, and emotions are shared through underwater poetry.",
+      "Rite of Shells": "A coming-of-age ceremony where young Zaetaedhel select a shell representing their identity.",
+      "Current's Embrace": "A traditional dance symbolizing unity and interconnectedness.",
+      "Glowing Vigil": "A ritual honoring the dead with glowing orbs released into the water.",
+      "Coral Communion": "Elders inscribe stories onto living coral to preserve history."
+    },
+    "relationship_with_magic": "Considered innate and musical; Tazri is sung, not spoken, and spellcraft is deeply entwined with emotional resonance.",
+    "migration": "Many Zaetaedhel nomadically follow currents and lunar tides, living aboard coral-crafted ships or semi-submerged dwellings.",
+    "alliances": "Historically neutral in Elven conflicts. Some clans have ancient pacts with aquatic spirits and abyssal entities.",
+    "summary": "Zaetaedhel culture is deeply tied to the ocean, with a focus on communal living, emotional openness, and reverence for the sea's mysteries.",
+    "values": [
+      "Emotional transparency",
+      "Communal responsibility",
+      "Respect for the ocean's bounty",
+      "Artistic expression through song and dance"
+    ],
+    "beauty_ideals": [
+      "Bioluminescent skin patterns",
+      "Expressive, color-changing eyes",
+      "Graceful, streamlined physique",
+      "Hair adorned with shells and pearls"
+    ],
+    "gender_roles": {
+      "male": [
+        "Protectors, singers, explorers",
+        "Expected to be disciplined and measured"
+      ],
+      "female": [
+        "Nurturers, lore-keepers, heart-guides",
+        "Expected to master traditions and rituals"
+      ]
+    },
+    "courtship": "Courtship involves sharing songs, exchanging bioluminescent displays, and gift-giving with shells and pearls, culminating in an underwater dance.",
+    "family_structure": "Families are communal, with a focus on collective nurturing and shared responsibility for raising young."
+  },
+  "traits": {
+    "appearance": "Blue-green to violet skin tones, often bioluminescent. Fins, gill-slits, and webbed limbs vary by lineage and water affinity. Hair is often adorned with shells and pearls, glowing under moonlight.",
+    "magical_style": "Fluid illusionism, song-magic, and water-shaping — Zaetaedhel are feared for their control of tides and dreams.",
+    "lifespan": "250–300 years",
+    "physiology": {
+      "respiration": "Gilled slits along the neck for underwater breathing; lungs adapted for prolonged air retention.",
+      "skeleton": "Semi-porous and lightly reinforced for buoyancy and durability; narrow, hydrodynamic skull.",
+      "musculature": "Compact and resilient, optimized for swimming and endurance in currents.",
+      "senses": [
+        "Sharp vision in low light with nictitating membranes",
+        "Acute hearing for detecting vibrations",
+        "Hydrodynamic sense for reading currents and pressure changes"
+      ],
+      "temperature_resilience": "Adapted to the cold depths of the ocean.",
+      "depth_resilience": "Flexible ribcage and pressure-resistant physiology for deep diving.",
+      "buoyancy": "Naturally buoyant due to skeletal structure and body composition."
+    },
+    "reproduction": {
+      "method": "Ritualistic spawning during annual lunar cycles; gestation occurs in communal underwater gardens.",
+      "gestation": "Linked to lunar and tidal cycles; newborns are welcomed with communal ceremonies.",
+      "social_structure": "Reproduction is a communal responsibility, with the entire community nurturing the young.",
+      "birth_ritual": "Newborns are welcomed with songs, dances, and bioluminescent displays.",
+      "notes": "Reproduction emphasizes emotional resonance and collective care."
+    }
+  },
+  "intelligence": {
+    "type": "Intuitive, artistic, and emotionally nuanced.",
+    "strengths": [
+      "Pattern recognition",
+      "Environmental awareness",
+      "Interpersonal sensitivity"
+    ],
+    "learning_style": "Immersion, rhythm, and resonance rather than abstraction.",
+    "comparison_to_human": "Superior in emotional intelligence and environmental adaptation; comparable in logical reasoning."
+  },
+  "controversies": [
+    "Seen as eerie or alien by land-dwellers due to their silence, translucence, and nonverbal rituals.",
+    "Accused of hiding dangerous knowledge about the Arcane Sea — including secrets even the Kaelotaedhel do not grasp.",
+    "Some Zaetaedhel dreamers have vanished into the ocean depths, leaving behind only songs."
+  ],
+  "lore": {
+    "origin_myth": "Emerged from the sea after the dissolution of the Hah'Slen, formed by the ocean's rhythm and light.",
+    "founders": [
+      "Elarial the Foam-Born",
+      "Silethar of the Deep Silence"
+    ],
+    "core_legends": [
+      "The tale of Elarial the Foam-Born, who sang the first coral sanctum into being.",
+      "The story of Silethar of the Deep Silence, who returned from the Abyssal Trench with melodies of lost cities."
+    ],
+    "taboos": [
+      "Harming sea life without need",
+      "Interrupting sacred rituals",
+      "Speaking falsely in song",
+      "Revealing sacred knowledge to outsiders",
+      "Ignoring emotional truth"
+    ]
+  },
+  "habitat": "Coral-grown cities beneath the waves, often in underwater caverns or near bioluminescent flora.",
+  "distribution": [
+    "Siniath's coastal and marine regions"
+  ]
+}
