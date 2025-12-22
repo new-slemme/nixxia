@@ -1,0 +1,158 @@
+"Zegtuzsos":{
+						"english":"Lizardborn",
+						"sigtaara":"Zegtuzsos",
+						"native_name":"Zegtuzsos",
+						"family":"Kaesendova",
+						"genus":"Dovahsos",
+						"species":"Mal",
+						"appeared_in_age":"second_age",
+						"genetic_ancestors":[
+							"Dragons"
+						],
+						"genetic_descendants":[
+							
+						],
+						"origin":[
+							"Pindaar",
+							"Strunmah",
+							"Veydo"
+						],
+						"home_continent":"Silgolt",
+						"geographic_distribution":[
+							"Eastern Silgolt",
+							"Revakgol Empire"
+						],
+						"magical_affinity":[
+							"Kori",
+							"some pursue Tazri"
+						],
+						"hybrid":false,
+						"artificial":false,
+						"culture":{
+							"core_values":[
+								"honor",
+								"loyalty",
+								"agility",
+								"communal cooperation"
+							],
+							"origins":"",
+							"society":"Village-based, organized under Juns (local leaders), Mulaagjuns (regional governors), and the Pahthur (decadal elected supreme leader). Balance of centralized authority and local autonomy underpins resilience and unity.",
+							"institutions":{
+								
+							},
+							"social_structure":"Structured and hierarchical, governed by standards of beauty, achievement, and magical prowess. Social mobility is possible through personal achievement.",
+							"traditions":{
+								"courtship_rituals":"Mating displays of agility, mock battles, and collaborative hunts establish pair bonds.",
+								"egg_watching":"Eggs cared for communally, with shared parental vigilance and mentorship from elders.",
+								"scale_dyeing":"Pigments and patterns added to scales for cultural expression, status, or rites of passage."
+							},
+							"beauty_ideals":[
+								
+							],
+							"gender_roles":{
+								"male":[
+									
+								],
+								"female":[
+									
+								]
+							},
+							"relationship_ideals":"Partnerships are exclusive during egg-laying and hatchling care; emphasis on mutual support.",
+							"taboos":[
+								"Abandoning one's clutch or community",
+								"Breaking oath of loyalty",
+								"Dishonoring ancestral line"
+							],
+							"xenophobia":"",
+							"influence":"",
+							"notable_events":[
+								
+							],
+							"related_organizations":[
+								"Empire of Revakgol",
+								"The Dragon Gods - Firhohii"
+							]
+						},
+						"traits":{
+							"appearance":"Bipedal lizardfolk, 1.5–1.7m tall, 1.7–2.0m long, robust upper body, long digitigrade legs, long sinewy arms ending in three-fingered hands with sharp claws, large jaws, vibrant scales (blue, green, red) that intensify with emotion or exertion. Crest/frills and intricate scale patterns for display or status.",
+							"magical_style":"",
+							"lifespan":"40 years",
+							"physiology":{
+								"skeleton":"Robust skeletal structure supporting physical prowess, with a well-defined ribcage for lung capacity.",
+								"musculature":"Long, sinewy muscles in upper limbs, powerful lower body for leaping and clinging.",
+								"respiration":"",
+								"circulation":"",
+								"dermal":"Smooth, vibrant scales mirroring dragon heritage.",
+								"hair":"",
+								"senses":[
+									
+								],
+								"adaptations":[
+									"Digitigrade feet for agility",
+									"Spinal ridge covered in scales",
+									"Large jaws as a weapon"
+								]
+							},
+							"reproduction":{
+								"method":"Sexual, oviparous.",
+								"cycle":"Mating during active, warmer seasons.",
+								"gestation":"Several months incubation.",
+								"development":"Hatchlings emerge with muted scales, cared for by parents and community.",
+								"courtship":"Physical displays and shared activity.",
+								"interbreeding":"",
+								"cultural_influence":"Reproduction is a cultural continuum that weaves together the physical and social fabric of their society."
+							},
+							"growth":{
+								"infancy":"Hatchling Stage (small, vulnerable, reliant on care, soft scales).",
+								"childhood":"Juvenile Stage (rapid growth, developing agility, vibrant scales).",
+								"adolescence":"Adolescent Stage (maturation, larger jaw, cultural participation).",
+								"adulthood":"Adult Stage (fully developed, vibrant scales, societal contributions)."
+							},
+							"growth_rate":"Steady.",
+							"sexual_dimorphism":""
+						},
+						"intelligence":{
+							"type":"Moderate (slightly below average human).",
+							"strengths":[
+								"Agility",
+								"Physical coordination",
+								"Strong communal memory"
+							],
+							"learning_style":"Practical skills, oral tradition, and physical training.",
+							"comparison_to_human":"Slightly below average."
+						},
+						"controversies":[
+							
+						],
+						"lore":{
+							"origin_myth":"",
+							"founders":[
+								
+							],
+							"core_legends":[
+								
+							],
+							"taboos":[
+								
+							]
+						},
+						"habitat":"Diverse landscapes in the eastern half of the Silgolt continent, centered in the Revakgol empire.",
+						"distribution":[
+							
+						],
+						"related_species":[
+							"Saarotsos",
+							"Lingraasos",
+							"Zegtuzsos",
+							"Dragons"
+						],
+						"notable_magic":[
+							
+						],
+						"related_organizations":[
+							
+						],
+						"subspecies":{
+							
+						}
+					}
