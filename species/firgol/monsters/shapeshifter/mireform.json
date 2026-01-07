@@ -1,0 +1,84 @@
+"mireform":{
+						"name":"Mireform",
+						"sigtaara":null,
+						"classification":"Shapeshifter",
+						"habitat":[
+							"Siniath",
+							"Western Silgolt"
+						],
+						"description":{
+							"short":"Amorphous shapeshifters born of swamp and sorrow, luring prey with eerie mimicry.",
+							"full":"Mireforms are semi-liquid shapeshifters that haunt the damp reaches of Siniath and the western wetlands of Silgolt. Composed of viscous, mud-slick flesh and fibrous sinew, they are neither solid nor gas, but a pulsing middle state. They excel in aggressive mimicry, often luring travelers by taking on the forms of wounded companions, lost children, or divine visions. Though alien in form, their cunning and patience make them deadly hunters of the bog."
+						},
+						"anatomy":{
+							"structure":"Amorphous cellular mass with stabilizing neural web",
+							"mobility":"Flows in low form; coalesces into humanoid or beast shapes",
+							"skin":"Dark and glossy with bioluminescent nodes",
+							"senses":"Distributed tactile, visual, and auditory input across surface membrane",
+							"regeneration":"Steady in humid environments; sluggish in dry or cold climates"
+						},
+						"shapeshifting":{
+							"limits":"Cannot form rigid structures; mimics features using mud-hardened surface",
+							"targets":"Recently observed or absorbed humanoids and animals",
+							"voice_imitation":"Wet, slurred, eerily accurate; often distorted mid-sentence",
+							"behavioral_mimicry":"Limited but effective; repeats gestures or phrases in unnatural rhythm"
+						},
+						"behavior":{
+							"cognition":"Collective learning via memory osmosis; limited individuality",
+							"communication":"Mournful howls, gurgles, echo-voices of past victims",
+							"feeding":"Absorbs organic matter through surface contact",
+							"strategy":"Long-game deception; builds trust or pity before ambush"
+						},
+						"reproduction":{
+							"method":"Splitting — segments break off when overfed or damaged",
+							"growth_rate":"Slow; seeds may lie dormant for years",
+							"stages":[
+								"Spore Phase — inert hardened mass in swamp",
+								"Awakening — subtle surface shifting",
+								"Learner Stage — mimics simple creatures",
+								"Hunter — mimics humanoids, forms traps"
+							]
+						},
+						"weaknesses":[
+							"Fire",
+							"Salt",
+							"Desiccation (dry winds or sunlight)",
+							"Cannot mimic fine features like jewelry or tattoos",
+							"Restricted to humid or swampy climates"
+						],
+						"cultural_significance":[
+							"Feared in Siniath as 'The Weeping Flesh', thought to be drowned traitors' remains",
+							"Some druids in Silgolt revere them as living extensions of the bog",
+							"Murals in drowned ruins hint at older forms during the Third Age"
+						],
+						"variants":{
+							"siniath":{
+								"local_name":"The Weeping Flesh",
+								"habitat":"Haunted marshes, drowned ruins, and spirit-scoured fens",
+								"traits":{
+									"spirit_echoes":"Can display emotional fragments and memories of absorbed beings",
+									"mimicry_quality":"Emotionally haunting; facial features often melt or collapse mid-shift",
+									"personality":"Displays ritualistic or melancholic patterns, such as prayer or mourning",
+									"memory_clusters":"Territorial memory pools with layered identities"
+								},
+								"cultural_notes":[
+									"Believed to be cursed souls by Kaemisaedhel",
+									"Thought to 'speak the truth' their drowned victims never could"
+								]
+							},
+							"western_silgolt":{
+								"local_name":"Bogfolk / Hollowskins",
+								"habitat":"Flooded glades and peat bogs west of Lokraasos territory",
+								"traits":{
+									"mimicry_quality":"Crude exaggeration—oversized eyes, limbs, or faces",
+									"material_integration":"Incorporates moss, bones, bark, and debris into its form",
+									"behavior":"Sometimes operates in coordinated packs; ambush tactics",
+									"mimic_fauna":"May imitate boars, wolves, or local beasts"
+								},
+								"cultural_notes":[
+									"Feared by frontier clans as 'the Shifting Folk in the fen'",
+									"Hunted by Saarotsos warbands for ambushing travelers"
+								]
+							}
+						}
+					},
