@@ -102,9 +102,11 @@
 								"distribution":[
 									"Eastern Silgolt"
 								],
+								"parent_species":[
+									"Saarotsos"
+								],
 								"related_species":[
 									"Saarotsos",
-									"Kaemisaedhel",
 									"Dragons"
 								],
 								"notable_magic":[
