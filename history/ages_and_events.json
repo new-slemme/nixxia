@@ -1,0 +1,893 @@
+"ages":{
+		"first_age":{
+			"name":"First Age",
+			"sigtaara":"Anand'Dinok-a-Laas",
+			"english":"The Age of Birth and Death",
+			"start_MV":0,
+			"end_MV":1500,
+			"start_ADL":0,
+			"end_ADL":1500,
+			"events":[
+				{
+					"title":"The Great Separation",
+					"summary":"Before time itself came into existence the material plane was still just a part of the Pah'Nad (lit. 'All-Thing'). Then came the first thought, giving everything context and meaning — and the Pah'Nad split itself in two. From this rupture were born Fir'Gol (the Mortal-Land) and Yoos'Okaaz (the Arcane Sea), separating the physical and magical aspects of reality.",
+					"year_start_MV":0,
+					"year_end_MV":0,
+					"year_start_ADL":0,
+					"year_end_ADL":0
+				},
+				{
+					"title":"The War of One and All",
+					"summary":"A titanic conflict between the Hah'Slen, stewards of magic and fluidity, and the Rúth'Sunvaar, embodiments of voracity and adaptability. The war twisted the nature of reality itself, shaping dreamlike battlefields that defied comprehension. Lasting nearly a millennium, it ended with both sides erased from existence — the Rúth'Sunvaar sealed into draconic form, and the Hah'Slen fragmented into the ancestors of Elves, Orcs, and Goblins.",
+					"year_start_MV":500,
+					"year_end_MV":1500,
+					"year_start_ADL":500,
+					"year_end_ADL":1500
+				}
+			]
+		},
+		"second_age":{
+			"name":"Second Age",
+			"sigtaara":"Anand’Sahrot‑a‑Yol",
+			"english":"The Age of Faith and Fire",
+			"start_MV":1501,
+			"end_MV":4600,
+			"start_ASY":1,
+			"end_ASY":3100,
+			"events":[
+				{
+					"title":"The Closing of the First Wounds",
+					"summary":"The cataclysmic aftermath of the first_age finally stabilizes. The Arcane Sea recedes from most continents, though Lotkrosis remains heavily overlaid by its chaotic energies. The world begins to heal, setting the stage for new civilizations.",
+					"year_start_MV":1501,
+					"year_end_MV":1501,
+					"year_start_ASY":1,
+					"year_end_ASY":1
+				},
+				{
+					"title":"The Seeds of the Elder Peoples",
+					"summary":"The Kaelotaedhel, Kaemisaedhel, and Zaetaedhel establish homelands in Siniath; Ogim and Gogil rise in Irudy; proto‑humanoids appear in Hjemland; dragons dominate Silgolt.",
+					"year_start_MV":1501,
+					"year_end_MV":1900,
+					"year_start_ASY":1,
+					"year_end_ASY":400
+				},
+				{
+					"title":"The Whispering Tide",
+					"summary":"The Nil’Thur begin subtly influencing mortals. Thawiaur spreads paradox and intrigue in Elven courts, sowing cultural transformation among Elves, Orcs, and Goblins.",
+					"year_start_MV":1957,
+					"year_end_MV":1957,
+					"year_start_ASY":457,
+					"year_end_ASY":457
+				},
+				{
+					"title":"The Fracturing of Siniath",
+					"summary":"Tensions among Elven subraces escalate, fueled by Nil’Thur influence. Small‑scale conflicts termed the ‘First Blood of the Boughs’ reshape Elven society.",
+					"year_start_MV":2050,
+					"year_end_MV":2400,
+					"year_start_ASY":550,
+					"year_end_ASY":900
+				},
+				{
+					"title":"The Judgment of Iron",
+					"summary":"Methraug mentors proto‑dwarves in Hjemland through visions, teaching forging and craftsmanship—the origin of the First Iron Covenant.",
+					"year_start_MV":2250,
+					"year_end_MV":2250,
+					"year_start_ASY":750,
+					"year_end_ASY":750
+				},
+				{
+					"title":"The Gathering of Winds",
+					"summary":"Dragon lords clash across Silgolt over the central sea and eastern plains. Lair wars scar the landscape and weaken draconic unity.",
+					"year_start_MV":2500,
+					"year_end_MV":2700,
+					"year_start_ASY":1000,
+					"year_end_ASY":1200
+				},
+				{
+					"title":"The Founding of Ael’theryn",
+					"summary":"Kaelotaedhel Elves build Ael’theryn, the first permanent city in northern Siniath—a center of arcane learning and elven culture.",
+					"year_start_MV":2786,
+					"year_end_MV":2786,
+					"year_start_ASY":1286,
+					"year_end_ASY":1286
+				},
+				{
+					"title":"The Pilgrimage of Dreams",
+					"summary":"Dragon seer Vulhahnu experiences apocalyptic visions and recruits Boksul, Rovahlok, Shaan, and Sil’lah to seek divine transcendence.",
+					"year_start_MV":3152,
+					"year_end_MV":3152,
+					"year_start_ASY":1652,
+					"year_end_ASY":1652
+				},
+				{
+					"title":"The Binding of the Sundered Pact",
+					"summary":"At Mount Drakorys, the five dragons swear the Drakorys Oath, uniting their wills and preparing for an ascension ritual.",
+					"year_start_MV":3260,
+					"year_end_MV":3260,
+					"year_start_ASY":1760,
+					"year_end_ASY":1760
+				},
+				{
+					"title":"The Ritual of Drakorys",
+					"summary":"The five dragons perform the ascension ritual, becoming the Firhohii. True dragons die, survivors transform into Sahrotsos, Zegtuzsos, and Lingrahsos.",
+					"year_start_MV":3275,
+					"year_end_MV":3275,
+					"year_start_ASY":1775,
+					"year_end_ASY":1775
+				},
+				{
+					"title":"The Great Forgetting",
+					"summary":"In the ritual's aftermath, tears rip through Yoori, the magic of collective belief. Maintained by the newborn Firraaii, these wounds suppress memories of dragon origins and the ascension across all peoples. Ancient draconic lore fragments into disconnected myths; survivors awaken disoriented, their pasts rewritten as vague legends of \"sky-tyrants\" and \"flame-born curses.\"",
+					"year_start_MV":3276,
+					"year_end_MV":3300,
+					"year_start_ASY":1776,
+					"year_end_ASY":1800
+				},
+				{
+					"title":"The Reclamation of Scars",
+					"summary":"Dovagoraan species—Saarotsos, Zegtuzsos, and Lingraasos—emerge from ritual-induced hibernation in eastern Silgolt. Without memory of their draconic heritage, they reclaim ruined lairs as sacred ruins. Proto-tribal structures form around survival rites, with early flamepriests interpreting the Firraaii as \"echo-gods\" born from forgotten cataclysm.",
+					"year_start_MV":3300,
+					"year_end_MV":3400,
+					"year_start_ASY":1800,
+					"year_end_ASY":1900
+				},
+				{
+					"title":"The Greenkin Diaspora",
+					"summary":"Ogim and Gogil tribes expand across Irudy, absorbing scattered dragon ruins into their oral histories as \"thunder-bone nests.\" Without true knowledge of dragons, they weave myths of \"sky-devils\" defeated by earth-spirits, fueling shamanic traditions blending Kori resilience with emerging Tazri wards.",
+					"year_start_MV":3400,
+					"year_end_MV":3500,
+					"year_start_ASY":1900,
+					"year_end_ASY":2000
+				},
+				{
+					"title":"The Elven Veil-Lifting",
+					"summary":"In Siniath, Elves reclaim southern territories once under dragon shadow. Nil’Thur influence deepens philosophical divides; Kaelotaedhel scholars interpret faded dragon murals as \"arcane illusions,\" while Zaetaedhel sea-chants speak of \"drowned thunder-serpents.\" The collective forgetting solidifies dragons as symbolic metaphors rather than historical fact.",
+					"year_start_MV":3500,
+					"year_end_MV":3600,
+					"year_start_ASY":2000,
+					"year_end_ASY":2100
+				},
+				{
+					"title":"The Northern Awakening",
+					"summary":"Proto-humanoids in Hjemland encounter northern draconic remnants—crumbled aeries and Yoori-tainted artifacts. Without context, these become \"giant-bird haunts\" in folklore, inspiring early Kori-based hunting rites. Dwarven iron-forgers incorporate metallic scales as \"sky-iron,\" unaware of their origin.",
+					"year_start_MV":3600,
+					"year_end_MV":3700,
+					"year_start_ASY":2100,
+					"year_end_ASY":2200
+				},
+				{
+					"title":"The Myth-Weaving Era",
+					"summary":"Across continents, fragmented dragon songs evolve into diverse myths: Elves sing of \"winged paradoxes\" defeated by Nil’Thur wisdom; greenskins tell of \"flame-thieves\" banished by earth-magic; Dovagoraan priests receive Firraaii visions portraying dragons as \"false ancestors\" punished for hubris. Yoori tears ensure no unified truth emerges.",
+					"year_start_MV":3700,
+					"year_end_MV":3800,
+					"year_start_ASY":2200,
+					"year_end_ASY":2300
+				},
+				{
+					"title":"The Voided Archives",
+					"summary":"Early arcane scholars attempt to reconstruct pre-ritual history, but Yoori wounds cause texts to fade, memories to blur, and witnesses to contradict. Ael’theryn's first great library burns in a \"memory-fire,\" destroying potential evidence. Dragons become archetypal symbols of lost power rather than literal history.",
+					"year_start_MV":3800,
+					"year_end_MV":3900,
+					"year_start_ASY":2300,
+					"year_end_ASY":2400
+				},
+				{
+					"title":"The Territorial Blooms",
+					"summary":"Elves expand northern Siniath cities; Ogim-Gogil federations claim Irudy's central plains; proto-dwarves delve deeper in Hjemland. Without dragon memory, former dominions are reframed as \"wild-lands reclaimed from ancient curses,\" fostering cultural confidence and exploration.",
+					"year_start_MV":3900,
+					"year_end_MV":4000,
+					"year_start_ASY":2400,
+					"year_end_ASY":2500
+				},
+				{
+					"title":"The Faith-Forging",
+					"summary":"Nil’Thur devotion formalizes among Elves, emphasizing paradox over history. Firraaii cults rise in Silgolt, portraying ascension as \"divine rebirth from myth.\" Collective forgetting allows new faiths to fill historical voids, stabilizing societies around fresh narratives.",
+					"year_start_MV":4000,
+					"year_end_MV":4100,
+					"year_start_ASY":2500,
+					"year_end_ASY":2600
+				},
+				{
+					"title":"The Cultural Renaissance",
+					"summary":"Artistic booms across realms: Elven memory-sanctuaries in Siniath preserve \"paradox-poems\"; greenskin war-songs in Irudy celebrate \"thunder-victories\"; human stone-circles in Hjemland honor \"sky-ghost guardians.\" Dragons fade to children's tales and symbolic motifs.",
+					"year_start_MV":4100,
+					"year_end_MV":4200,
+					"year_start_ASY":2600,
+					"year_end_ASY":2700
+				},
+				{
+					"title":"The Expansion Waves",
+					"summary":"Zaetaedhel fleets chart southern seas; Ogim tribes push into eastern Irudy wilds; proto-humans form coastal holds in Hjemland. Reclaimed territories yield \"echo-artifacts\" — draconic remnants reinterpreted as natural wonders or divine gifts.",
+					"year_start_MV":4200,
+					"year_end_MV":4300,
+					"year_start_ASY":2700,
+					"year_end_ASY":2800
+				},
+				{
+					"title":"The Mythic Stabilization",
+					"summary":"Dragons solidify as pure myth: \"winged devourers\" in Elven lore, \"storm-beasts\" in greenskin sagas, \"fallen sky-kings\" in human tales. Yoori tears heal partially, allowing faint echoes but no revelations. Societies build forward, unburdened by true history.",
+					"year_start_MV":4300,
+					"year_end_MV":4400,
+					"year_start_ASY":2800,
+					"year_end_ASY":2900
+				},
+				{
+					"title":"The Silent Integration",
+					"summary":"Cultural exchanges begin: Elven envoys visit Irudy shamans; Hjemland traders encounter Silgolt outposts. Dragon myths blend across borders, becoming universal symbols of \"forgotten hubris\" rather than shared history. The age closes in relative stability, with the past veiled in comfortable legend.",
+					"year_start_MV":4400,
+					"year_end_MV":4500,
+					"year_start_ASY":2900,
+					"year_end_ASY":3000
+				}
+			]
+		},
+		"third_age":{
+			"name":"Third Age",
+			"sigtaara":"Anand'Zaan-a-Nahlot",
+			"english":"The Age of Screams and Silence",
+			"start_MV":4601,
+			"end_MV":6400,
+			"start_AZN":1,
+			"end_AZN":1800,
+			"events":[
+				{
+					"year_start_MV":4601,
+					"year_end_MV":5200,
+					"year_start_AZN":1,
+					"year_end_AZN":600,
+					"title":"Codification of Magic",
+					"summary":"Saarotsos and Elves begin to define the traditions of Kori and Tazri. The Kaelotaedhel establish arcane academies in Siniath; Dovagoraan flamepriests on Silgolt organize rites and Kori stages. Ogim and Gogil develop tribal schools blending Kori and Tazri."
+				},
+				{
+					"year_start_MV":5866,
+					"year_end_MV":5866,
+					"year_start_AZN":1266,
+					"year_end_AZN":1266,
+					"title":"Empire of Revakgol",
+					"summary":"Kaemisyol unites the Saarotsos under his rule, establishing the Empire of Revakgol in eastern Silgolt. He proclaims himself Vaazaa’Dovaajun, Supreme Dragonlord."
+				},
+				{
+					"year_start_MV":5869,
+					"year_end_MV":5905,
+					"year_start_AZN":1269,
+					"year_end_AZN":1305,
+					"title":"The Great Wyrm War",
+					"summary":"The Revakgol Empire wages a devastating campaign against the Zegtuzsos tribes, resulting in their conquest and assimilation."
+				},
+				{
+					"year_start_MV":5985,
+					"year_end_MV":5985,
+					"year_start_AZN":1385,
+					"year_end_AZN":1385,
+					"title":"Birth of the Triumvirate",
+					"summary":"Three Kaelotaedhel brothers form a powerful alliance to stabilize Siniath amid centuries of chaos. The Triumvirate is founded in the north."
+				},
+				{
+					"year_start_MV":6050,
+					"year_end_MV":6050,
+					"year_start_AZN":1450,
+					"year_end_AZN":1450,
+					"title":"Fire of First Knowledge",
+					"summary":"Proto-humans in Hjemland discover fire. Dwarven settlements grow more sophisticated in their Kori-forged crafts under Methraug’s influence."
+				},
+				{
+					"year_start_MV":6120,
+					"year_end_MV":6220,
+					"year_start_AZN":1520,
+					"year_end_AZN":1620,
+					"title":"Rise of the Ogim-Gogil Mage-Lords",
+					"summary":"Ogim and Gogil form tribal federations led by mage-lords who wield hybrid traditions of Kori and Tazri."
+				},
+				{
+					"year_start_MV":6200,
+					"year_end_MV":6200,
+					"year_start_AZN":1600,
+					"year_end_AZN":1600,
+					"title":"Codification and Separation of Magic",
+					"summary":"Kori and Tazri are formally defined as distinct magical disciplines across cultures. Tazri disciplines expand, while Kori becomes ritualized through Saarotsos traditions."
+				},
+				{
+					"year_start_MV":6300,
+					"year_end_MV":6400,
+					"year_start_AZN":1700,
+					"year_end_AZN":1800,
+					"title":"Revakgol Consolidation Wars",
+					"summary":"Revakgol finishes its conquest of Silgolt. Its caste structure hardens. Saarotsos dominance becomes imperial doctrine."
+				},
+				{
+					"year_start_MV":6400,
+					"year_end_MV":6400,
+					"year_start_AZN":1800,
+					"year_end_AZN":1800,
+					"title":"The Silence of Echoes",
+					"summary":"The Age ends in uneasy silence. Empires solidify, tribal states stabilize, and the world prepares for rediscovery, expansion, and reckoning in the fourth_age."
+				}
+			]
+		},
+		"fourth_age":{
+			"name":"Fourth Age",
+			"sigtaara":"Anand'Mepaaik-a-Doobul",
+			"english":"The Age of Peace and Decay",
+			"start_MV":6401,
+			"end_MV":9605,
+			"start_AMD":1,
+			"end_AMD":3205,
+			"events":[
+				{
+					"year_start_MV":6500,
+					"year_end_MV":7000,
+					"year_start_AMD":100,
+					"year_end_AMD":600,
+					"title":"Human Ascendancy and the Iron Revolution",
+					"summary":"Humans in Hjemland advance rapidly, mastering ironworking and forming early kingdoms. Dwarves support their rise through trade and metallurgical guidance."
+				},
+				{
+					"year_start_MV":7000,
+					"year_end_MV":7000,
+					"year_start_AMD":600,
+					"year_end_AMD":600,
+					"title":"Creation of the Kaekreaedhel",
+					"summary":"Kaelotaedhel magisters magically alter Kaemisaedhel to create the Kaekreaedhel. This leads to moral outrage and internal Elven strife."
+				},
+				{
+					"year_start_MV":7100,
+					"year_end_MV":7200,
+					"year_start_AMD":700,
+					"year_end_AMD":800,
+					"title":"Kaemisaedhel Exodus to Kormistahl",
+					"summary":"Persecuted Kaemisaedhel flee Siniath, founding a new homeland on the island of Kormistahl. Others retreat to the continent's eastern mountains."
+				},
+				{
+					"year_start_MV":7250,
+					"year_end_MV":7400,
+					"year_start_AMD":850,
+					"year_end_AMD":1000,
+					"title":"Zaetaedhel Oceanic Expansion",
+					"summary":"Zaetaedhel explore beyond Siniath and establish settlements on island chains southeast of Silgolt, deepening their mystical maritime culture."
+				},
+				{
+					"year_start_MV":7500,
+					"year_end_MV":8500,
+					"year_start_AMD":1100,
+					"year_end_AMD":2100,
+					"title":"Zenith of the Triumvirate",
+					"summary":"Under the Triumvirate, Siniath flourishes. A golden age of magical advancement and political unity begins, though signs of decay emerge."
+				},
+				{
+					"year_start_MV":7800,
+					"year_end_MV":9000,
+					"year_start_AMD":1400,
+					"year_end_AMD":2600,
+					"title":"Revakgol Imperial Peak and Cultural Decay",
+					"summary":"Revakgol reaches its greatest territorial size. Though dominant, the Empire begins to stagnate under rigid caste structures and internal corruption."
+				},
+				{
+					"year_start_MV":9000,
+					"year_end_MV":9500,
+					"year_start_AMD":2600,
+					"year_end_AMD":3100,
+					"title":"Visions of Lost Lotkrosis",
+					"summary":"Seers across many cultures begin receiving prophetic visions of Lotkrosis. These revelations stir interest and unease about the forgotten continent."
+				},
+				{
+					"year_start_MV":9545,
+					"year_end_MV":9545,
+					"year_start_AMD":3145,
+					"year_end_AMD":3145,
+					"title":"Birth of Aasa Zairtis",
+					"summary":"The first Lokraasos born into the imperial family of Revakgol is seen as a prophesied turning point. She is named Aasa Zairtis."
+				},
+				{
+					"year_start_MV":9550,
+					"year_end_MV":9600,
+					"year_start_AMD":3150,
+					"year_end_AMD":3200,
+					"title":"Revakgol's Civil Wars",
+					"summary":"Civil wars erupt in Revakgol’s northern and western provinces. These conflicts nearly shatter the empire during Aasa’s childhood."
+				},
+				{
+					"year_start_MV":9600,
+					"year_end_MV":9605,
+					"year_start_AMD":3200,
+					"year_end_AMD":3205,
+					"title":"Ascension of Zurgaasyol, the Cleansing Flame",
+					"summary":"Aasa Zairtis becomes Empress Zurgaasyol. Her powerful leadership preserves the Empire from total collapse. The Age ends with her coronation."
+				}
+			]
+		},
+		"fifth_age":{
+			"name":"Fifth Age",
+			"sigtaara":"Anand'Siiv-a-Saan",
+			"english":"The Age of Gain and Loss",
+			"start_MV":9606,
+			"end_MV":12870,
+			"start_ASS":1,
+			"end_ASS":3265,
+			"events":[
+				{
+					"title":"The Awakening of Namuzdus",
+					"summary":"A lone Kaetijul explorer returns to Hjemland after a years-long journey through western Silgolt, telling of a titanic mountain range suffused with mineral veins, geothermal warmth, and uncanny echoes of ancestral stone-speech. Though dismissed by many, small dwarven caravans begin departing Hjemland in secret.",
+					"year_start_ASS":231,
+					"year_end_ASS":231,
+					"year_start_MV":9837,
+					"year_end_MV":9837
+				},
+				{
+					"title":"The Long Crossing",
+					"summary":"Dwarves migrate en masse across scattered oceanic land-bridges and enchanted vessels. Following arcane beacons left by early scouts, they brave deep-sea beasts and volcanic maelstroms. By 410 ASS, the first permanent dwarfholds are founded at the base of the western Namuzdus range.",
+					"year_start_ASS":270,
+					"year_end_ASS":410,
+					"year_start_MV":9876,
+					"year_end_MV":10016
+				},
+				{
+					"title":"The Naming of Namuzdus",
+					"summary":"The dwarven clans declare the range 'Namuzdus' — 'Echoed Crown' in their ancestral tongue — and begin carving holdfasts into its peaks and underways. The mountain is revered as a spiritual lodestone. Runesmiths claim it 'hums with waiting purpose.'",
+					"year_start_ASS":438,
+					"year_end_ASS":438,
+					"year_start_MV":10044,
+					"year_end_MV":10044
+				},
+				{
+					"title":"The First Landing on Lotkrosis",
+					"summary":"Nenekyn Riiulgruth, a Zaetaedhel Siren-dreamer, becomes the first known mortal since the Firraaii ascended to set foot on the haunted continent of Lotkrosis. She survives for nine days along the jagged coast before returning. Her dream-poems spark a wave of Lotkrosis cults.",
+					"year_start_ASS":512,
+					"year_end_ASS":512,
+					"year_start_MV":10118,
+					"year_end_MV":10118
+				},
+				{
+					"title":"The First Unbinding",
+					"summary":"In northern Siniath, a nameless Kaekreaedhel slave assassinates their Kaelotaedhel master by hurling them from the summit of a living-glass tower. The act — part of a secret, coordinated uprising — triggers a wave of revolts across hidden Kaekreaedhel enclaves. Later retellings call this moment 'The First Unbinding.'",
+					"year_start_ASS":620,
+					"year_end_ASS":620,
+					"year_start_MV":10226,
+					"year_end_MV":10226
+				},
+				{
+					"title":"Whispers of the Matron",
+					"summary":"Oral tales spread among Kaekreaedhel rebel cells of the “Silent Matron,” a fugitive who bore twins in exile and raised them to kill with thought and song. While her existence is unverified, these stories fuel the next generation of resistance and become sacred mythos in the sixth_age.",
+					"year_start_ASS":670,
+					"year_end_ASS":700,
+					"year_start_MV":10276,
+					"year_end_MV":10306
+				},
+				{
+					"title":"The Gathering at Three Spires",
+					"summary":"Three major Kaetijul holdfasts — Kurnumgrath, Dôlmuzûn, and Varkgrum — unify under a shared mountain pact at the Triple Spire of Namuzdus. This marks the first formal recognition of the Kingdom of Namuzdus, ruled by the elected Stonecrown Council, a rotating body of master-crafters and geomantic seers.",
+					"year_start_ASS":721,
+					"year_end_ASS":721,
+					"year_start_MV":10327,
+					"year_end_MV":10327
+				},
+				{
+					"title":"The Hollowing Song",
+					"summary":"Zaetaedhel sailors following echoes of Nenekyn’s visions anchor in a hidden cove on Lotkrosis’ northern edge. One survivor returns speaking in verse, claiming to have “heard the gods beneath the tide.” The site becomes a sacred taboo, avoided by all but dream-walkers.",
+					"year_start_ASS":742,
+					"year_end_ASS":742,
+					"year_start_MV":10348,
+					"year_end_MV":10348
+				},
+				{
+					"title":"The Blooming of Izheim",
+					"summary":"A flotilla of gnome refugees, known as the Izh, land on a windswept peninsula west of Revakgol. They begin carving out a sanctuary within the cliffs — a city of stone spirals, crystal-lit tunnels, and humming machines. Izheim flourishes quickly, blending artifice, magic, and trade.",
+					"year_start_ASS":770,
+					"year_end_ASS":785,
+					"year_start_MV":10376,
+					"year_end_MV":10391
+				},
+				{
+					"title":"The Echoforge Compact",
+					"summary":"Namuzdus and Izheim sign a rare dwarven-gnome accord, formalizing trade routes through subterranean tunnels and mutual defense pacts. The Compact allows safe passage for Kaekreaedhel and other exiles, drawing ire from Kaelotaedhel observers.",
+					"year_start_ASS":789,
+					"year_end_ASS":789,
+					"year_start_MV":10395,
+					"year_end_MV":10395
+				},
+				{
+					"title":"Web of the Hidden Flame",
+					"summary":"Kaekreaedhel rebels establish a secret communication and extraction network stretching from Siniath to western Silgolt. The Web of the Hidden Flame becomes a lifeline for escapees, leading many to Kaemisaedhel forests, Izheim, or even Revakgol’s border provinces under forged identities.",
+					"year_start_ASS":790,
+					"year_end_ASS":820,
+					"year_start_MV":10396,
+					"year_end_MV":10426
+				},
+				{
+					"title":"The Quiet Knives",
+					"summary":"A coordinated assassination wave across three Kaelotaedhel cities kills a dozen highblood sorcerers within a single moon-cycle. Sigtaara phrases burned into their skin suggest Kaekreaedhel involvement. Kaelotaedhel cities respond with purges — many innocent slaves are executed, intensifying rebel resolve.",
+					"year_start_ASS":812,
+					"year_end_ASS":812,
+					"year_start_MV":10418,
+					"year_end_MV":10418
+				},
+				{
+					"title":"Founding of Strenia",
+					"summary":"Human clans along Hjemland’s eastern coast unify under Queen Elseth Naulbrand after a series of sea-raider invasions. Strenia, centered around the fortified harbor-city of Naulgrim, declares itself the first human kingdom of the fifth_age. Its naval and mercantile strength rapidly grows.",
+					"year_start_ASS":872,
+					"year_end_ASS":872,
+					"year_start_MV":10478,
+					"year_end_MV":10478
+				},
+				{
+					"title":"The Gloaming at Issalyr",
+					"summary":"Elven scholars in Siniath document a week-long phenomenon near the ruins of Issalyr, where time loops unpredictably and dreams leak into waking life. A whispering voice speaks in broken Sigtaara: “The Witness stirs.” Hiniel cults begin forming quietly among marginalized arcane scholars.",
+					"year_start_ASS":886,
+					"year_end_ASS":886,
+					"year_start_MV":10492,
+					"year_end_MV":10492
+				},
+				{
+					"title":"The Burning Cradle",
+					"summary":"Kaekreaedhel rebels seize an entire seed-tower outside Ilvanys and set it ablaze with arcane oil. Within its flame, glyphs of memory, obedience, and naming are burned out of hundreds of ensorcelled slave-bonds. Survivors call this the Cradle Reborn. The event becomes a cornerstone of Kaekreaedhel resistance myth.",
+					"year_start_ASS":899,
+					"year_end_ASS":899,
+					"year_start_MV":10505,
+					"year_end_MV":10505
+				},
+				{
+					"title":"Founding of Segenhain",
+					"summary":"Forest-dwelling human tribes in Hjemland’s interior unite under the druid-king Aeldric of the Rootbind Oath. Segenhain is founded as a woodland realm deeply attuned to both Kori and nature-spirits. Its society blends elder magic with budding kingdom structure.",
+					"year_start_ASS":931,
+					"year_end_ASS":931,
+					"year_start_MV":10537,
+					"year_end_MV":10537
+				},
+				{
+					"title":"First Manifestation of Nostiriel",
+					"summary":"In the Dreamvine Cleft near southern Irudy, a dying Kaemisaedhel scribe carves elegies into stone and weeps ink. The cave fills with melodic sorrow. Witnesses describe a shadow-tailed, weeping figure embracing the scribe before vanishing. The first physical manifestation of Nostiriel since the second_age is recorded.",
+					"year_start_ASS":948,
+					"year_end_ASS":948,
+					"year_start_MV":10554,
+					"year_end_MV":10554
+				},
+				{
+					"title":"The Deepmetal Accord",
+					"summary":"The dwarf clans of Namuzdus unveil a network of “Deepmetal veins” — enchanted alloys responsive to Kori resonance. These materials begin flowing into Izheim and eventually to human inventors. This agreement sparks a wave of invention but also attracts arcane interest from dangerous corners.",
+					"year_start_ASS":970,
+					"year_end_ASS":970,
+					"year_start_MV":10576,
+					"year_end_MV":10576
+				},
+				{
+					"title":"Founding of Tjastad",
+					"summary":"Amid rising tensions with rival tribes, mountain clans in northern Hjemland unite under warlord Dagnar Flamewake, a Kori-bearer known for “wounding stone with his voice.” Tjastad is born — a militant, honor-bound kingdom with close ties to dwarven philosophy and metallurgy.",
+					"year_start_ASS":982,
+					"year_end_ASS":982,
+					"year_start_MV":10588,
+					"year_end_MV":10588
+				},
+				{
+					"year_start_ASS":1015,
+					"year_end_ASS":1015,
+					"year_start_MV":10621,
+					"year_end_MV":10621,
+					"title":"The Whispering Isles Discovery",
+					"summary":"Zaetaedhel explorers, guided by Nostiriel visions, discover a chain of mist-shrouded islands south of Silgolt. The isles 'whisper' in ancient Sigtaara, revealing lost Hah'Slen artifacts. This sparks a wave of arcane pilgrimages and cultural revival among sea elves."
+				},
+				{
+					"year_start_ASS":1050,
+					"year_end_ASS":1075,
+					"year_start_MV":10656,
+					"year_end_MV":10681,
+					"title":"The Namuzdus-Izheim Innovation Boom",
+					"summary":"Deepmetal from Namuzdus combines with gnomish ingenuity in Izheim, leading to breakthroughs in Kori-infused machinery. Clockwork guardians and geothermal forges proliferate, but attract Revakgol raids, straining the Echoforge Compact."
+				},
+				{
+					"year_start_ASS":1100,
+					"year_end_ASS":1120,
+					"year_start_MV":10706,
+					"year_end_MV":10726,
+					"title":"The Kaekreaedhel Diaspora Peaks",
+					"summary":"Escapes via the Web of the Hidden Flame reach their height. Thousands of Twisted Elves flee Siniath, settling in Namuzdus, Izheim, and even Revakgol's undercities. This influx brings blood magic innovations but sows seeds of cultural tension."
+				},
+				{
+					"year_start_ASS":1150,
+					"year_end_ASS":1150,
+					"year_start_MV":10756,
+					"year_end_MV":10756,
+					"title":"Hiniel's Second Gloaming",
+					"summary":"Time anomalies recur at Issalyr ruins, now spreading to nearby Kaemisaedhel enclaves. A 'witness voice' echoes prophecies of 'forgotten blood rising.' Hiniel cults grow, blending memory rites with rebellion themes."
+				},
+				{
+					"year_start_ASS":1200,
+					"year_end_ASS":1250,
+					"year_start_MV":10806,
+					"year_end_MV":10856,
+					"title":"The Strenia-Segenhain Alliance",
+					"summary":"Human kingdoms of Strenia and Segenhain form a naval-forest pact against goblin raids from Irudy. This marks Hjemland's first unified front, leading to shared Kori traditions and druidic innovations in shipbuilding."
+				},
+				{
+					"year_start_ASS":1300,
+					"year_end_ASS":1325,
+					"year_start_MV":10906,
+					"year_end_MV":10931,
+					"title":"Revakgol's Western Incursions",
+					"summary":"Revakgol probes Namuzdus borders, seeking Deepmetal secrets. Skirmishes erupt along mountain passes, testing the Echoforge Compact. Kaekreaedhel refugees aid dwarven defenses with blood magic, forging unlikely alliances."
+				},
+				{
+					"year_start_ASS":1350,
+					"year_end_ASS":1350,
+					"year_start_MV":10956,
+					"year_end_MV":10956,
+					"title":"Nostiriel's Lament at Dreamvine",
+					"summary":"A mass manifestation of Nostiriel occurs in Irudy's Dreamvine Cleft. Hundreds of Kaemisaedhel scribes enter trance, carving collective elegies. The event births the 'Ink-Weeping Order,' a melancholic artistic movement."
+				},
+				{
+					"year_start_ASS":1400,
+					"year_end_ASS":1450,
+					"year_start_MV":11006,
+					"year_end_MV":11056,
+					"title":"The Goblin-Orc Federations Fragment",
+					"summary":"Internal strife shatters Ogim-Gogil mage-lord alliances in Irudy. Power vacuums lead to tribal wars, with some factions seeking aid from Hjemland humans or Siniath elves, diluting traditional greenskin autonomy."
+				},
+				{
+					"year_start_ASS":1500,
+					"year_end_ASS":1525,
+					"year_start_MV":11106,
+					"year_end_MV":11131,
+					"title":"The Lotkrosis Expeditions Multiply",
+					"summary":"Inspired by Zaetaedhel successes, mixed-race fleets attempt Lotkrosis landings. Most fail, but survivors return with artifacts infused with Ykheri echoes, fueling a black market in 'haunted relics' across continents."
+				},
+				{
+					"year_start_ASS":1550,
+					"year_end_ASS":1550,
+					"year_start_MV":11156,
+					"year_end_MV":11156,
+					"title":"The Stonecrown Schism",
+					"summary":"Namuzdus' Stonecrown Council fractures over Deepmetal export policies. A faction advocates isolation, leading to the first dwarven civil unrest since migration. The schism resolves with reformed trade laws favoring gnome allies."
+				},
+				{
+					"year_start_ASS":1600,
+					"year_end_ASS":1650,
+					"year_start_MV":11206,
+					"year_end_MV":11256,
+					"title":"Izheim's Arcane Renaissance",
+					"summary":"Gnome inventors in Izheim blend Tazri with Deepmetal, creating self-sustaining automatons and flying vessels. This draws Zaetaedhel diplomats and Kaekreaedhel refugees, transforming Izheim into a multicultural innovation hub."
+				},
+				{
+					"year_start_ASS":1700,
+					"year_end_ASS":1725,
+					"year_start_MV":11306,
+					"year_end_MV":11331,
+					"title":"The Kaelotaedhel Purges Escalate",
+					"summary":"In response to Kaekreaedhel uprisings, Kaelotaedhel highbloods enact widespread memory-sanctification rituals to erase rebel histories. This backfires, awakening Yoori echoes that manifest as vengeful ancestor-spirits."
+				},
+				{
+					"year_start_ASS":1750,
+					"year_end_ASS":1750,
+					"year_start_MV":11356,
+					"year_end_MV":11356,
+					"title":"Hiniel's Archive Awakens",
+					"summary":"In Siniath's Ael’theryn, forbidden Hiniel texts self-illuminate during a solar eclipse. Scholars decipher lost Hah'Slen lore, sparking a renaissance in Tazri theory — but also attracting Nil'Thur cultists."
+				},
+				{
+					"year_start_ASS":1800,
+					"year_end_ASS":1825,
+					"year_start_MV":11406,
+					"year_end_MV":11431,
+					"title":"The Irudy Greenskin Revival",
+					"summary":"Ogim and Gogil shamans rediscover ancient Kori rites, unifying scattered tribes against human encroachment from Hjemland. This revival births hybrid warbands blending goblin cunning with orcish might."
+				},
+				{
+					"year_start_ASS":1850,
+					"year_end_ASS":1850,
+					"year_start_MV":11456,
+					"year_end_MV":11456,
+					"title":"Nostiriel's Oceanic Dirge",
+					"summary":"Zaetaedhel across southern seas enter collective trance, singing a lament that calms storms but drowns several coastal villages. The dirge reveals hidden Lotkrosis maps, reigniting exploration fever."
+				},
+				{
+					"year_start_ASS":1900,
+					"year_end_ASS":1950,
+					"year_start_MV":11506,
+					"year_end_MV":11556,
+					"title":"The Revakgol-Namuzdus Border War",
+					"summary":"Tensions over Deepmetal erupt into open conflict. Revakgol legions clash with dwarven fortifications, but gnome inventions turn the tide. The war ends in stalemate, forging uneasy trade pacts."
+				},
+				{
+					"year_start_ASS":2000,
+					"year_end_ASS":2025,
+					"year_start_MV":11606,
+					"year_end_MV":11631,
+					"title":"The Human-Sea Elf Trade Bloom",
+					"summary":"Strenia and Zaetaedhel enclaves establish underwater-overland trade routes. Pearls, Deepmetal, and arcane relics flow freely, enriching both cultures — but attracting pirate fleets from Irudy."
+				},
+				{
+					"year_start_ASS":2050,
+					"year_end_ASS":2050,
+					"year_start_MV":11656,
+					"year_end_MV":11656,
+					"title":"The Echoed Crown Prophecy",
+					"summary":"Namuzdus seers interpret a mountain tremor as prophecy: 'The Echoed Crown awakens when blood meets stone.' This fuels dwarven isolationism and preparations for unknown threats."
+				},
+				{
+					"year_start_ASS":2100,
+					"year_end_ASS":2125,
+					"year_start_MV":11706,
+					"year_end_MV":11731,
+					"title":"Kaekreaedhel Integration in Izheim",
+					"summary":"Twisted Elves fully integrate into gnomish society, blending blood magic with inventions. Hybrid automatons emerge, revolutionizing warfare — but ethical debates rage over 'living machines.'"
+				},
+				{
+					"year_start_ASS":2150,
+					"year_end_ASS":2150,
+					"year_start_MV":11756,
+					"year_end_MV":11756,
+					"title":"Hiniel's Temporal Rift",
+					"summary":"A massive time anomaly engulfs Issalyr, trapping scholars in loops of forgotten history. Survivors emerge with Hah'Slen memories, founding the 'Witness Order' to preserve ancient lore."
+				},
+				{
+					"year_start_ASS":2200,
+					"year_end_ASS":2225,
+					"year_start_MV":11806,
+					"year_end_MV":11831,
+					"title":"The Greenskin-Human Border Clashes",
+					"summary":"Irudy tribes raid Hjemland frontiers, testing Tjastad and Segenhain defenses. Alliances form between humans and dwarves, leading to shared Kori training and fortified outposts."
+				},
+				{
+					"year_start_ASS":2250,
+					"year_end_ASS":2250,
+					"year_start_MV":11856,
+					"year_end_MV":11856,
+					"title":"Nostiriel's Global Lament",
+					"summary":"Synchronized manifestations of Nostiriel occur worldwide, from Siniath groves to Irudy clefts. Mourners report visions of 'lost kin returning,' foreshadowing Kaekreaedhel cultural resurgence."
+				},
+				{
+					"year_start_ASS":2300,
+					"year_end_ASS":2350,
+					"year_start_MV":11906,
+					"year_end_MV":11956,
+					"title":"The Lotkrosis Colony Attempts",
+					"summary":"Multi-racial expeditions establish short-lived outposts on Lotkrosis. Most succumb to Ykheri anomalies or Yoori echoes, but survivors bring back 'echo-stones' that whisper forgotten dragon lore."
+				},
+				{
+					"year_start_ASS":2400,
+					"year_end_ASS":2425,
+					"year_start_MV":12006,
+					"year_end_MV":12031,
+					"title":"Revakgol's Internal Reformation",
+					"summary":"Saarotsos reformers challenge caste rigidity, incorporating Kaekreaedhel blood rites. This 'Flame Renewal' strengthens the empire but sparks purist rebellions in core provinces."
+				},
+				{
+					"year_start_ASS":2450,
+					"year_end_ASS":2450,
+					"year_start_MV":12056,
+					"year_end_MV":12056,
+					"title":"The Witness Order's Revelation",
+					"summary":"Hiniel's followers decode Hah'Slen texts, revealing Pah'Nad secrets. This ignites a Tazri renaissance in Siniath, but attracts Nil'Thur scrutiny and internal Elven schisms."
+				},
+				{
+					"year_start_ASS":2500,
+					"year_end_ASS":2525,
+					"year_start_MV":12106,
+					"year_end_MV":12131,
+					"title":"The Hjemland Confederation",
+					"summary":"Strenia, Segenhain, and Tjastad form a loose human alliance against Irudy incursions. Shared Kori academies emerge, blending naval, druidic, and martial traditions."
+				},
+				{
+					"year_start_ASS":2550,
+					"year_end_ASS":2550,
+					"year_start_MV":12156,
+					"year_end_MV":12156,
+					"title":"Nostiriel's Shadow Tide",
+					"summary":"A massive oceanic lament draws Zaetaedhel fleets south. Visions reveal 'buried flames' in Lotkrosis depths, prompting the first deep-sea explorations of the continent's submerged ruins."
+				},
+				{
+					"year_start_ASS":2600,
+					"year_end_ASS":2625,
+					"year_start_MV":12206,
+					"year_end_MV":12231,
+					"title":"The Deepmetal Wars",
+					"summary":"Revakgol invades Namuzdus fully, seeking Deepmetal monopolies. Dwarven-gnome defenses hold, but at great cost. The wars end in treaty, with shared mining rights and cultural exchanges."
+				},
+				{
+					"year_start_ASS":2650,
+					"year_end_ASS":2650,
+					"year_start_MV":12256,
+					"year_end_MV":12256,
+					"title":"Hiniel's Eternal Archive",
+					"summary":"The Witness Order constructs a time-sealed vault in Siniath, preserving Hah'Slen knowledge. Rumors spread of 'living memories' within, attracting spies from all continents."
+				},
+				{
+					"year_start_ASS":2700,
+					"year_end_ASS":2725,
+					"year_start_MV":12306,
+					"year_end_MV":12331,
+					"title":"The Greenskin Unity Pact",
+					"summary":"Ogim and Gogil forge a fragile federation in Irudy, blending Kori shamanism with tribal governance. This pact halts human expansion but ignites internal power struggles."
+				},
+				{
+					"year_start_ASS":2750,
+					"year_end_ASS":2750,
+					"year_start_MV":12356,
+					"year_end_MV":12356,
+					"title":"Nostiriel's Final Elegy",
+					"summary":"Global manifestations culminate in a 'world-weep,' where oceans rise with sorrow. Visions foretell 'the age of discord,' setting the stage for the Sixth Age's conflicts."
+				},
+				{
+					"year_start_ASS":2800,
+					"year_end_ASS":2850,
+					"year_start_MV":12406,
+					"year_end_MV":12456,
+					"title":"The Arcane Trade Golden Age",
+					"summary":"Izheim becomes a neutral hub for continent-spanning trade. Deepmetal, echo-stones, and Tazri tomes flow freely, enriching all — but breeding espionage and black markets."
+				},
+				{
+					"year_start_ASS":2900,
+					"year_end_ASS":2925,
+					"year_start_MV":12506,
+					"year_end_MV":12531,
+					"title":"The Kaekreaedhel Autonomy Movement",
+					"summary":"Integrated Twisted Elves demand recognition in Namuzdus and Izheim. Blood rites evolve into public rituals, gaining acceptance but sparking conservative backlash."
+				},
+				{
+					"year_start_ASS":2950,
+					"year_end_ASS":2950,
+					"year_start_MV":12556,
+					"year_end_MV":12556,
+					"title":"Hiniel's Prophecy Unveiled",
+					"summary":"The Witness Order reveals a Hah'Slen prophecy: 'The fractured return when memory weeps blood.' Interpretations vary, fueling alliances and paranoia across continents."
+				},
+				{
+					"year_start_ASS":3000,
+					"year_end_ASS":3025,
+					"year_start_MV":12606,
+					"year_end_MV":12631,
+					"title":"The Irudy-Hjemland Border Wars",
+					"summary":"Greenskin federations clash with human confederations over coastal territories. Kori shamans and druid-kings innovate hybrid tactics, leading to a fragile truce."
+				},
+				{
+					"year_start_ASS":3050,
+					"year_end_ASS":3050,
+					"year_start_MV":12656,
+					"year_end_MV":12656,
+					"title":"Nostiriel's Abyss Call",
+					"summary":"Zaetaedhel dreamers report collective visions of 'sorrow's crown' in Lotkrosis depths. Expeditions multiply, unearthing Firraaii relics that reshape Dragonbrood theology."
+				},
+				{
+					"year_start_ASS":3100,
+					"year_end_ASS":3125,
+					"year_start_MV":12706,
+					"year_end_MV":12731,
+					"title":"The Revakgol Reformation Crisis",
+					"summary":"Internal Dragonbrood schisms over Kaekreaedhel integration erupt into civil unrest. Reformers prevail, incorporating blood magic into imperial rites — at the cost of purist exiles."
+				},
+				{
+					"year_start_ASS":3150,
+					"year_end_ASS":3150,
+					"year_start_MV":12756,
+					"year_end_MV":12756,
+					"title":"Hiniel's World Archive",
+					"summary":"The Witness Order's vault expands globally through portals. Scholars from all continents contribute, creating the first pan-Nixxian knowledge repository — but attracting thieves and spies."
+				},
+				{
+					"year_start_ASS":3200,
+					"year_end_ASS":3225,
+					"year_start_MV":12806,
+					"year_end_MV":12831,
+					"title":"The Continental Trade Wars",
+					"summary":"Rivalries over arcane resources ignite proxy conflicts. Hjemland navies clash with Irudy raiders; Silgolt legions probe Siniath borders. Alliances shift, foreshadowing the Sixth Age's discord."
+				},
+				{
+					"year_start_ASS":3250,
+					"year_end_ASS":3265,
+					"year_start_MV":12856,
+					"year_end_MV":12870,
+					"title":"The Prelude to Discord",
+					"summary":"Prophecies from Nil'Thur and Firraaii converge, warning of 'community fractured.' Cultural exchanges peak amid rising tensions, setting the stage for the Sixth Age's alliances and betrayals."
+				}
+			]
+		},
+		"sixth_age":{
+			"name":"Sixth Age",
+			"sigtaara":"Anand'Brod-a-Paal",
+			"english":"The Age of Community and Discord",
+			"start_MV":12871,
+			"end_MV":null,
+			"start_ABP":1,
+			"end_ABP":null,
+			"events":[
+				
+			]
+		}
+	},
