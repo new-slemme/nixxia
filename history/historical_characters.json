@@ -1,0 +1,1533 @@
+"historical_characters":{
+		"first_age":{
+			"characters":{
+				
+			}
+		},
+		"second_age":{
+			"first_millenia":{
+				"range":"1501 MV ~ 2600 MV",
+				"characters":{
+					
+				}
+			},
+			"second_millenia":{
+				"range":"2600 MV ~ 3600 MV",
+				"characters":{
+					
+				}
+			},
+			"third_millenia":{
+				"range":"3600 MV ~ 4600 MV",
+				"characters":{
+					
+				}
+			}
+		},
+		"third_age":{
+			"first_millenia":{
+				"range":"4601 MV ~ 5500 MV",
+				"characters":{
+					
+				}
+			},
+			"second_millenia":{
+				"range":"5500 MV ~ 6400 MV",
+				"characters":{
+					"Voryk Kairtis":{
+						"generic":{
+							"presentation":{
+								"eyes":"Amber, glowing during Kori use",
+								"skin_feathers_fur_pigmentation":"Dusky crimson scales with black striations",
+								"hair":"Not mentioned",
+								"height":"2.4 m",
+								"weight":"130 kg",
+								"sex":"Male",
+								"gender":"Man",
+								"presentation":"Masculine and commanding, with a devout warrior's bearing emphasizing discipline and tactical prowess"
+							},
+							"origins":{
+								"age":"49 at death",
+								"pronouns":"He/Him",
+								"species":"Saarotsos",
+								"ethnicity":"Saarotsos",
+								"secondary_ethnicities_cultures":"Sosvaelmirt Clan traditions",
+								"family":"Partner to Sylra Kairtis; father to Torvaal, Zyra, Lirsa, and Kaemisyol (Zelguu)"
+							},
+							"current_state":{
+								"religious_belief_deity":"Rahsil’lah (primary), Rahboksul",
+								"current_status":"Deceased; historically influential clan leader and raider",
+								"current_location":"Deceased",
+								"current_residence":"Deceased; formerly Eastern Silgolt territories",
+								"affiliated_organization_primary":"Sosvaelmirt Clan",
+								"affiliated_organizations_extended":[
+									
+								],
+								"conditions":"Ritual scars and missing claw from battles",
+								"alignment":"Lawful Neutral (duty-driven with rigid honor)"
+							},
+							"birth":{
+								"birthday_date":"12 Zuzil",
+								"year_of_birth":"1190 AZN (5790 MV)",
+								"place_of_birth":"Eastern Silgolt, Ashen Crags",
+								"circumstances_of_birth":"Born into Sosvaelmirt Clan during turbulent times; no special circumstances noted"
+							},
+							"death":{
+								"death_date":"7 Daazil",
+								"year_of_death":"1239 AZN (5840 MV)",
+								"place_of_death":"Sosvaelmirt Proving Grounds, Eastern Silgolt",
+								"circumstances_of_death":"Died in ritual duel, likely a succession or honor challenge"
+							}
+						},
+						"naming":{
+							"honorific_title":"Flamecarver of the Bloodclaw",
+							"given_name":"Voryk",
+							"middle_name":"Unknown",
+							"family_name":"Kairtis",
+							"maiden_name":"Not applicable",
+							"suffix":"Unknown",
+							"nickname_alias":"Unknown"
+						},
+						"mental":{
+							"personal_history":"Born in Ashen Crags; became clan leader mastering Kori; led raids on Zegtuzsos; crafted warbanner; strained family bonds; died in duel",
+							"gender_identity":"Man",
+							"sexuality":"Unknown",
+							"education":"Clan-based tactical and spiritual training",
+							"employment":"Clan leader and raider",
+							"accomplishments_achievements":[
+								"Mastered Ko’Larkzil Kori",
+								"Led Zegtuzsos raids",
+								"Crafted Sosvaelmirt warbanner"
+							],
+							"failures_embarrassments":[
+								"Failed to unify factions",
+								"Lost warriors in raids",
+								"Strained bond with Sylra"
+							],
+							"mental_trauma":[
+								"Guilt over raid losses",
+								"Fear of clan legacy failure"
+							],
+							"intellectual_characteristics":"Tactically astute commander; devout strategist",
+							"morality_philosophy":"Strength as honor; weakness invites ruin; duty to clan supreme",
+							"taboos":"Weakness; disloyalty; outsider alliances",
+							"known_languages":[
+								"Sigtaara",
+								"Aedtaara"
+							]
+						},
+						"physical":{
+							"general_physical_condition":"Robust warrior; died at 89 in duel; battle-scarred but enduring",
+							"body_features":"Dusky crimson scales; ritual flame scars on chest",
+							"facial_features":"Amber glowing eyes; broad ram-like horns",
+							"identifying_features":"Missing left claw; polished horns",
+							"physical_quirks":"Glowing eyes during Kori",
+							"apparel_accessories":"Not mentioned",
+							"specialized_equipment":"Sosvaelmirt warbanner (crafted symbol)",
+							"special_abilities":"Kori kindling/flameweaving; raid leadership",
+							"character_prototype":"Stoic patriarch blending Tywin Lannister's strategy with Aragorn's duty"
+						},
+						"personal":{
+							"motivation":"Elevate Sosvaelmirt through strength and legacy",
+							"famous_quotes_catchphrases":[
+								"The flame within does not lie. Let it burn, and you will know your place."
+							],
+							"savvies_ineptitudes":"Savvy in leadership and Kori; inept in family reconciliation",
+							"likes_dislikes":{
+								"likes":[
+									"Clan duty",
+									"Kori truth",
+									"Storm crucibles"
+								],
+								"dislikes":[
+									"Weakness",
+									"Outsiders",
+									"Disunity"
+								]
+							},
+							"virtues_perks":[
+								"Courageous",
+								"Disciplined",
+								"Loyal"
+							],
+							"vices_flaws":[
+								"Stubborn",
+								"Angry",
+								"Dismissive"
+							],
+							"tics_quirks":"Flame-sigil carving; solitary hunts",
+							"hygiene":"Not mentioned",
+							"representation_legacy":"Martyr/cautionary pride; flame-etched warhammer symbol; honored/criticized by Saarotsos"
+						},
+						"social":{
+							"titles":[
+								"Flamecarver of the Bloodclaw"
+							],
+							"reign":"Not a ruler; led clan raids and trials",
+							"wealth":"Clan-based; modest",
+							"contacts_relations_other_affiliations":[
+								"Sosvaelmirt Clan",
+								"Rivals with Zegtuzsos"
+							],
+							"family_ties":"Partner to Sylra; father to Torvaal, Zyra, Lirsa, Kaemisyol",
+							"religious_views":"Devout Rahsil’lah and Rahboksul",
+							"social_aptitude":"Commanding charisma; astute ego; extroverted leader; devout etiquette",
+							"mannerisms":"Commanding and astute gestures",
+							"pets_hobbies":"No pets; hobbies include Kori meditation and sigil carving",
+							"speech":"Commanding tone; deep pitch; warrior accent; no impediments; catchphrases on flame; compliments loyal; insults dismissive; greetings devout; farewells tactical; swearing invokes gods; metaphors from storm and crucible"
+						},
+						"notable_ancestors":[
+							
+						],
+						"notable_descendants":[
+							{
+								"name":"Kaemisyol",
+								"age_active":"third_age"
+							}
+						],
+						"related_events":[
+							{
+								"title":"Zegtuzsos Raids",
+								"year_MV":5810
+							},
+							{
+								"title":"Sosvaelmirt Succession Duel",
+								"year_MV":5840
+							}
+						]
+					},
+					"Sylra Kairtis":{
+						"generic":{
+							"presentation":{
+								"eyes":"Violet, glowing with Kori",
+								"skin_feathers_fur_pigmentation":"Pale rose scales with gold flecks",
+								"hair":"Not mentioned",
+								"height":"2.2 m",
+								"weight":"85 kg",
+								"sex":"Female",
+								"gender":"Woman",
+								"presentation":"Feminine and serene, with an introspective spiritual presence emphasizing compassion and quiet command"
+							},
+							"origins":{
+								"age":"61 at death",
+								"pronouns":"She/Her",
+								"species":"Saarotsos",
+								"ethnicity":"Saarotsos",
+								"secondary_ethnicities_cultures":"Sosvaelmirt Clan traditions",
+								"family":"Partner to Voryk Kairtis; mother to Torvaal, Zyra, Lirsa, and Kaemisyol (Zelguu)"
+							},
+							"current_state":{
+								"religious_belief_deity":"Rahboksul (primary), Rahshaan",
+								"current_status":"Deceased; historically spiritual guide and visionary",
+								"current_location":"Deceased",
+								"current_residence":"Deceased; formerly Sosvaelmirt Flame-Cavern",
+								"affiliated_organization_primary":"Sosvaelmirt Clan",
+								"affiliated_organizations_extended":[
+									"Kavahl flamekeepers"
+								],
+								"conditions":"Prophetic visions; overwhelmed leading to death",
+								"alignment":"Lawful Good (focused on spiritual unity and preservation)"
+							},
+							"birth":{
+								"birthday_date":"29 Firzil",
+								"year_of_birth":"1195 AZN (5795 MV)",
+								"place_of_birth":"Eastern Silgolt, Sosvaelmirt Flame-Cavern",
+								"circumstances_of_birth":"Born into Sosvaelmirt Clan; no special circumstances noted"
+							},
+							"death":{
+								"death_date":"19 Etzil",
+								"year_of_death":"1256 AZN (5856 MV)",
+								"place_of_death":"Sosvaelmirt Flame-Cavern, Eastern Silgolt",
+								"circumstances_of_death":"Overwhelmed by Rahboksul vision during prophetic ritual"
+							}
+						},
+						"naming":{
+							"honorific_title":"Keeper of the Silent Ember",
+							"given_name":"Sylra",
+							"middle_name":"Unknown",
+							"family_name":"Kairtis",
+							"maiden_name":"Unknown",
+							"suffix":"Unknown",
+							"nickname_alias":"Unknown"
+						},
+						"mental":{
+							"personal_history":"Born in Flame-Cavern; became flamekeeper; guided trials and composed mandalas; suffered raid losses; final vision overwhelmed her",
+							"gender_identity":"Woman",
+							"sexuality":"Unknown",
+							"education":"Clan spiritual training; ritual knowledge",
+							"employment":"Kavahl flamekeeper",
+							"accomplishments_achievements":[
+								"Guided Kori Trials",
+								"Composed Rahboksul sand mandalas",
+								"Prophetic visions of 'dark flame'"
+							],
+							"failures_embarrassments":[
+								"Failed reconciliation with Voryk",
+								"Lost hatchlings in raid",
+								"Incomplete final vision"
+							],
+							"mental_trauma":[
+								"Grief over lost hatchlings",
+								"Isolation from Voryk"
+							],
+							"intellectual_characteristics":"Spiritually attuned visionary; patient guide",
+							"morality_philosophy":"Past shapes flame; unity and preservation essential",
+							"taboos":"Disunity; rejection of spiritual duty",
+							"known_languages":[
+								"Sigtaara",
+								"Aedtaara",
+								"Old Draconic (ritual)"
+							]
+						},
+						"physical":{
+							"general_physical_condition":"Resilient but strained by visions; died at 87 from spiritual overwhelm",
+							"body_features":"Pale rose scales; ritual claw scars",
+							"facial_features":"Violet glowing eyes; slender spiral horns",
+							"identifying_features":"Glowing flame-mark on arm; rune-etched horns",
+							"physical_quirks":"Glowing eyes during Kori",
+							"apparel_accessories":"Not mentioned",
+							"specialized_equipment":"Sand mandalas (ritual tools)",
+							"special_abilities":"Kori ignition; Tazri shivering reach; prophetic visions",
+							"character_prototype":"Mystic matron blending Yoda's wisdom with Cersei's familial devotion"
+						},
+						"personal":{
+							"motivation":"Preserve Sosvaelmirt spiritual legacy",
+							"famous_quotes_catchphrases":[
+								"The ember waits for no one, yet it burns for all who seek it."
+							],
+							"savvies_ineptitudes":"Savvy in spiritual guidance; inept in personal reconciliation",
+							"likes_dislikes":{
+								"likes":[
+									"Kori trials",
+									"Mandalas",
+									"Clan unity"
+								],
+								"dislikes":[
+									"Raids",
+									"Loss",
+									"Disunity"
+								]
+							},
+							"virtues_perks":[
+								"Compassionate",
+								"Patient",
+								"Attuned"
+							],
+							"vices_flaws":[
+								"Idealistic",
+								"Distant",
+								"Obsessed"
+							],
+							"tics_quirks":"Meditation and mandala creation; singing to eggs",
+							"hygiene":"Not mentioned",
+							"representation_legacy":"Spiritual guide; violet-flamed mandala symbol; cherished by Saarotsos as mystic"
+						},
+						"social":{
+							"titles":[
+								"Keeper of the Silent Ember"
+							],
+							"reign":"Not a ruler; guided spiritual matters",
+							"wealth":"Clan-based; modest",
+							"contacts_relations_other_affiliations":[
+								"Sosvaelmirt Clan",
+								"Kavahl flamekeepers"
+							],
+							"family_ties":"Partner to Voryk; mother to Torvaal, Zyra, Lirsa, Kaemisyol",
+							"religious_views":"Devout Rahboksul and Rahshaan",
+							"social_aptitude":"Compassionate charisma; attuned ego; introspective; ritual etiquette",
+							"mannerisms":"Serene and introspective gestures",
+							"pets_hobbies":"No pets; hobbies include mandala composition and egg singing",
+							"speech":"Serene tone; mid pitch; ritual accent; no impediments; catchphrases on embers; compliments patient; insults avoided; greetings spiritual; farewells visionary; swearing rare; metaphors from flame and future"
+						},
+						"notable_ancestors":[
+							
+						],
+						"notable_descendants":[
+							{
+								"name":"Kaemisyol",
+								"age_active":"third_age"
+							}
+						],
+						"related_events":[
+							{
+								"title":"Zegtuzsos Counter-Raid",
+								"year_MV":5830
+							},
+							{
+								"title":"Final Vision Ritual",
+								"year_MV":5842
+							}
+						]
+					},
+					"Torvaal Kairtis":{
+						"generic":{
+							"presentation":{
+								"eyes":"Molten gold, flaring during Kori use",
+								"skin_feathers_fur_pigmentation":"Deep crimson scales with ash-grey streaks",
+								"hair":"Not mentioned",
+								"height":"2.5 m",
+								"weight":"135 kg",
+								"sex":"Male",
+								"gender":"Man",
+								"presentation":"Masculine and fierce, with a charismatic warrior-poet demeanor emphasizing strength and poetic intensity"
+							},
+							"origins":{
+								"age":"26 at death",
+								"pronouns":"He/Him",
+								"species":"Saarotsos",
+								"ethnicity":"Saarotsos",
+								"secondary_ethnicities_cultures":"Sosvaelmirt Clan traditions",
+								"family":"Son of Voryk and Sylra Kairtis; older brother to Kaemisyol (Zelguu)"
+							},
+							"current_state":{
+								"religious_belief_deity":"Rahsil’lah (primary), Rahvulhahnu",
+								"current_status":"Deceased; historically influential in clan conflicts",
+								"current_location":"Deceased",
+								"current_residence":"Deceased; formerly Eastern Silgolt territories",
+								"affiliated_organization_primary":"Sosvaelmirt Clan",
+								"affiliated_organizations_extended":[
+									
+								],
+								"conditions":"Battle scars from raids",
+								"alignment":"Chaotic Neutral (driven by vengeance and clan supremacy)"
+							},
+							"birth":{
+								"birthday_date":"44 Etzil",
+								"year_of_birth":"1210 AZN (5810 MV)",
+								"place_of_birth":"Eastern Silgolt, Ashen Crags",
+								"circumstances_of_birth":"Born during clan raids; no special circumstances noted"
+							},
+							"death":{
+								"death_date":"13 Vurzil",
+								"year_of_death":"1236 AZN (5836 MV)",
+								"place_of_death":"Vyrkesh Pass, Eastern Silgolt",
+								"circumstances_of_death":"Slain in ambush by Heluraeg clan raiders while leading a warband"
+							}
+						},
+						"naming":{
+							"honorific_title":"Bloodsinger of the Ashen Veil",
+							"given_name":"Torvaal",
+							"middle_name":"Unknown",
+							"family_name":"Kairtis",
+							"maiden_name":"Not applicable",
+							"suffix":"Unknown",
+							"nickname_alias":"Unknown"
+						},
+						"mental":{
+							"personal_history":"Born in Ashen Crags; led warbands against rival Saarotsos clans; composed hymns and forged weapons; died in ambush, influencing clan resolve",
+							"gender_identity":"Man",
+							"sexuality":"Unknown",
+							"education":"Clan-based warrior training",
+							"employment":"Warband leader",
+							"accomplishments_achievements":[
+								"Led incursions against rival clans",
+								"Composed blood-sung hymns",
+								"Forged Veilblade"
+							],
+							"failures_embarrassments":[
+								"Failed Vyrkesh Pass defense",
+								"Underestimated rivals",
+								"Estranged siblings through war-focus"
+							],
+							"mental_trauma":[
+								"Survivor’s guilt from raids",
+								"Vengeance obsession"
+							],
+							"intellectual_characteristics":"Tactical and poetic; charismatic leader",
+							"morality_philosophy":"Blood spilled for clan is honorable; combat defines truth",
+							"taboos":"Weakness in battle; betrayal of clan",
+							"known_languages":[
+								"Sigtaara",
+								"Aedtaara"
+							]
+						},
+						"physical":{
+							"general_physical_condition":"Powerful and scarred; died at 26 from ambush wounds; athletic warrior build",
+							"body_features":"Deep crimson scales; braided tail-spikes",
+							"facial_features":"Molten gold eyes; scorched claw-marks",
+							"identifying_features":"Blade-like horns etched with sigils",
+							"physical_quirks":"Flaring eyes during Kori",
+							"apparel_accessories":"Not mentioned",
+							"specialized_equipment":"Veilblade (Kori-infused axe)",
+							"special_abilities":"Kori kindling; battle hymn composition",
+							"character_prototype":"Warrior-bard blending Achilles' fury with Beowulf's epic style"
+						},
+						"personal":{
+							"motivation":"Forge clan supremacy through blood and song",
+							"famous_quotes_catchphrases":[
+								"Sing the flame, and let it carve your name in ash."
+							],
+							"savvies_ineptitudes":"Savvy in combat and poetry; inept in family relations",
+							"likes_dislikes":{
+								"likes":[
+									"Combat honor",
+									"Clan songs",
+									"Kori truth"
+								],
+								"dislikes":[
+									"Rival clans",
+									"Weakness",
+									"Betrayal"
+								]
+							},
+							"virtues_perks":[
+								"Fearless",
+								"Inspirational",
+								"Unyielding"
+							],
+							"vices_flaws":[
+								"Reckless",
+								"Vengeful",
+								"Proud"
+							],
+							"tics_quirks":"Composes hymns obsessively; night vigils",
+							"hygiene":"Not mentioned",
+							"representation_legacy":"Hero/tragic vengeance symbol; Veilblade with quill; revered by Saarotsos warriors"
+						},
+						"social":{
+							"titles":[
+								"Bloodsinger of the Ashen Veil"
+							],
+							"reign":"Not a ruler; led warbands during clan conflicts",
+							"wealth":"Clan-based; modest as warrior",
+							"contacts_relations_other_affiliations":[
+								"Sosvaelmirt warbands",
+								"Rivals with Zegtuzsos"
+							],
+							"family_ties":"Son of Voryk and Sylra; brother to Kaemisyol",
+							"religious_views":"Devout Rahsil’lah and Rahvulhahnu follower",
+							"social_aptitude":"Charismatic leader; fierce ego; extroverted warrior; battle etiquette",
+							"mannerisms":"Fierce and poetic gestures",
+							"pets_hobbies":"No pets; hobbies include hymn composition and duels",
+							"speech":"Charismatic tone; mid-deep pitch; warrior accent; no impediments; catchphrases on flame; compliments inspirational; insults vengeful; greetings bold; farewells poetic; swearing invokes gods; metaphors from blood and ash"
+						},
+						"notable_ancestors":[
+							{
+								"name":"Voryk Kairtis",
+								"age_active":"third_age"
+							},
+							{
+								"name":"Sylra Kairtis",
+								"age_active":"third_age"
+							}
+						],
+						"notable_descendants":[
+							{
+								"name":"Kaemisyol",
+								"age_active":"third_age"
+							}
+						],
+						"related_events":[
+							{
+								"title":"Vyrkesh Pass Ambush",
+								"year_MV":5825,
+								"summary":"Torvaal led a Sosvaelmirt warband to secure Vyrkesh Pass but was ambushed by Zegtuzsos raiders. His death galvanized clan resolve, influencing Kaemisyol’s later campaigns."
+							}
+						]
+					},
+					"Zyra Kairtis":{
+						"generic":{
+							"presentation":{
+								"eyes":"Silver, dimmed after trauma",
+								"skin_feathers_fur_pigmentation":"Rose-red scales with faint black spirals",
+								"hair":"Not mentioned",
+								"height":"2.3 m",
+								"weight":"90 kg",
+								"sex":"Female",
+								"gender":"Woman",
+								"presentation":"Feminine and protective, with a withdrawn yet meticulous demeanor emphasizing resilience and quiet strength"
+							},
+							"origins":{
+								"age":"55 at death",
+								"pronouns":"She/Her",
+								"species":"Saarotsos",
+								"ethnicity":"Saarotsos",
+								"secondary_ethnicities_cultures":"Sosvaelmirt Clan traditions",
+								"family":"Daughter of Voryk and Sylra Kairtis; older sister to Kaemisyol (Zelguu)"
+							},
+							"current_state":{
+								"religious_belief_deity":"Rahboksul (primary), Rahshaan",
+								"current_status":"Deceased; historically known as relic guardian and raid survivor",
+								"current_location":"Deceased",
+								"current_residence":"Deceased; formerly Vusokaar, Revakgol Empire",
+								"affiliated_organization_primary":"Sosvaelmirt Clan",
+								"affiliated_organizations_extended":[
+									"Revakgol Empire",
+									"Keeper of the Ember-Vault"
+								],
+								"conditions":"Lingering wounds and trauma from raid",
+								"alignment":"Neutral Good (focused on clan preservation and resilience)"
+							},
+							"birth":{
+								"birthday_date":"22 Daazil",
+								"year_of_birth":"1215 AZN (5815 MV)",
+								"place_of_birth":"Eastern Silgolt, Sosvaelmirt Flame-Cavern",
+								"circumstances_of_birth":"Born into Sosvaelmirt Clan during period of raids"
+							},
+							"death":{
+								"death_date":"15 Etzil",
+								"year_of_death":"1270 AZN (5870 MV)",
+								"place_of_death":"Vusokaar, Revakgol Empire",
+								"circumstances_of_death":"Succumbed to lingering wounds and trauma from Zegtuzsos raid"
+							}
+						},
+						"naming":{
+							"honorific_title":"Ashweaver of the Silent Claw",
+							"given_name":"Zyra",
+							"middle_name":"Unknown",
+							"family_name":"Kairtis",
+							"maiden_name":"Not applicable",
+							"suffix":"Unknown",
+							"nickname_alias":"Unknown"
+						},
+						"mental":{
+							"personal_history":"Born in Sosvaelmirt Flame-Cavern; survived traumatic raid losing kin and relics; became relic guardian; aided Revakgol stability; withdrawn in later years focused on preservation",
+							"gender_identity":"Woman",
+							"sexuality":"Unknown",
+							"education":"Clan-based spiritual and protective training",
+							"employment":"Keeper of the Ember-Vault; clan guardian",
+							"accomplishments_achievements":[
+								"Wove ash into protective wards",
+								"Preserved clan relics",
+								"Survived raid and contributed to early Revakgol"
+							],
+							"failures_embarrassments":[
+								"Failed to prevent raid",
+								"Could not protect all relics",
+								"Incomplete healing from trauma"
+							],
+							"mental_trauma":[
+								"Violation during raid",
+								"Loss of kin and relics",
+								"Persistent fear of betrayal"
+							],
+							"intellectual_characteristics":"Resourceful protector, meticulous guardian",
+							"morality_philosophy":"Clan survival worth any sacrifice; endurance heals",
+							"taboos":"Betrayal of clan; rejection of duty",
+							"known_languages":[
+								"Sigtaara",
+								"Aedtaara"
+							]
+						},
+						"physical":{
+							"general_physical_condition":"Resilient but scarred; lingered with wounds until death; protective build",
+							"body_features":"Rose-red scales; ritual ash tattoos on arms",
+							"facial_features":"Silver eyes; short crescent horns",
+							"identifying_features":"Cracked horns post-raid; scarred tail",
+							"physical_quirks":"Withdrawn posture after trauma",
+							"apparel_accessories":"Not mentioned",
+							"specialized_equipment":"Ash wards (crafted protections)",
+							"special_abilities":"Kori ignition; possible Tazri reach",
+							"character_prototype":"Trauma survivor blending Brienne of Tarth's duty with Cersei Lannister's resilience"
+						},
+						"personal":{
+							"motivation":"Protect clan legacy through preservation and resilience",
+							"famous_quotes_catchphrases":[
+								"The ash holds our past. I weave it so we may endure."
+							],
+							"savvies_ineptitudes":"Savvy in warding and preservation; inept in direct confrontation",
+							"likes_dislikes":{
+								"likes":[
+									"Clan protection",
+									"Relic guardianship",
+									"Silent meditations"
+								],
+								"dislikes":[
+									"Raids and betrayal",
+									"Loss of kin",
+									"Unhealed trauma"
+								]
+							},
+							"virtues_perks":[
+								"Resilient",
+								"Devoted",
+								"Resourceful"
+							],
+							"vices_flaws":[
+								"Withdrawn",
+								"Overly cautious",
+								"Guilt-haunted"
+							],
+							"tics_quirks":"Weaves ash wards compulsively; guards solitude",
+							"hygiene":"Not mentioned",
+							"representation_legacy":"Symbol of survival; ash-woven spiral symbol; mourned by Saarotsos as enduring keeper"
+						},
+						"social":{
+							"titles":[
+								"Ashweaver of the Silent Claw"
+							],
+							"reign":"Not a ruler; guarded relics during empire's formation",
+							"wealth":"Clan-based; modest",
+							"contacts_relations_other_affiliations":[
+								"Sosvaelmirt Clan guardian",
+								"Revakgol Empire affiliate"
+							],
+							"family_ties":"Daughter of Voryk and Sylra; sister to Kaemisyol",
+							"religious_views":"Devout Rahboksul and Rahshaan follower",
+							"social_aptitude":"Protective charisma; devoted ego; introspective; ritualistic etiquette",
+							"mannerisms":"Quiet and fierce gestures; meticulous movements",
+							"pets_hobbies":"No pets; hobbies include ash weaving and vault guarding",
+							"speech":"Quiet tone; low pitch; ritual accent; no impediments; catchphrases on endurance; compliments devoted; insults avoided; greetings protective; farewells dutiful; swearing rare; metaphors from ash and endurance"
+						},
+						"notable_ancestors":[
+							{
+								"name":"Voryk Kairtis",
+								"age_active":"third_age"
+							},
+							{
+								"name":"Sylra Kairtis",
+								"age_active":"third_age"
+							}
+						],
+						"notable_descendants":[
+							{
+								"name":"Kaemisyol",
+								"age_active":"third_age"
+							}
+						],
+						"related_events":[
+							{
+								"title":"Zegtuzsos Counter-Raid",
+								"year_MV":5830,
+								"summary":"Zyra was violated during a brutal Zegtuzsos raid on the Sosvaelmirt Flame-Cavern, losing kin and relics. Her survival and wards strengthened clan defenses, later aiding Revakgol’s stability."
+							}
+						]
+					},
+					"Zelguu Kairtis":{
+						"generic":{
+							"presentation":{
+								"eyes":"Red, piercing and intense",
+								"skin_feathers_fur_pigmentation":"Grey scales, textured and battle-worn",
+								"hair":"Not mentioned",
+								"height":"2.6 m",
+								"weight":"140 kg",
+								"sex":"Male",
+								"gender":"Man",
+								"presentation":"Imposing and regal, with a commanding masculine presence emphasizing strength and authority"
+							},
+							"origins":{
+								"age":"196 at death",
+								"pronouns":"He/Him",
+								"species":"Saarotsos (Dragonkin)",
+								"ethnicity":"Saarotsos",
+								"secondary_ethnicities_cultures":"Dovagoraan cultural influences",
+								"family":"Had children; part of imperial lineage"
+							},
+							"current_state":{
+								"religious_belief_deity":"Firhohii (Dragon Gods)",
+								"current_status":"Deceased; historical founder and unifier",
+								"current_location":"Deceased",
+								"current_residence":"Deceased; formerly associated with the Empire of Revakgol",
+								"affiliated_organization_primary":"Empire of Revakgol (Founder)",
+								"affiliated_organizations_extended":[
+									
+								],
+								"conditions":"Died of old age; experienced paranoia and nightmares",
+								"alignment":"Lawful Evil/Neutral (focused on supremacy and order through strength)"
+							},
+							"birth":{
+								"birthday_date":"23 Daazil",
+								"year_of_birth":"1230 AZN (5831 MV)",
+								"place_of_birth":"Eastern Silgolt",
+								"circumstances_of_birth":""
+							},
+							"death":{
+								"death_date":"17 Vurzil",
+								"year_of_death":"1426 AZN (6027 MV)",
+								"place_of_death":"Imperial City",
+								"circumstances_of_death":"Died of old age; haunted by nightmares and paranoia in final years"
+							}
+						},
+						"naming":{
+							"honorific_title":"Aalki (Emperor)",
+							"given_name":"Zelguu (birth name), Kaemisyol (adopted/known name)",
+							"middle_name":"Unknown",
+							"family_name":"Kairtis",
+							"maiden_name":"Not applicable",
+							"suffix":"Unknown",
+							"nickname_alias":"The Dark Flame"
+						},
+						"mental":{
+							"personal_history":"Molded by tribal conflict, raised amid violence; rose from strife to unify Silgolt through conquest; experienced betrayals, defeats, and ultimate triumph; suffered paranoia and isolation in power; legacy contested as visionary or tyrant",
+							"gender_identity":"Man",
+							"sexuality":"Pursued both women and men; subject to rumors of moral corruption",
+							"education":"Self-taught; surrounded by scholars and philosophers",
+							"employment":"Warlord, tactician, ruler",
+							"accomplishments_achievements":[
+								"Unified Silgolt",
+								"Tamed a Ghostback",
+								"Won the Great Wyrm War",
+								"Founded Empire of Revakgol and Vusokaar",
+								"Revolutionized martial training",
+								"Established Citadel Archives",
+								"Fostered cultural synthesis"
+							],
+							"failures_embarrassments":[
+								"Betrayal by Karthuun",
+								"Defeat at Kriistahv",
+								"Drained treasury",
+								"Alienation of allies",
+								"Fractured legacy"
+							],
+							"mental_trauma":[
+								"Survivor’s guilt from childhood",
+								"Nightmares of the dead",
+								"Paranoia after betrayals",
+								"Emotional withdrawal"
+							],
+							"intellectual_characteristics":"Strategic visionary, rhetorician, multicultural savant, calculating learner",
+							"morality_philosophy":"Strength justifies sovereignty; order is survival; fire refines",
+							"taboos":"Intolerance for dissent; disdain for weakness",
+							"known_languages":[
+								"Sigtaara",
+								"Aedtaara"
+							]
+						},
+						"physical":{
+							"general_physical_condition":"Robust and enduring; lived to 196 years despite wars and strains; athletic build suited for leadership and combat",
+							"body_features":"Grey scales, muscular frame",
+							"facial_features":"Red eyes, angular draconic features",
+							"identifying_features":"Grey scales (distinctive among crimson Saarotsos)",
+							"physical_quirks":"Periods of staring at the sea; hyper-control in movements",
+							"apparel_accessories":"Not mentioned",
+							"specialized_equipment":"Rode a Silgoltian Ghostback",
+							"special_abilities":"Mastered Kori to Ko'Yolhak (Flameweaving), possibly Ko'Vooklazil; aura inspired courage or crushed enemies",
+							"character_prototype":"Not mentioned"
+						},
+						"personal":{
+							"motivation":"Unification and elevation of Saarotsos; control through vision and strength",
+							"famous_quotes_catchphrases":[
+								"Greatness is not inherited — it is seized. And those who falter deserve their fall."
+							],
+							"savvies_ineptitudes":"Savvy in strategy, rhetoric, administration; inept in emotional vulnerability, subtle diplomacy",
+							"likes_dislikes":{
+								"likes":[
+									"Control and order",
+									"Cultural synthesis",
+									"Prophetic visions"
+								],
+								"dislikes":[
+									"Betrayal",
+									"Weakness",
+									"Chaos"
+								]
+							},
+							"virtues_perks":[
+								"Strategic brilliance",
+								"Rhetorical mastery",
+								"Administrative foresight",
+								"Cultural pragmatism"
+							],
+							"vices_flaws":[
+								"Volatile temper",
+								"Paranoia",
+								"Authoritarian pride",
+								"Moral corruption rumors"
+							],
+							"tics_quirks":"Extended silences, hyper-control of decisions",
+							"hygiene":"Not mentioned",
+							"representation_legacy":"Mythic founder; symbolized by Ghostback in flight; revered as visionary by Saarotsos, debated as tyrant by scholars"
+						},
+						"social":{
+							"titles":[
+								"Vaazaa'Dovaajun",
+								"The Dark Flame"
+							],
+							"reign":"Unified Silgolt through wars and reforms; memorable for Great Wyrm War victory, founding Vusokaar and Empire; reigned from ~5866 AZN until death in 1426 AZN",
+							"wealth":"Vast imperial resources; drained treasury during campaigns but rebuilt through conquests",
+							"contacts_relations_other_affiliations":[
+								"Betrayed by Karthuun Veyl",
+								"Allied with scholars and philosophers",
+								"Rivaled Zegtuzsos tribes"
+							],
+							"family_ties":"Had children",
+							"religious_views":"Devout Firhohii; used Dragon Gods to justify unification",
+							"social_aptitude":"High charisma and ego; extroverted ruler; formal etiquette with underlying restlessness",
+							"mannerisms":"Restless gestures, calculated pauses in speech",
+							"pets_hobbies":"Rode Ghostback; hobbies included tactical study and philosophical consultation",
+							"speech":"Commanding tone; mid-deep pitch; formal dialect; no impediments; catchphrases on greatness; compliments strategic; insults cutting on weakness; greetings formal; farewells visionary; swearing invokes dragons; metaphors from fire and conquest"
+						},
+						"notable_ancestors":[
+							
+						],
+						"notable_descendants":[
+							{
+								"name":"Aasa Zairtis",
+								"age_active":"fourth_age"
+							}
+						],
+						"related_events":[
+							{
+								"title":"The Great Wyrm War",
+								"year_MV":5869
+							},
+							{
+								"title":"Founding of the Empire of Revakgol",
+								"year_MV":5866
+							}
+						]
+					},
+					"Lirsa Kairtis":{
+						"generic":{
+							"presentation":{
+								"eyes":"Violet with gold flecks, glowing softly",
+								"skin_feathers_fur_pigmentation":"Pale crimson scales with silver undertones",
+								"hair":"Not mentioned",
+								"height":"2.2 m",
+								"weight":"80 kg",
+								"sex":"Female",
+								"gender":"Woman",
+								"presentation":"Feminine and ethereal, with a gentle yet resolute demeanor emphasizing spiritual grace and quiet authority"
+							},
+							"origins":{
+								"age":"Unknown (active in Third Age; fate post-5850 MV unclear)",
+								"pronouns":"She/Her",
+								"species":"Saarotsos",
+								"ethnicity":"Saarotsos",
+								"secondary_ethnicities_cultures":"Sosvaelmirt Clan traditions, Dovagoraan influences",
+								"family":"Daughter of Sylra and Raanuk Kairtis; half-sister to Kaemisyol"
+							},
+							"current_state":{
+								"religious_belief_deity":"Rahvulhahnu (primary), Rahshaan",
+								"current_status":"Fate unknown; historically active as clan seer and mediator",
+								"current_location":"Unknown",
+								"current_residence":"Unknown; formerly Sosvaelmirt Flame-Cavern",
+								"affiliated_organization_primary":"Sosvaelmirt Clan",
+								"affiliated_organizations_extended":[
+									"Revakgol Empire",
+									"Dawnveil Seers"
+								],
+								"conditions":"Prophetic visions; no known abnormalities",
+								"alignment":"Neutral Good (focused on clan unity and spiritual guidance)"
+							},
+							"birth":{
+								"birthday_date":"9 Etzil",
+								"year_of_birth":"1243 AZN (5843 MV)",
+								"place_of_birth":"Eastern Silgolt, Sosvaelmirt Flame-Cavern",
+								"circumstances_of_birth":"Born into Sosvaelmirt Clan during period of raids and visions; no special circumstances noted"
+							},
+							"death":{
+								"death_date":"Unknown",
+								"year_of_death":"Unknown",
+								"place_of_death":"Unknown",
+								"circumstances_of_death":"Unknown; no recorded death in sources"
+							}
+						},
+						"naming":{
+							"honorific_title":"Starflame of the Dawnveil",
+							"given_name":"Lirsa",
+							"middle_name":"Unknown",
+							"family_name":"Kairtis",
+							"maiden_name":"Not applicable",
+							"suffix":"Unknown",
+							"nickname_alias":"Unknown"
+						},
+						"mental":{
+							"personal_history":"Born in Sosvaelmirt Flame-Cavern; developed prophetic abilities; mediated clan disputes after Voryk's death; contributed to unity paving way for Kaemisyol's empire; focused on visions and talisman crafting",
+							"gender_identity":"Woman",
+							"sexuality":"Unknown",
+							"education":"Trained in clan spiritual traditions and Kori rites; self-taught in visions",
+							"employment":"Clan seer and mediator",
+							"accomplishments_achievements":[
+								"Prophetic visions under Aekiir’s light",
+								"Crafted starfire talismans",
+								"Mediated Dawnveil Accord unifying clan factions"
+							],
+							"failures_embarrassments":[
+								"Failed to unify factions fully post-Voryk",
+								"Cryptic visions limited action",
+								"Did not foresee Zegtuzsos retaliation"
+							],
+							"mental_trauma":[
+								"Grief over Voryk’s death",
+								"Pressure of clan expectations and visions"
+							],
+							"intellectual_characteristics":"Visionary thinker, diplomatic mediator, spiritually attuned",
+							"morality_philosophy":"Unity through vision and harmony; stars guide all",
+							"taboos":"Conflict avoidance when possible; rejection of disunity",
+							"known_languages":[
+								"Sigtaara",
+								"Aedtaara",
+								"Old Draconic (ritual)"
+							]
+						},
+						"physical":{
+							"general_physical_condition":"Agile and resilient; spiritually focused build with subtle strength; no known impairments",
+							"body_features":"Pale crimson scales; slender build optimized for grace",
+							"facial_features":"Violet-gold eyes; polished slender horns",
+							"identifying_features":"Star-like Kori sigils on shoulders; crystal-beaded tail",
+							"physical_quirks":"Glowing eyes during visions",
+							"apparel_accessories":"Not mentioned; likely ritual garments and talismans",
+							"specialized_equipment":"Starfire talismans (crafted foci)",
+							"special_abilities":"Prophetic visions; Kori ignition; basic Tazri reach",
+							"character_prototype":"Mystic oracle blending Galadriel's foresight with Daenerys' quiet resolve"
+						},
+						"personal":{
+							"motivation":"Guide clan through visions; foster unity and healing",
+							"famous_quotes_catchphrases":[
+								"The dawn breaks not to burn, but to guide."
+							],
+							"savvies_ineptitudes":"Savvy in diplomacy and visions; inept in direct conflict",
+							"likes_dislikes":{
+								"likes":[
+									"Starlit meditations",
+									"Clan harmony",
+									"Rahvulhahnu’s guidance"
+								],
+								"dislikes":[
+									"Clan division",
+									"Cryptic visions",
+									"Zegtuzsos threats"
+								]
+							},
+							"virtues_perks":[
+								"Wise",
+								"Compassionate",
+								"Diplomatic"
+							],
+							"vices_flaws":[
+								"Overly idealistic",
+								"Avoidant of conflict",
+								"Self-doubt"
+							],
+							"tics_quirks":"Crafts talismans when anxious; seeks solitude for visions",
+							"hygiene":"Not mentioned; likely ritualistic given spiritual role",
+							"representation_legacy":"Seer bridging generations; symbolized by violet-flame talisman; cherished by Saarotsos as visionary"
+						},
+						"social":{
+							"titles":[
+								"Starflame of the Dawnveil"
+							],
+							"reign":"Not a ruler; mediated clan affairs post-Voryk",
+							"wealth":"Clan-based; modest as seer",
+							"contacts_relations_other_affiliations":[
+								"Sosvaelmirt Clan mediator",
+								"Revakgol Empire affiliate",
+								"Dawnveil Seers"
+							],
+							"family_ties":"Daughter of Sylra; half-sister to Kaemisyol",
+							"religious_views":"Devout Rahvulhahnu and Rahshaan follower",
+							"social_aptitude":"Diplomatic charisma; introspective ego; gentle extroversion; ritualistic etiquette",
+							"mannerisms":"Calm gestures; soft-spoken with visionary pauses",
+							"pets_hobbies":"No pets; hobbies include talisman crafting and star meditations",
+							"speech":"Serene tone; mid pitch; ritual accent; no impediments; catchphrases visionary; compliments gentle; insults avoided; greetings spiritual; farewells prophetic; swearing rare; metaphors from stars and flame"
+						},
+						"notable_ancestors":[
+							{
+								"name":"Sylra Kairtis",
+								"age_active":"third_age"
+							},
+							{
+								"name":"Raanuk Kairtis",
+								"age_active":"third_age"
+							}
+						],
+						"notable_descendants":[
+							
+						],
+						"related_events":[
+							{
+								"title":"Dawnveil Accord",
+								"year_MV":5850,
+								"summary":"Lirsa mediated a truce among Sosvaelmirt factions, using her visions to guide the clan toward unity, paving the way for Kaemisyol’s empire."
+							}
+						]
+					}
+				}
+			}
+		},
+		"fourth_age":{
+			"first_millenia":{
+				"range":"6401 MV ~ 7500 MV",
+				"characters":{
+					
+				}
+			},
+			"second_millenia":{
+				"range":"7500 MV ~ 8600 MV",
+				"characters":{
+					
+				}
+			},
+			"third_millenia":{
+				"range":"8600 MV ~ 9605 MV",
+				"characters":{
+					"Aasa Kairtis":{
+						"generic":{
+							"presentation":{
+								"eyes":"Amber with violet flecks, large and piercing, often narrowed in contemplation or resolve",
+								"skin_feathers_fur_pigmentation":"Deep crimson scales with subtle iridescent sheen; faint golden markings along wings and spine from Lokraasos heritage",
+								"hair":"No hair; instead, a mane-like ridge of flexible spines in metallic gold, styled short and practical for flight",
+								"height":"2.4 m",
+								"weight":"110 kg",
+								"sex":"Female",
+								"gender":"Woman",
+								"presentation":"Feminine with commanding presence; regal bearing emphasizing strength and grace"
+							},
+							"origins":{
+								"age":"Unknown (historical figure; active in late Fourth Age)",
+								"pronouns":"She/Her",
+								"species":"Lokraasos",
+								"ethnicity":"Dovagoraan (Dragonbrood)",
+								"secondary_ethnicities_cultures":"Imperial Revakgol culture, influenced by Saarotsos traditions",
+								"family":"Imperial family of Revakgol; descendant of Kaemisyol's line"
+							},
+							"current_state":{
+								"religious_belief_deity":"Firraaii (Dragon Gods); revered Rahvulhahnu for prophetic visions",
+								"current_status":"Deceased; historically known for stabilizing the Revakgol Empire",
+								"current_location":"Deceased",
+								"current_residence":"Deceased; formerly the Imperial Palace in Vusokaar",
+								"affiliated_organization_primary":"Empire of Revakgol",
+								"affiliated_organizations_extended":[
+									
+								],
+								"conditions":"First Lokraasos born in imperial family; seen as prophetic reincarnation",
+								"alignment":"Lawful Neutral (focused on imperial stability and legacy)"
+							},
+							"birth":{
+								"birthday_date":"Unknown",
+								"year_of_birth":"9545 MV (3145 AMD)",
+								"place_of_birth":"Imperial Palace, Revakgol Empire",
+								"circumstances_of_birth":"Born as the first Lokraasos (winged Dragonbrood) in the imperial family; viewed as a prophesied sign amid empire's decline, often called 'Kaemisyol come again' linking to the empire's founder"
+							},
+							"death":{
+								"death_date":"Unknown",
+								"year_of_death":"Unknown (post-9605 MV)",
+								"place_of_death":"Unknown",
+								"circumstances_of_death":"Unknown; historical records focus on her reign rather than death"
+							}
+						},
+						"naming":{
+							"honorific_title":"Empress Zurgaasyol, the Cleansing Flame",
+							"given_name":"Aasa",
+							"middle_name":"Unknown",
+							"family_name":"Zairtis",
+							"maiden_name":"Unknown",
+							"suffix":"Unknown",
+							"nickname_alias":"Kaemisyol Reborn, the Winged Flame"
+						},
+						"mental":{
+							"personal_history":"Born into Revakgol's imperial family as the first Lokraasos, Aasa's birth was seen as prophetic amid civil wars. She rose to empress during crisis, stabilizing the empire through strong leadership and reforms. Known for embodying Kaemisyol's spirit, she preserved Revakgol from collapse.",
+							"gender_identity":"Woman; aligned with Dovagoraan cultural norms where gender is fluid but capability defines roles",
+							"sexuality":"Unknown",
+							"education":"Trained in imperial traditions, Kori mastery, and strategic governance; likely mentored in Firraaii prophecies",
+							"employment":"Empress of Revakgol; previously involved in imperial court during civil wars",
+							"accomplishments_achievements":[
+								"Ascended as Empress Zurgaasyol during civil wars",
+								"Preserved Revakgol Empire from collapse",
+								"Seen as reincarnation of founder Kaemisyol",
+								"Implemented reforms to stabilize declining empire"
+							],
+							"failures_embarrassments":[
+								"Empire faced near-total collapse during her early reign",
+								"Civil wars raged through her childhood and ascension"
+							],
+							"mental_trauma":[
+								"Witnessed civil wars in youth",
+								"Pressure of prophetic expectations as first imperial Lokraasos"
+							],
+							"intellectual_characteristics":"Strategic thinker, visionary leader, deeply attuned to Kori and prophecies",
+							"morality_philosophy":"Strength through unity and flame; empire's survival above all, echoing Kaemisyol's ideals",
+							"taboos":"Betrayal of bloodline, weakness in leadership",
+							"known_languages":[
+								"Sigtaara (fluent)",
+								"Aedtaara (likely proficient)"
+							]
+						},
+						"physical":{
+							"general_physical_condition":"Athletic and imposing; winged Lokraasos form grants flight and enhanced presence. Regal yet battle-ready build, marked by imperial scars and prophetic aura. No known illnesses.",
+							"body_features":"Tall, muscular frame with crimson scales; large membranous wings spanning 4-5 meters; clawed hands and feet; horned skull with spiral patterns",
+							"facial_features":"Angular face with glowing amber-violet eyes; prominent jawline; subtle scale ridges emphasizing expression",
+							"identifying_features":"Wings (rare Lokraasos trait); golden markings on scales; imperial flame tattoos",
+							"physical_quirks":"Wings twitch during intense emotion; scales shimmer when channeling Kori",
+							"apparel_accessories":"Imperial armor etched with flame sigils; crown of dragonbone; cloak woven from ghostback hide",
+							"specialized_equipment":"Cleansing Flame scepter (Kori focus); ancestral blade from Kaemisyol's era",
+							"special_abilities":"Flight (Lokraasos wings); advanced Kori mastery; prophetic visions",
+							"character_prototype":"Reincarnated hero-figure, blending Joan of Arc's visionary leadership with Daenerys Targaryen's draconic heritage and imperial command"
+						},
+						"personal":{
+							"motivation":"Preserve and revitalize Revakgol Empire; fulfill prophetic role as 'Kaemisyol come again'; ensure Dovagoraan's legacy",
+							"famous_quotes_catchphrases":[
+								"The flame cleanses what time corrupts.",
+								"We are the blood of dragons — unbroken, unbowed."
+							],
+							"savvies_ineptitudes":"Savvy in military strategy and Kori rituals; inept in subtle diplomacy or court intrigue",
+							"likes_dislikes":{
+								"likes":[
+									"Flight over Silgolt's peaks",
+									"Firraaii prophecies",
+									"Imperial unity"
+								],
+								"dislikes":[
+									"Civil discord",
+									"Weak leadership",
+									"Foreign interference"
+								]
+							},
+							"virtues_perks":[
+								"Resilient will",
+								"Prophetic insight",
+								"Commanding presence",
+								"Strategic genius"
+							],
+							"vices_flaws":[
+								"Ruthless ambition",
+								"Prophecy-driven paranoia",
+								"Emotional isolation",
+								"Authoritarian tendencies"
+							],
+							"tics_quirks":"Folds wings tightly when tense; traces flame sigils unconsciously; speaks in rhythmic cadences during speeches",
+							"hygiene":"Impeccable; scales polished daily, ritual cleansings with sacred oils",
+							"representation_legacy":"Symbolized by winged flame emblem; legacy as empire's savior, inspiring Lokraasos veneration and reforms; viewed as bridge between Kaemisyol's foundation and future stability"
+						},
+						"social":{
+							"titles":[
+								"Empress",
+								"Zurgaasyol",
+								"The Cleansing Flame",
+								"Kaemisyol Reborn"
+							],
+							"reign":"Memorable for ending civil wars, implementing caste reforms, expanding Kori traditions; reigned from 9600-9605 MV onward (exact end unknown)",
+							"wealth":"Imperial vast; controlled Revakgol's treasury during recovery; personal assets included prophetic artifacts and dragonbone regalia",
+							"contacts_relations_other_affiliations":[
+								"Allied with reformist Dovjun",
+								"Rivaled conservative caste leaders",
+								"Spiritual ties to Firraaii prophets"
+							],
+							"family_ties":"Imperial bloodline; first Lokraasos born; possible descendants in later ages",
+							"religious_views":"Devout Firraaii follower; emphasized Rahvulhahnu's visions in governance",
+							"social_aptitude":"High charisma in command; confident ego; extroverted leader; formal etiquette with underlying passion",
+							"mannerisms":"Deliberate gestures emphasizing wings; deep, resonant voice; pauses for dramatic effect; clasps hands when issuing judgments",
+							"pets_hobbies":"No pets; hobbies included aerial scouting and studying ancient texts",
+							"speech":"Deep, commanding tone; mid pitch; formal accent with prophetic inflections; no impediments; catchphrases like 'The flame rises'; compliments rare and earned; insults veiled in metaphor; greetings formal ('Flame be with you'); farewells prophetic ('Until the embers call'); swearing invokes Firraaii; metaphors draw from fire and flight"
+						},
+						"notable_ancestors":[
+							{
+								"name":"Kaemisyol",
+								"age_active":"third_age"
+							}
+						],
+						"notable_descendants":[
+							
+						],
+						"related_events":[
+							
+						]
+					}
+				}
+			}
+		},
+		"fifth_age":{
+			"first_millenia":{
+				"range":"9606 MV ~ 10600 MV",
+				"characters":{
+					"Nenekyn Riiulgruth":{
+						"generic":{
+							"presentation":{
+								"eyes":"Large almond-shaped purple, like twilight ocean depths",
+								"skin_feathers_fur_pigmentation":"Cool grey-lavender tone, gleaming faintly under moonlight",
+								"hair":"Long black curls tinged with reefshine violet, often woven with drift-coral and shell-pendants",
+								"height":"Unknown",
+								"weight":"Unknown",
+								"sex":"Female",
+								"gender":"Woman",
+								"presentation":"Feminine and ethereal, with a distant visionary demeanor emphasizing poetic mystery and aquatic grace"
+							},
+							"origins":{
+								"age":"Unknown (active in Fifth Age)",
+								"pronouns":"She/Her",
+								"species":"Zaetaedhel",
+								"ethnicity":"Zaetaedhel",
+								"secondary_ethnicities_cultures":"Tide-Seer traditions",
+								"family":"Matrilineal founder of Riiulgruth dreamline"
+							},
+							"current_state":{
+								"religious_belief_deity":"Nostiriel-aligned Lotkrosis sects (cultic ancestor)",
+								"current_status":"Fate unknown; historically pioneering explorer and poet",
+								"current_location":"Unknown",
+								"current_residence":"Unknown; associated with Drifting Reefs",
+								"affiliated_organization_primary":"Dream-Vigilant of the Tide-Seers",
+								"affiliated_organizations_extended":[
+									"Nostiriel-aligned Lotkrosis sects"
+								],
+								"conditions":"Sea-scribed tattoos from Lotkrosis return",
+								"alignment":"Neutral Good (driven by revelation and witness)"
+							},
+							"birth":{
+								"birthday_date":"15 Etzil",
+								"year_of_birth":"480 ASS (10012 MV)",
+								"place_of_birth":"Drifting Reefs of Uruvaril",
+								"circumstances_of_birth":"Born among Zaetaedhel dreamers; no special circumstances noted"
+							},
+							"death":{
+								"death_date":"Unknown",
+								"year_of_death":"Unknown",
+								"place_of_death":"Unknown",
+								"circumstances_of_death":"Unknown"
+							}
+						},
+						"naming":{
+							"honorific_title":"Siren-Dreamer of the Ninth Moon",
+							"given_name":"Nenekyn",
+							"middle_name":"Unknown",
+							"family_name":"Riiulgruth",
+							"maiden_name":"Unknown",
+							"suffix":"Unknown",
+							"nickname_alias":"The Ninth Night, She Who Returned from the Drowned"
+						},
+						"mental":{
+							"personal_history":"Born in Drifting Reefs; became Siren-dreamer; first to land on Lotkrosis post-Firraaii; composed Nine Dream-Poems; catalyzed Hollowing Song; founded Riiulgruth dreamline",
+							"gender_identity":"Woman",
+							"sexuality":"Unknown",
+							"education":"Tide-Seer visionary training",
+							"employment":"Dream-Vigilant explorer and poet",
+							"accomplishments_achievements":[
+								"First Lotkrosis landing and return",
+								"Composed Nine Dream-Poems",
+								"Catalyst for Hollowing Song",
+								"Ancestor of Riiulgruth line"
+							],
+							"failures_embarrassments":"Unknown",
+							"mental_trauma":"Unknown; possibly from Lotkrosis exposure",
+							"intellectual_characteristics":"Visionary poet; deep memory",
+							"morality_philosophy":"Truth as returning tide; memory sacred",
+							"taboos":"Unknown",
+							"known_languages":[
+								"Sigtaara",
+								"Old Reefsong",
+								"Poetic Ritual Dialects"
+							]
+						},
+						"physical":{
+							"general_physical_condition":"Aquatic-adapted; resilient explorer; gill-marks and tattoos",
+							"body_features":"Gill-mark ridges on neck/jaw",
+							"facial_features":"Purple twilight eyes",
+							"identifying_features":"Sea-scribed tattoos; reefshine hair",
+							"physical_quirks":"Speaks in metaphor",
+							"apparel_accessories":"Drift-coral and shell-pendants in hair",
+							"specialized_equipment":"Moonbone tablets for poems",
+							"special_abilities":"Dream-sorcery; ocean survival",
+							"character_prototype":"Mystic explorer blending Odysseus' journey with Emily Dickinson's poetry"
+						},
+						"personal":{
+							"motivation":"Reveal concealed dreams; witness unknowable",
+							"famous_quotes_catchphrases":[
+								
+							],
+							"savvies_ineptitudes":"Savvy in poetry and exploration; inept in daily attachments",
+							"likes_dislikes":{
+								"likes":[
+									"Dream revelation",
+									"Ocean mysteries"
+								],
+								"dislikes":[
+									"Truth withholding",
+									"Isolation from kin"
+								]
+							},
+							"virtues_perks":[
+								"Empathic",
+								"Visionary",
+								"Poetic memory"
+							],
+							"vices_flaws":[
+								"Withholding",
+								"Unreachable",
+								"Detached"
+							],
+							"tics_quirks":"Distant rhythms; metaphoric speech",
+							"hygiene":"Not mentioned",
+							"representation_legacy":"Cultic ancestor; pearl-shell symbol; inspired dream-sorcery revival"
+						},
+						"social":{
+							"titles":[
+								"Siren-Dreamer of the Ninth Moon"
+							],
+							"reign":"Not a ruler; visionary catalyst",
+							"wealth":"Unknown",
+							"contacts_relations_other_affiliations":[
+								"Tide-Seers",
+								"Nostiriel sects"
+							],
+							"family_ties":"Ancestor of Finaanaa Riiulgruth",
+							"religious_views":"Nostiriel-aligned",
+							"social_aptitude":"Empathic charisma; visionary ego; introspective; poetic etiquette",
+							"mannerisms":"Distant and rhythmic gestures",
+							"pets_hobbies":"No pets; hobbies include dream-poetry",
+							"speech":"Metaphoric tone; mid pitch; ritual accent; no impediments; catchphrases visionary; compliments empathic; insults avoided; greetings poetic; farewells mythic; swearing rare; metaphors from tide and dreams"
+						},
+						"notable_ancestors":[
+							
+						],
+						"notable_descendants":[
+							{
+								"name":"Finaanaa Riiulgruth",
+								"age_active":"sixth_age"
+							}
+						],
+						"related_events":[
+							{
+								"year_ASS":512,
+								"title":"First Landing on Lotkrosis",
+								"summary":"Nenekyn disappears into the haunted coast and survives nine days alone. Her return marks the first recorded mortal contact with Lotkrosis since the Firraaii ascended."
+							},
+							{
+								"year_ASS":513,
+								"title":"Nine Dream-Poems of Hollow Tides",
+								"summary":"She carves nine dream-poems onto moonbone tablets while in trance. Each poem is ritually sung, not spoken."
+							},
+							{
+								"year_ASS":742,
+								"title":"The Hollowing Song",
+								"summary":"Her visions inspire other Zaetaedhel sailors to seek Lotkrosis. The lone survivor returns speaking only in verse, claiming to have 'heard the gods beneath the tide.'"
+							}
+						]
+					}
+				}
+			},
+			"second_millenia":{
+				"range":"10600 MV ~ 11700 MV",
+				"characters":{
+					
+				}
+			},
+			"third_millenia":{
+				"range":"11700 MV ~ 12870 MV",
+				"characters":{
+					
+				}
+			}
+		},
+		"sixth_age":{
+			"first_millenia":{
+				"range":"12871 MV - Now",
+				"characters":{
+					"Finaanaa Riiulgruth":{
+						"name":"Finaanaa Riiulgruth",
+						"birth_name":"Finaanaa Riiulgruth",
+						"rank":"KÚÂL",
+						"title":"The Luminous Muse of the Abyss",
+						"sigtaara":"FINÂNÂ RÎULGRUTH",
+						"species":"Zaetaedhel",
+						"gender":"Woman",
+						"sex":"Female",
+						"birth":{
+							"date":"Unknown (12921 MV)",
+							"year_MV":12921,
+							"place":"Zaetaedhel underwater city"
+						},
+						"death":null,
+						"appearance":{
+							"eyes":"Large almond-shaped purple, like twilight ocean depths",
+							"hair":"Long, deep blue-green, adorned with seashells and pearls",
+							"height_m":null,
+							"weight_kg":null
+						},
+						"affiliations":{
+							"organization":"Zaetaedhel cultural and diplomatic traditions",
+							"founded_settlements":[
+								
+							],
+							"religion":[
+								"Nostiriel",
+								"Hiniel"
+							]
+						},
+						"languages":[
+							
+						],
+						"known_for":[
+							"Legendary siren performances",
+							"Underwater diplomacy and exploration",
+							"Preservation and innovation of Zaetaedhel culture",
+							"Cultural exchanges among aquatic civilizations"
+						],
+						"kori_stage":{
+							"confirmed":null,
+							"rumored":null
+						},
+						"tazri_stage":{
+							"confirmed":null,
+							"rumored":null
+						},
+						"personality":{
+							"motivation":"To preserve the harmony of the seas, foster diplomatic peace, and protect the Zaetaedhel's cultural legacy. Her life is guided by love for the ocean and reverence for its mysteries.",
+							"virtues":[
+								"Empathy",
+								"Wisdom",
+								"Adaptability",
+								"Diplomatic tact",
+								"Artistic depth"
+							],
+							"vices":[
+								"Overtrusting",
+								"Emotional vulnerability",
+								"Occasional political naïveté",
+								"Perfectionism in performance"
+							],
+							"traits":[
+								"Curious",
+								"Poetic",
+								"Graceful",
+								"Resolute",
+								"Deeply spiritual"
+							]
+						},
+						"philosophy":{
+							"morality":"Harmony, stewardship, and respect for all life and culture beneath the waves.",
+							"ideals":[
+								"Grief and beauty are intertwined",
+								"Respect the past, shape the future",
+								"Innovation must flow with the tide of tradition"
+							],
+							"quote":"To navigate the currents of the unknown is not to conquer, but to dance with the mysteries that shape our existence beneath the waves."
+						},
+						"notable_failures":[
+							"Missteps in diplomacy due to trusting hostile parties",
+							"Navigational errors during exploration",
+							"Unintended confrontation with sea creatures",
+							"Challenges with conservative resistance to her artistic innovations"
+						],
+						"psychology":{
+							"mental_trauma":[
+								"Near-death experience in unexplored trench",
+								"Guilt over time lost with loved ones due to duty",
+								"Haunting encounters with misunderstood sea spirits"
+							],
+							"coping_behaviors":[
+								"Deep meditative swims",
+								"Composing siren songs based on emotion",
+								"Speaking with coral-bound ancestral spirits"
+							],
+							"final_years":null
+						},
+						"notable_ancestors":[
+							{
+								"name":"Nenekyn Riiulgruth",
+								"age_active":"fifth_age"
+							}
+						],
+						"notable_descendants":[
+							
+						],
+						"legacy":{
+							"representation":[
+								"Living cultural icon of Zaetaedhel society",
+								"Muse and diplomat across multiple sea cultures",
+								"Embodying the spiritual bridge between Zaetaedhel and the deep sea"
+							],
+							"symbol":"A pearl-inlaid shell with woven coral vines",
+							"interpretation_by_region":{
+								"Zaetaedhel":"Greatest living siren and protector of ocean culture",
+								"Kaemisaedhel":"Respected ambassador of song and sorrow",
+								"Others":"Mysterious sea-voice echoing from the deep"
+							}
+						},
+						"related_events":[
+							
+						]
+					}
+				}
+			}
+		}
+	}
