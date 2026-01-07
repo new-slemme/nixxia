@@ -1,0 +1,12 @@
+"dovagoraan_group":{
+				"sigtaara":"Dovagoraan",
+				"english":"Dragonbrood",
+				"home_continent":"Silgolt",
+        "included_species":[
+          "Saarotsos",
+          "Zegtuzsos",
+          "Lingraasos",
+          "Lokraasos",
+          "Aedhelirsos"
+        ]
+}
