@@ -1,0 +1,367 @@
+"kori":{
+				"english":"In-Energy",
+				"definition":{
+					"summary":"Innate magic born within all living beings of Fir'Gol. It is the manifestation of life, instinct, and will.",
+					"origin":"Born when the Pah'Nad split into Fir'Gol and Yoos'Okaaz. A primal remnant seeded in life became Kori.",
+					"nature":"Not taught, but awakened. Responds to instinct, emotion, and need. Woven into the self, not external.",
+					"expression":{
+						"strength":"Feats of endurance and power.",
+						"agility":"Stealth and movement through instinct.",
+						"senses":"Heightened perception (hearing, smell, awareness).",
+						"resilience":"Survival against great odds, resistance to harm or curses.",
+						"healing":"Inner mending of body and soul through life-force."
+					},
+					"awakening":[
+						"Extreme emotional states",
+						"Near-death experiences",
+						"Years of training",
+						"Spiritual awakening"
+					],
+					"limitations":"Bound by the body and spirit of the bearer. It cannot reshape the world — only enhance the self.",
+					"notes":"Mastery is harmony with one’s own Olu. Kori is not a power to be learned — it is a truth to be remembered."
+				},
+				"path":{
+					"overview":"The Path of Kori\nAwakening the Inner Flame\n\"Kori is not power. It is a truth made visible — the answer to who you are when no one watches.\"\n— Wanderer of the Third Flame\nOverview\nKori  (Sigtaara: \"in-energy\") is the living flame carried by all beings of Fir'Gol .\nThough present from birth, it often slumbers deep within the soul, requiring experience, will, and awakening to bring it forth.\n\nThe journey through Kori is personal — shaped by one's essence — and unfolds through six sacred stages, known collectively as The Path of the Inner Flame.\n\nNo two beings walk this path alike, for the flame bends itself to the heart that bears it.\n\nThe Six Stages of Kori\nStage One — Slumber (Ko'Surhul )\n\"The ember unseen.\"\n\nThe default state of most living beings.\nKori lies dormant, its presence unnoticed but ever patient.\nIndividuals live by instinct and mundane strength, unaware of the deeper well within.\nOnly extraordinary emotion, trauma, or discipline can disturb this stillness.\nStage Two — Stirring (Ko'Gornazil )\n\"The first breath in the ashes.\"\n\nMoments of extreme need, crisis, or inspiration cause Kori to quiver within.\nSigns are subtle: a sudden surge of strength, a clarity of thought, a moment of impossible endurance.\nThe individual feels that something more lies beneath their skin — but cannot yet grasp it.\nStage Three — Ignition (Ko'Wokazil )\n\"The first spark.\"\n\nA conscious awakening of Kori occurs.\nThe bearer senses their inner Flame distinctly for the first time.\nAbilities sharpen, instincts strengthen, emotions grow deeper.\nHowever, control is minimal — bursts of Kori may come wildly and unpredictably.\nStage Four — Kindling (Ko'Larkzil )\n\"The steady flame that feeds itself.\"\n\nThrough discipline, meditation, struggle, or joy, the bearer learns to summon and steady Kori.\nThe inner Flame begins to align with the individual's soul:\nThe wrathful may become living storms.\nThe wise may weave subtle, unseen strength.\nThe joyful may radiate resilience and healing.\nKori now evolves in a direction unique to the heart it serves.\nStage Five — Flameweaving (Ko'Yolhak )\n\"The weaving of the living fire.\"\n\nFull mastery of Kori.\nThe Flame is no longer just personal — it can connect with the Kori of others.\nMasters of Flameweaving are said to sense the pulses of nearby life, binding allies in unseen unity or bolstering the spirits of those around them.\nSome describe the sensation as \"hearing the hidden songs of the soul.\"\nStage Six — The Expansion of the Inner (Ko'Vooklazil )\n\"The Flame becomes the Horizon.\"\n\nA legendary state, rarely achieved even among the greatest masters.\nKori expands beyond the limits of body and mind, becoming a living presence within the world itself.\nThose who reach Ko'Vooklazil are said to leave echoes of themselves imprinted upon the land, blessing the soil, the sky, and the hearts of future generations.\nIn this state, self and world no longer exist as separate.\n",
+					"stages":{
+						"ko_surhul":{
+							"name":"Ko'Surhul",
+							"translation":"State of Sleeping Energy",
+							"epithet":"The Path of Unseen Embers",
+							"summary":"The dormant state of Kori, where its presence is unfelt but subtly influences survival, instinct, and emotion.",
+							"quote":{
+								"text":"The ember unseen.",
+								"speaker":null
+							},
+							"description":"Ko'Surhul is the first and most common stage of Kori — the state of dormancy. In this stage, the inner Flame lies untouched within a being’s Olu, slumbering beneath layers of instinct and routine. While inactive, it is not inert. Kori responds in moments of instinctive need: when survival demands the impossible, when emotion overrides fear, when wonder lights the limbs. These flashes are untrained, brief, and easily mistaken for adrenaline or coincidence. Most living beings in Fir'Gol spend their lives within Ko'Surhul, never realizing the deeper self that pulses beneath the surface.",
+							"signs":[
+								"Sudden feats of strength or clarity under duress",
+								"Moments of inexplicable agility or resilience",
+								"Deep emotional resonance without clear cause",
+								"Dreams or visions that feel more real than waking life"
+							],
+							"examples":[
+								{
+									"context":"A mother lifts a weight she could never lift in ordinary times to save her child.",
+									"kori_nature":"Kori surges briefly to meet the intensity of purpose and need, then falls dormant again."
+								},
+								{
+									"context":"A hunter moves unseen through the forest without ever being trained.",
+									"kori_nature":"Instinct and Kori briefly align, enhancing perception and bodily precision."
+								},
+								{
+									"context":"A soldier withstands wounds that should end a lesser life.",
+									"kori_nature":"Kori momentarily reinforces the body, anchoring it in a will to survive."
+								},
+								{
+									"context":"A child sprints faster than fear, laughing through danger.",
+									"kori_nature":"Joy and imagination stir the inner Flame, allowing speed and vitality to bloom."
+								}
+							],
+							"risks_or_limitations":[
+								"Kori remains unconscious and cannot be summoned at will.",
+								"Its power is fleeting and inconsistent.",
+								"Bursts may go entirely unnoticed or be misattributed to instinct or adrenaline.",
+								"Potential for awakening is often smothered by routine or societal suppression."
+							],
+							"transition":{
+								"to_next_stage":"The bearer must become aware of Kori’s presence — often through crisis, inspiration, or a moment of undeniable transcendence.",
+								"obstacles":[
+									"Lack of self-awareness or introspection",
+									"Suppression of intense emotion or wonder",
+									"Cultural disbelief in Kori or disdain for inner strength",
+									"Fear of change or awakening"
+								]
+							},
+							"rarity":"Nearly universal",
+							"alignment_with_olu":"Unaligned — Kori is dormant and has not yet attuned to the bearer’s soul.",
+							"kori_expression":{
+								"control":"None",
+								"strength":"Fleeting",
+								"awareness":"Unconscious"
+							}
+						},
+						"ko_gornazil":{
+							"name":"Ko'Gornazil",
+							"translation":"In-Stirring",
+							"epithet":"The Path of the First Tremble",
+							"summary":"The soul’s first conscious brush with Kori — trembling, clumsy, yet unmistakably alive.",
+							"quote":{
+								"text":"The first breath in the ashes.",
+								"speaker":null
+							},
+							"description":"Ko'Gornazil marks the first true awakening of a being's inner Flame. Where Ko'Surhul is defined by instinct and unconscious flickers, Ko'Gornazil begins with recognition. Through either the slow accumulation of inexplicable experiences or the direct guidance of a mentor, the soul becomes aware that something deeper stirs within. This awareness births intentionality — even if faint — allowing the bearer to attempt drawing upon their Kori. Yet the process is crude and exhausting. The Flame may surge to answer a desperate call or rise when fear sharpens resolve, but it comes with strain, uncertainty, and a sense of touching something vast with hands too small to hold it.",
+							"signs":[
+								"A surge of power that feels summoned, not accidental",
+								"Emotional resonance that aligns with bursts of strength or speed",
+								"An inner 'pull' sensed during moments of intensity",
+								"Dreams, visions, or meditations that hint at fire within"
+							],
+							"examples":[
+								{
+									"context":"A refugee, cornered by soldiers, leaps a wall twice their height after whispering a prayer to something 'inside.'",
+									"kori_nature":"Kori responds to the first act of deliberate invocation — clumsy but real."
+								},
+								{
+									"context":"A student under a Flameweaver suddenly feels time slow during sparring, dodging an attack that should have landed.",
+									"kori_nature":"A moment of alignment between heightened awareness and rising Kori, born of proximity and mentorship."
+								},
+								{
+									"context":"An aging warrior draws upon an old, aching fire to carry a wounded friend across a battlefield.",
+									"kori_nature":"Memory, grief, and resolve stir the Flame into conscious aid, even through pain."
+								}
+							],
+							"risks_or_limitations":[
+								"Limited use — no more than two or three times per day before exhaustion",
+								"Severe fatigue after use, sometimes leading to collapse or pain",
+								"Kori may misfire if summoned while distracted, sick, or unfocused",
+								"Emotional turmoil can cause erratic responses"
+							],
+							"transition":{
+								"to_next_stage":"The bearer must train the body, heart, and mind to wield Kori with steadiness. Progress into Ko'Wokazil comes only through deliberate effort and inner alignment.",
+								"obstacles":[
+									"Fear of the Flame’s intensity",
+									"Inconsistent practice or lack of discipline",
+									"Lack of mentorship or guiding philosophy",
+									"Overconfidence from early successes"
+								]
+							},
+							"rarity":"Uncommon",
+							"alignment_with_olu":"Partial — the Flame has begun responding to the soul, but without harmony.",
+							"kori_expression":{
+								"control":"Minimal",
+								"strength":"Surging",
+								"awareness":"Emerging"
+							}
+						},
+						"ko_wokazil":{
+							"name":"Ko'Wokazil",
+							"translation":"In-Ignition",
+							"epithet":"The Path of Soulkindled Flame",
+							"summary":"The bearer shapes their Kori for the first time, transforming raw power into personal expression and unlocking unstable but potent shapeshifting.",
+							"quote":{
+								"text":"The first spark.",
+								"speaker":null
+							},
+							"description":"Ko'Wokazil marks the ignition of the soul — the moment the inner Flame shifts from reaction to intention. In this third stage of the Path of Kori, the bearer begins to craft their power into something unique. Kori listens more intently now, responding not only to need, but to personality: to rage, to compassion, to instinct and imagination. It is the beginning of shaping, when the inner Flame starts to mirror the soul it belongs to. In this volatile forge, even form itself may change. The bearer can strengthen their body, sharpen senses, or momentarily shift shape — especially if they walk the path of the Teth'Ruhlai, those soul-bound to beasts. Though the changes are brief and imperfect, they signal a new truth: the Flame is no longer a stranger. It is becoming a companion.",
+							"signs":[
+								"Visible shifts in appearance during moments of heightened Kori use",
+								"Deliberate physical enhancements (e.g., strength, speed, reaction time)",
+								"Unstable shapeshifting in dreams or combat",
+								"Aura-like manifestations of heat, shadow, or light tied to emotion"
+							],
+							"examples":[
+								{
+									"context":"A warrior’s skin hardens like stone when facing overwhelming odds.",
+									"kori_nature":"The bearer’s courage and resolve shape the Flame into a temporary armor."
+								},
+								{
+									"context":"A scout leaps between rooftops, their form briefly elongating mid-air like a shadowed feline.",
+									"kori_nature":"The Kori aligns with nimbleness and instinct, expressing in flickers of bestial adaptation."
+								},
+								{
+									"context":"A grieving widow's touch turns frigid as sorrow deepens, chilling the air around her.",
+									"kori_nature":"Emotion bleeds into manifestation, as the Flame begins to reflect inner grief physically."
+								},
+								{
+									"context":"A druid’s body twists into a bear’s for a heartbeat before collapsing, gasping.",
+									"kori_nature":"A Teth'Ruhlai's soulbond permits full transformation, though briefly and at cost."
+								}
+							],
+							"risks_or_limitations":[
+								"Shapeshifting is unstable and may cause pain or injury",
+								"Overuse leads to bodily collapse or spiritual dissonance",
+								"Lack of clear emotional intent results in failed or erratic manifestations",
+								"Transformations are temporary and taxing"
+							],
+							"transition":{
+								"to_next_stage":"The bearer must discipline their will and harmonize intent with embodiment — learning not just to ignite, but to burn steadily and with purpose.",
+								"obstacles":[
+									"Overreliance on dramatic power rather than subtle control",
+									"Emotional instability or conflicting inner identity",
+									"Impatience with the shaping process",
+									"Physical strain leading to fear of using Kori"
+								]
+							},
+							"rarity":"Rare",
+							"alignment_with_olu":"Emerging Alignment — Kori is beginning to take the shape of the bearer’s true self.",
+							"kori_expression":{
+								"control":"Partial",
+								"strength":"Surging",
+								"awareness":"Conscious"
+							}
+						},
+						"ko_larkzil":{
+							"name":"Ko'Larkzil",
+							"translation":"In-Kindling",
+							"epithet":"The Path of the Steady Burn",
+							"summary":"The bearer refines their Kori, gaining stability, self-awareness, and the ability to maintain heightened states with discipline and clarity.",
+							"quote":{
+								"text":"The steady flame that feeds itself.",
+								"speaker":null
+							},
+							"description":"Ko'Larkzil is the fourth stage of the Path of Kori — a crucible of refinement, clarity, and discipline. The inner Flame, once erratic and exhausting, now stabilizes into something enduring. The bearer learns to summon Kori with ease, sustain heightened states without collapse, and begin forging unique expressions of power rooted in personal truth. At this stage, the Flame no longer strains the body with each use. Instead, it rises naturally, like breath, guided by will and tempered by understanding. This is the moment when strength becomes craft. But with that craft comes the obligation to face oneself: to explore emotional wounds, to release illusions, to choose which parts of the soul are worthy of flame. Ko'Larkzil is not about becoming more powerful — it is about becoming more whole.",
+							"signs":[
+								"Sustained Kori manifestations without visible effort",
+								"Signature moves or techniques tailored to the bearer’s nature",
+								"Subtle, permanent changes in aura, presence, or perception",
+								"Moments of deep harmony with one’s Olu or surroundings"
+							],
+							"examples":[
+								{
+									"context":"A sorrowful healer enters a trance during mourning rites, radiating warmth that mends others’ pain.",
+									"kori_nature":"The bearer’s inner grief refines into healing — a steady, soul-born fire of comfort and renewal."
+								},
+								{
+									"context":"A warrior draws upon their Kori not to strike, but to hold firm like stone, unmoved by arrows or words.",
+									"kori_nature":"Patience manifests as resilience; the Flame no longer surges, but anchors."
+								},
+								{
+									"context":"A joyful bard dances into battle, leaving behind a trail of emboldened allies and shimmering light.",
+									"kori_nature":"Kori reflects inner joy, uplifting others through sheer radiant presence."
+								},
+								{
+									"context":"A meditative monk glides through a storm, each movement guided by an invisible rhythm.",
+									"kori_nature":"The bearer has attuned deeply to their Olu, channeling Kori in a flow state of perfect alignment."
+								}
+							],
+							"risks_or_limitations":[
+								"Overuse can still cause spiritual overheating or emotional burnout",
+								"Unresolved inner conflicts may block the flow of Kori, leading to stagnation",
+								"Moments of trauma or emotional crisis may cause sudden instability or silence in the Flame",
+								"Advanced feats such as regeneration, fusion, or projection remain out of reach"
+							],
+							"transition":{
+								"to_next_stage":"The bearer must integrate their Flame into others — learning to weave their essence into the world, and deepen their emotional and spiritual maturity.",
+								"obstacles":[
+									"Fear of emotional vulnerability",
+									"Clinging to techniques or identity rather than transformation",
+									"Attachment to comfort or control",
+									"Neglecting the needs and rhythms of others"
+								]
+							},
+							"rarity":"Rare",
+							"alignment_with_olu":"Aligned — the Kori now moves in rhythm with the bearer’s Olu, reflecting their inner truth.",
+							"kori_expression":{
+								"control":"Partial to Full",
+								"strength":"Steady",
+								"awareness":"Conscious to Harmonized"
+							}
+						},
+						"ko_yolhak":{
+							"name":"Ko'Yolhak",
+							"translation":"In-Flameweaving",
+							"epithet":"The Path of the Woven Flame",
+							"summary":"The bearer attains full mastery of their Kori, seamlessly weaving it into their body, presence, and even the souls of others.",
+							"quote":{
+								"text":"The weaving of the living fire.",
+								"speaker":null
+							},
+							"description":"Ko'Yolhak is the fifth and penultimate stage of the Path of Kori — the apex of mastery, where the bearer’s inner Flame is no longer summoned, but lived. In this stage, the body and soul become indistinguishable from the Kori itself. Breath, motion, and will synchronize into one coherent rhythm, granting total control over physical form and spiritual presence. The bearer may reshape muscles, redirect healing, heighten perception, or influence others through mere presence. Kori now extends beyond the self, interweaving with the world and those nearby. The bearer becomes a beacon — not merely strong, but harmonizing. At its peak, Ko'Yolhak allows the unraveling of Tazri through Fin'Okaaz'Du, and the potential for Yolkirei: the final, self-consuming gift of the Flame.",
+							"signs":[
+								"Effortless shapeshifting or bodily manipulation",
+								"Calming, emboldening, or harmonizing effect on others through presence alone",
+								"Subconscious mastery of environment (e.g., balancing perfectly, moving with inhuman fluidity)",
+								"Visible disruptions of spells or rituals via bursts of living flame"
+							],
+							"examples":[
+								{
+									"context":"A Flameweaver places a hand on a comrade’s chest, easing panic with a single breath.",
+									"kori_nature":"Their Kori interlaces with the other’s Olu, soothing internal imbalance through resonance."
+								},
+								{
+									"context":"A druid calmly transforms into a falcon mid-fall, gliding upward in perfect silence.",
+									"kori_nature":"Shapeshifting has become an instinctive function of will — as natural as thought."
+								},
+								{
+									"context":"During a siege, a woman walks into a blazing arcane storm and tears it apart with a scream of flame.",
+									"kori_nature":"Through Fin'Okaaz'Du, her soul rejects foreign Tazri, consuming magic with life’s fire."
+								},
+								{
+									"context":"An old master, surrounded by dying allies, ignites his own Olu and becomes a column of purifying fire.",
+									"kori_nature":"Yolkirei: the final gift — self-annihilation in exchange for total salvation."
+								}
+							],
+							"risks_or_limitations":[
+								"Interweaving with others can destabilize the bearer if done without consent or alignment",
+								"Fin'Okaaz'Du can only be used sparingly, else it damages the bearer’s soul permanently",
+								"The temptation to manipulate others through presence may lead to arrogance or control",
+								"Yolkirei is irreversible — a terminal act of self-sacrifice"
+							],
+							"transition":{
+								"to_next_stage":"The bearer must dissolve the final boundary — the illusion of self as separate from world — stepping into Ko'Vooklazil.",
+								"obstacles":[
+									"Attachment to identity and form",
+									"Fear of ego-death or loss of individuality",
+									"Overidentification with power rather than unity",
+									"Grief or trauma unresolved at the soul’s root"
+								]
+							},
+							"rarity":"Mythic among the living — only a handful walk this path in any age",
+							"alignment_with_olu":"Fully Harmonized — the Kori and Olu act as one continuous being.",
+							"kori_expression":{
+								"control":"Full",
+								"strength":"Expansive",
+								"awareness":"Harmonized"
+							}
+						},
+						"ko_vooklazil":{
+							"name":"Ko'Vooklazil",
+							"translation":"In-Expanded-Being",
+							"epithet":"The Path Beyond the Flame",
+							"summary":"The bearer transcends form and self, becoming a living force of Kori — shaping body, world, and spirit as one.",
+							"quote":{
+								"text":"The Flame becomes the Horizon.",
+								"speaker":null
+							},
+							"description":"Ko'Vooklazil is the mythic sixth stage of Kori, representing not mastery, but transcendence. In this state, the inner Flame dissolves the boundary between soul and world. The bearer no longer channels Kori — they are Kori. Their body becomes an instrument of expression, their essence radiates like sunlight, and the landscape around them bends subtly to their will. Fire ceases to be a tool and becomes identity, philosophy, and presence. The bearer can link to others through Flame, awaken or suppress Kori in others, brand souls with fragments of their own, and reshape themselves endlessly. Few beings in history have reached this stage. Fewer still have returned from it unchanged.",
+							"signs":[
+								"Reality subtly shifts in their presence — air thickens, plants bloom, heat warps",
+								"Others feel calm, awe, or clarity when near, as if touched by something sacred",
+								"Their body changes to suit environment or emotion — seamlessly and fluidly",
+								"Even the land remembers them: ruins, trees, or winds that seem marked by their passing"
+							],
+							"examples":[
+								{
+									"context":"A bearer walks into a battlefield and every wounded soldier rises, infused by the Flame without a word.",
+									"kori_nature":"Their Kori has expanded into a radiant presence, harmonizing those around them through Firelink and Soulbrand alike."
+								},
+								{
+									"context":"A grove blooms in the desert decades after the bearer perished there, fed by an unseen warmth.",
+									"kori_nature":"The essence of their Kori imprinted on the land, shaping reality beyond death."
+								},
+								{
+									"context":"A tyrant’s magic dissolves as they step before a Flamebearer, who glows with silent certainty.",
+									"kori_nature":"Through Fin'Okaaz'Du and the force of presence, arcane intrusion is devoured by the inner truth of Flame."
+								},
+								{
+									"context":"A child awakens one night speaking a stranger’s name, eyes alight with golden flame — though the stranger died centuries ago.",
+									"kori_nature":"A Soulbrand echoes through generations, marking the bearer’s immortality not of flesh, but of memory."
+								}
+							],
+							"risks_or_limitations":[
+								"Sustaining this state can dissolve personal identity — the bearer may become more essence than individual",
+								"Influencing others risks spiritual dominance or accidental harm if intent is unclear",
+								"Firelinks can transfer pain and death as easily as strength and healing",
+								"Environmental control varies drastically depending on the bearer’s inner balance",
+								"Long-term expansion may lead to irreversible transcendence or annihilation"
+							],
+							"transition":{
+								"to_next_stage":"There is no further stage — only divergence: dissolution, transformation, or myth. The bearer becomes memory, place, spirit, or nothing.",
+								"obstacles":[
+									"Fear of ego-death",
+									"Unresolved trauma or fractured Olu",
+									"Clinging to form or individuality",
+									"Attempting to control the Flame rather than becoming it"
+								]
+							},
+							"rarity":"Legendary — fewer than a dozen known cases in all of recorded history",
+							"alignment_with_olu":"Dissolved Boundaries — the Olu and Kori are indistinguishable, expanded beyond the vessel that once held them.",
+							"kori_expression":{
+								"control":"Transcendent",
+								"strength":"World-Shaping",
+								"awareness":"Infinite"
+							}
+						}
+					}
+				}
+			},
