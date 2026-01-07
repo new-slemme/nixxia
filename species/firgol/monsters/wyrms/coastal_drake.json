@@ -1,0 +1,84 @@
+"coastal_drake":{
+						"name":"Coastal Drake",
+						"scientific_name":"Nehylkaadov Pirnursir Zoyurkagyk",
+						"classification":"Winged Wyrm",
+						"origin":"Siniath, Irudy",
+						"description":{
+							"short":"A vibrant, agile coastal wyrm adapted for swift hunting and complex social behavior.",
+							"full":"The Coastal Drake is a winged wyrm native to the shorelines of Siniath and Irudy. With vivid coloration, webbed claws, and precise diving capabilities, it thrives in marine environments. Known for its intelligence, strong family bonds, and territorial nature, the Coastal Drake is a vital presence in the coastal ecosystem."
+						},
+						"anatomy":{
+							"body_structure":"Sleek, streamlined quadruped with webbed claws, long tail for balance, and muscular wings for agile gliding.",
+							"scale_characteristics":"Smooth skin with a red-to-green color gradient, molted periodically.",
+							"facial_features":"Tapered snout, prominent brow ridges, forward-set eyes for depth perception, sensory pits along jawline."
+						},
+						"biological_data":{
+							"reproduction":{
+								"type":"Oviparous",
+								"gestation":"60 days",
+								"parental_care":"Both parents protect and raise hatchlings until independence (~1 year)."
+							},
+							"growth_stages":{
+								"hatchling":"0-6 months, rapid size gain and development of flight/swim capacity",
+								"juvenile":"6 months - 2 years, social learning and physical strengthening",
+								"sub_adult":"2-5 years, nearing maturity",
+								"adult":"5+ years, sexually mature, socially dominant"
+							},
+							"lifespan":"55 years (males), 65 years (females)"
+						},
+						"ecology":{
+							"habitat":"Rocky cliffs, sandy beaches, and shallow marine regions of coastal Siniath and Irudy",
+							"role":"Predator and population regulator for marine life; contributes to cliffside ecological stability"
+						},
+						"diet":{
+							"type":"Piscivorous",
+							"primary_prey":"Fish, crustaceans, small marine mammals",
+							"hunting_behavior":"Dives from above, uses speed and accuracy; hunts at dawn/dusk."
+						},
+						"seasonal_behavior":{
+							"activity":"Higher activity in spring/summer; reduced activity in cold months",
+							"breeding":"Occurs in spring with elaborate courtship displays; nests inland"
+						},
+						"intelligence":{
+							"comparable_to":"Dolphins and primates",
+							"skills":[
+								"Problem-solving in terrain and hunting",
+								"Memory of fish migrations and hunting zones",
+								"Social communication and hierarchy"
+							]
+						},
+						"senses":{
+							"sight":"Sharp vision for aerial and aquatic hunting",
+							"hearing":"Keen hearing for distant movement and vocal cues",
+							"vibration_detection":"Jawline sensory pits for detecting underwater motion",
+							"salt_excretion":"Expels salt through nostrils; absorbs water from prey"
+						},
+						"symbiosis":{
+							"symbiotic_species":[
+								"Small aquatic birds that clean scales"
+							],
+							"parasites":[
+								"Marine parasites that attach to underbellies"
+							]
+						},
+						"domestication":{
+							"domesticated_by":null,
+							"status":"Undomesticated",
+							"process":null,
+							"adaptations":null
+						},
+						"dimensions":{
+							"height_avg_m":1.5,
+							"weight_kg":[
+								550,
+								600
+							],
+							"length_m":8,
+							"physique":"Agile and muscular; designed for rapid bursts of speed in air and sea"
+						},
+						"distribution":{
+							"primary":"Siniath",
+							"secondary":"Irudy"
+						},
+						"discovered_by":null
+					}
