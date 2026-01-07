@@ -1,0 +1,79 @@
+"beaked_finneck":{
+						"name":"Beaked Finneck",
+						"scientific_name":"Nehylkaadov Pinursir Numagin",
+						"classification":"Winged Wyrm",
+						"origin":"Siniath, Irudy",
+						"description":{
+							"short":"A graceful, beaked coastal wyrm adapted for flight and aquatic hunting.",
+							"full":"Native to the cliff-strewn coastlines of Siniath and Irudy, the Beaked Finneck is a winged wyrm known for its sleek, blueish-white body and elegant fins. With powerful flight and swimming capabilities, it commands the skies and sea in equal measure. Intelligent, territorial, and monogamous, it is as socially complex as it is visually captivating."
+						},
+						"anatomy":{
+							"body_structure":"Elongated, sleek quadruped with membranous wings and a long, sinuous neck.",
+							"scale_characteristics":"Smooth, blueish-white skin with purple rippling fins along the neck.",
+							"facial_features":"Streamlined beak for aquatic piercing, keen eyes on the sides of the head for wide-field vision."
+						},
+						"biological_data":{
+							"reproduction":{
+								"type":"Oviparous",
+								"gestation":"3 months",
+								"parental_care":"Both parents guard the clutch and guide young for several weeks."
+							},
+							"growth_stages":{
+								"hatchling":"0-6 months, rapid growth to 2m",
+								"juvenile":"6 months - 3 years, gains fins and strength",
+								"mature":"5+ years, reaches full size and migratory range"
+							},
+							"lifespan":"50 years"
+						},
+						"ecology":{
+							"habitat":"Rugged coastal cliffs and azure waters of Siniath and Irudy",
+							"role":"Top predator — regulates fish populations and supports cliffside ecological health"
+						},
+						"diet":{
+							"type":"Piscivorous",
+							"primary_prey":"Various fish species",
+							"hunting_behavior":"Glides above shorelines; dives with precision using beak and neck fins to maneuver in water."
+						},
+						"seasonal_behavior":{
+							"activity":"Most active during spring/summer migrations; winters are spent in quieter hunting zones.",
+							"breeding":"Occurs in warmer months during long-distance migrations; monogamous pairs form and nest together."
+						},
+						"intelligence":{
+							"comparable_to":"High — akin to dolphins or young humans",
+							"skills":[
+								"Cooperative hunting",
+								"Social bonding and mate loyalty",
+								"Problem-solving in complex environments"
+							]
+						},
+						"senses":{
+							"sight":"Extremely sharp vision from high altitudes and underwater",
+							"hearing":"Highly tuned to oceanic and atmospheric sounds",
+							"vibration_detection":"Fins contain receptors to sense underwater motion"
+						},
+						"symbiosis":{
+							"symbiotic_species":[
+								"Small birds nesting near Finneck nests for protection"
+							],
+							"parasites":[
+								"Marine lice that attach to skin and fins"
+							]
+						},
+						"domestication":{
+							"domesticated_by":null,
+							"status":"Undomesticated",
+							"process":null,
+							"adaptations":null
+						},
+						"dimensions":{
+							"height_avg_m":4,
+							"weight_kg":600,
+							"length_m":13,
+							"physique":"Powerful yet sleek; adapted for rapid, fluid movement in both air and water"
+						},
+						"distribution":{
+							"primary":"Irudy",
+							"secondary":"Siniath"
+						},
+						"discovered_by":null
+					},
