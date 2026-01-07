@@ -1,0 +1,9 @@
+"gragrahgot_group":{
+				"sigtaara":"Gragrahgot",
+				"english":"Greenskins",
+				"home_continent":"Irudy",
+        "included_species":[
+          "Ogim",
+          "Gogil"
+        ]
+}
