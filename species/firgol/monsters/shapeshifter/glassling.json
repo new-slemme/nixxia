@@ -1,0 +1,82 @@
+"glassling":{
+						"name":"Glassling",
+						"sigtaara":null,
+						"classification":"Shapeshifter",
+						"habitat":[
+							"Irudy",
+							"Siniath"
+						],
+						"description":{
+							"short":"Crystalline lightbenders that mimic form through refraction rather than flesh.",
+							"full":"Glasslings are delicate, translucent shapeshifters that rely on refraction and illusion rather than physical transformation. Their bodies bend light to mimic individuals, animals, or environments. Found in Irudy’s crystal caverns and Siniath’s coastal grottoes, they are not predators, but enigmatic reflections of the world around them. Their presence unsettles or inspires depending on one’s beliefs, appearing as statues, mirages, or mournful shades by the sea."
+						},
+						"anatomy":{
+							"structure":"Slender crystalline frame with fluid internal refractive tissues",
+							"mobility":"Graceful and slow; movements create ripples in surrounding light",
+							"skin":"Transparent and glossy; bursts with color when exposed to light or magic",
+							"senses":"Sensitive to light shifts, emotional intensity, and air movement",
+							"fragility":"Extremely brittle if struck directly; prone to shattering"
+						},
+						"shapeshifting":{
+							"limits":"Cannot alter physical form; only visual mimicry through light distortion",
+							"targets":"Individuals observed during emotional highs—joy, grief, love",
+							"refraction_shell":"Creates illusions of posture, shape, and clothing; collapses on contact",
+							"distortion_field":"Presence warps surrounding outlines and causes vertigo in close observers"
+						},
+						"behavior":{
+							"cognition":"Moderately intelligent; long memory and high curiosity",
+							"communication":"No known language; uses reflected gesture mimicry",
+							"temperament":"Avoidant, observant, empathetically reactive",
+							"social_structure":"Solitary; rare small clusters gather for 'light songs'"
+						},
+						"reproduction":{
+							"method":"Crystalline budding — a fragment is separated and slowly grows over decades",
+							"maturation":"Begins inert; awaken slowly in high-humidity mineral zones",
+							"growth_pattern":"Precision of mimicry improves with age",
+							"lifespan":"Several centuries unless shattered"
+						},
+						"weaknesses":[
+							"Extremely fragile if struck or dropped",
+							"Cannot replicate sound or touch",
+							"Illusions fail upon physical contact",
+							"Vulnerable to dry air and sudden changes in light"
+						],
+						"cultural_significance":[
+							"Treated as cave spirits or guardians by Irudic crystal-masons",
+							"Feared as omens of drowning by Siniath coastal cultures",
+							"Kaelotaedhel artists speak of being mirrored in dreams by Glasslings"
+						],
+						"variants":{
+							"irudy":{
+								"local_name":"Shardborn / Crystaflects",
+								"habitat":"Geode vaults, underground aquifers, and prism-lit caves",
+								"traits":{
+									"optical_discipline":"Pose as gem formations or statues for decades",
+									"refraction_mastery":"Replicates glow of arc-lamps and enchanted crystals",
+									"cultural_mimicry":"Mirrors gestures of artisans and forge-users",
+									"group_convergence":"Gather at sacred or historically rich ore sites"
+								},
+								"temperament":"Reverent and still; responds to ceremonial motion and light",
+								"cultural_notes":[
+									"Considered omens of discovery before mining",
+									"Presence may signal veins of hidden ore",
+									"Mining guilds honor them with ritual pauses"
+								]
+							},
+							"siniath":{
+								"local_name":"Wave Shades / Wailglints",
+								"habitat":"Tidal caves, sea grottoes, and cliffs near sunken ruins",
+								"traits":{
+									"emotive_mimicry":"Drawn to grief and longing; appear during mourning or storms",
+									"mirage_crafting":"Create phantoms of ships, lanterns, or the drowned",
+									"tide_synchronization":"Glow increases with high tide or moonlight"
+								},
+								"temperament":"Mournful and distant; reflects sorrow like an echo",
+								"cultural_notes":[
+									"Feared as ill omens by sailors and widows",
+									"Said to weep in one’s form when death is near",
+									"Sometimes revered as fragments of drowned gods"
+								]
+							}
+						}
+					},
