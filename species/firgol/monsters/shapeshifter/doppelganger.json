@@ -1,0 +1,65 @@
+"doppelganger":{
+						"name":"Doppelganger",
+						"sigtaara":"WEHMONU",
+						"classification":"Shapeshifter",
+						"description":{
+							"short":"Mysterious humanoids with the power to perfectly imitate others.",
+							"full":"Doppelgangers are mysterious humanoid beings with a hauntingly pale complexion and featureless faces. They possess an innate ability to shapeshift into the appearance of any humanoid they encounter, with experienced individuals capable of swift transformations. Solitary by nature, they prefer to operate independently, observing society from the shadows. Occasionally, they may embark on a disturbing pursuit to completely assume the life of an intriguing individual. While able to interbreed with other humanoid races, their offspring lack the true shapeshifting abilities of their doppelganger parent. Among doppelgangers, rare individuals possess the skill of 'meshing,' seamlessly blending the appearances of multiple studied individuals. Throughout their lifespan, doppelgangers may encounter moments of existential contemplation, grappling with questions of identity and purpose. Some embrace solitude; others seek fleeting companionship with fellow shapeshifters. They remain enigmatic figures, their true intentions veiled in mystery as they navigate the world with unparalleled deceit."
+						},
+						"anatomy":{
+							"structure":"Humanoid",
+							"skin":"Pallid, semi-translucent, glows faintly in dim light",
+							"facial_features":"Featureless, blank visage",
+							"mobility":"Extremely fluid movement; limbs capable of elongation and subtle contortion",
+							"internal_adaptability":"Capable of shifting internal structure to mimic other humanoid physiologies",
+							"strengths":[
+								"Uncanny agility and flexibility",
+								"Internal mimicry of organs and tissues",
+								"Smooth shapeshifting transitions"
+							]
+						},
+						"genetics":{
+							"unique_traits":[
+								"Shapeshifting encoded into active genome",
+								"Latent morph-memory imprinting"
+							],
+							"reproduction":{
+								"interbreeding":"Possible with humanoids; offspring lack shapeshifting",
+								"true_offspring":"Only from union of two doppelgangers; full abilities inherited"
+							}
+						},
+						"growth":{
+							"infant":"Vulnerable and unable to shapeshift",
+							"juvenile":"Experiments with form; limited mimicry",
+							"adolescent":"Learns by observation; rudimentary shapeshifting develops",
+							"adult":"Fully capable of mimicry and infiltration; capable of 'meshing' if skilled",
+							"lifespan":"Unknown; presumed centuries if undisturbed"
+						},
+						"abilities":[
+							"Shapeshift — mimic humanoid forms perfectly",
+							"Meshing — blend features of multiple targets (rare talent)",
+							"Memory mimicry — imitate speech patterns and habits with high accuracy"
+						],
+						"behavior":{
+							"social_structure":"Primarily solitary; loose networks may exist among older individuals",
+							"habitat":"Urban shadows, hidden enclaves, abandoned ruins",
+							"mentality":"Observational, secretive, calculating",
+							"existential_risks":[
+								"Identity erosion",
+								"Compulsive mimicry",
+								"Isolation-driven madness"
+							]
+						},
+						"cultural_significance":{
+							"legends":[
+								"Doppelgangers who replaced noble heirs",
+								"Spies and assassins vanishing into new faces",
+								"Mirror cults worshiping faceless truth"
+							],
+							"perceptions":[
+								"Feared as deceivers",
+								"Admired for adaptability by some espionage societies",
+								"Hunted in regions with strong magical orthodoxy"
+							]
+						}
+					},
