@@ -1,0 +1,81 @@
+"yoori":{
+				"name":"Yoori",
+				"sigtaara":"Yoori",
+				"translation":"Group-Energy",
+				"definition":"The magic of collective belief — born of shared memory, myth, and meaning — capable of creating gods, spirits, and living legends.",
+				"can_be_wielded":false,
+				"description":"Yoori is the ambient magic of consensus and story — a power shaped not by individual will but by the collective belief of mortals. Flowing through the Arcane Sea (Yoos’Okaaz), Yoori emerges when stories are told, rituals repeated, symbols invoked, and sacrifices made. It coalesces around people, places, and ideas where belief is thickest. Those caught in Yoori may find themselves empowered, altered, or even unmade by the expectations of others. One does not cast Yoori — one becomes Yoori’s echo.",
+				"domain":[
+					"Manifestation of mythical spirits, totemic beings, or minor gods",
+					"Narrative transformation of individuals (e.g., becoming what others believe)",
+					"Reinforcement of archetypes — hero, tyrant, martyr, prophet",
+					"Anchoring of sacred places, relics, or traditions in the world"
+				],
+				"does_not_include":[
+					"Direct control or casting by individuals",
+					"Predictable or programmable magical effects",
+					"Entities born purely from solitary belief or imagination"
+				],
+				"formation_mechanisms":[
+					"Repetition — stories retold across generations",
+					"Reverence — worship, fear, cultural fixation",
+					"Symbol — names, icons, lineages, relics",
+					"Sacrifice — acts that fulfill archetypes or legacy"
+				],
+				"manifestation_effects":[
+					"Creation of autonomous spirits or deities within the Arcane Sea",
+					"Possession or empowerment of mortals aligned with mythic roles",
+					"Localized alteration of emotion or fate in sacred places",
+					"Imposition of narrative expectations onto individuals (e.g., a beloved hero dies nobly)"
+				],
+				"interaction_with_other_magics":{
+					"kori":"Yoori may magnify or shape how Kori expresses — e.g., a warrior believed to be unkillable may subconsciously manifest that power.",
+					"tazri":"Certain high rites or prophecies may draw Yoori influence into arcane channels, but it remains outside direct manipulation.",
+					"ykheri":"While Ykheri shapes the world’s landscape, Yoori shapes its meaning — relics or locations imbued with myth may gain both."
+				},
+				"risks_and_limitations":[
+					"Yoori cannot be summoned or controlled — it chooses whom to uplift or consume",
+					"False myths rarely sustain — manipulated legends often unravel violently",
+					"Individuals bound in Yoori may lose agency, slowly becoming what they are believed to be",
+					"Persistent belief can trap souls or memories in symbolic afterlife states"
+				],
+				"behavior":{
+					"is_active":false,
+					"isaccumulative":true,
+					"emerges_spontaneously":true,
+					"resists_falsehood":true,
+					"lingers_after_death":true
+				},
+				"persistence":{
+					"duration":"Indefinite — Yoori echoes across generations",
+					"comparison_to_others":{
+						"kori":"Dies with the body",
+						"tazri":"Fades with faltering will",
+						"ykheri":"Endures without memory",
+						"yoori":"Remembers — and may return"
+					}
+				},
+				"notable_quotes":[
+					{
+						"quote":"The Sea knows the difference between worship and performance.",
+						"source":"Sermon of the Third Mask"
+					},
+					{
+						"quote":"Yoori is not cast. It is not shaped. It is endured — or believed.",
+						"source":"Librarian of the Nine Echoes"
+					}
+				],
+				"cultural_roles":[
+					"Oral historians and epic singers",
+					"Relic-bearers and bloodline guardians",
+					"Cult leaders and saints",
+					"Martyrs, tyrants, and folk heroes — both willing and unwilling"
+				],
+				"rarity_of_manifestation":"Uncommon — but enduring. Manifestations are rare, but once formed, persist across eras.",
+				"comparison_to_other_magics":{
+					"kori":"Will of the self — lived truth",
+					"tazri":"Will of the arcane — shaped by ritual and mind",
+					"ykheri":"Law of the world — passive and unyielding",
+					"yoori":"Will of the many — made of meaning, myth, and memory"
+				}
+			}
