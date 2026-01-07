@@ -1,0 +1,11 @@
+"lahkiin_group":{
+				"sigtaara":"Lahkiin",
+				"english":"Elves",
+				"home_continent":"Siniath",
+        "included_species":[
+          "Kaelotaedhel",
+          "Kaemisaedhel",
+          "Zaetaedhel",
+          "Kaekreaedhel"
+        ]
+}
