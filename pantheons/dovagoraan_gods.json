@@ -1,0 +1,481 @@
+"dovagoraan_gods":{
+			"follower_cultures":"Dovagoraan",
+			"pantheon_name":"Firraaii",
+			"english_name":"The Dragon Gods",
+			"alternative_names":[
+				"The Five",
+				"The Fallen"
+			],
+			"origin_location":"Lotkrosis",
+			"ascension_event":{
+				"name":"The Ritual of Drakorys",
+				"location":"Mount Drakorys",
+				"year_MV":3275,
+				"year_ASY":1775
+			},
+			"leader":{
+				"name":"Rahvulhahnu",
+				"epithet":"The Abyssal Dreamer"
+			},
+			"associated_species":[
+				"Saarotsos",
+				"Zegtuzsos",
+				"Lingraasos",
+				"Lokraasos",
+				"Aedhelirsos"
+			],
+			"organizations":[
+				"Empire of Revakgol"
+			],
+			"mythic_history":{
+				"original_names":[
+					"Boksul",
+					"Rovahlok",
+					"Shaan",
+					"Sil'lah",
+					"Vulhahnu"
+				],
+				"event_sequence":[
+					{
+						"title":"The Pilgrimage of Dreams",
+						"summary":"Vulhahnu shares visions of godhood with the others",
+						"year_MV":3152,
+						"year_ASY":1652
+					},
+					{
+						"title":"The Binding of the Sundered Pact",
+						"summary":"Drakorys Oath sworn by the five",
+						"year_MV":3260,
+						"year_ASY":1760
+					},
+					{
+						"title":"The Ritual of Drakorys",
+						"summary":"Cataclysmic ritual that transforms the five into gods and births the Dovagoraan",
+						"year_MV":3275,
+						"year_ASY":1775
+					}
+				]
+			},
+			"legacy":{
+				"consequences":[
+					"Extinction of true dragons",
+					"Transformation of survivors into Dovagoraan",
+					"Devastation of Lotkrosis into a wasteland"
+				],
+				"conflicts":[
+					"Rivalry with the Elvish Gods (Nil'Thur)",
+					"Cultural dominance through the Empire of Revakgol"
+				],
+				"continued_influence":"Worshipped across Silgolt by Dovagoraan; inspire rituals, philosophies, and governance"
+			},
+			"deities":[
+				{
+					"name":"Rahboksul",
+					"name_pre_ascension":"Boksul",
+					"epithet":"The Time-Weaver",
+					"sigtaara":"RÂBOKSUL",
+					"sex":"male",
+					"symbol":"Hourglass",
+					"domains":[
+						"time",
+						"memory",
+						"fate",
+						"continuity"
+					],
+					"appearance":null,
+					"worship":{
+						"themes":[
+							"learning from the past",
+							"meditation on legacy",
+							"preparation for the future"
+						],
+						"rituals":[
+							"sand mandalas",
+							"hourglass-turning rites",
+							"timeline recitations"
+						],
+						"temples":[
+							"quiet, reflective spaces decorated with glass and sand art"
+						]
+					},
+					"species_interpretations":{
+						"Sahrotsos":"Guardian of legacy and wisdom; time as forge for strength.",
+						"Lingraasos":"Kindred force of patience and steady progression.",
+						"Lokraasos":"Liberator from temporal constraints; time as sky-path.",
+						"Zegtuzsos":"Survival through predictable cycles and seasonal memory.",
+						"Aedhelirsos":"Patron of arcane study and natural rhythm; bridges past and future."
+					},
+					"myths":[
+						"Rahboksul once halted time to allow mortals to avert a world-ending disaster.",
+						"He is said to walk backward into the future, seeing what others forget."
+					],
+					"festivals":[
+						"Mandala Dusk",
+						"Day of the Three Sands"
+					],
+					"species":"Dova",
+					"classification":"Ra'a",
+					"description":"Rahboksul is the still moment in the hourglass before the sand falls...",
+					"held_items":[
+						"Kaaluvok — the Threadglass Fang"
+					],
+					"abilities":[
+						"Temporal Weaving: Can layer memory over present moment...",
+						"Stillfang: Bites that suspend foes in liminal states between seconds.",
+						"Chronal Reflection: Forces others to confront the paths not taken.",
+						"Echostep: Moves through places that once were or may someday be.",
+						"Memory Sanctum: Creates a space where all who enter recall lost truths."
+					],
+					"personality":{
+						"traits":[
+							"Patient",
+							"Mysterious",
+							"Unhurried"
+						],
+						"morality":"Time must unfold; his role is to ensure none forget what it cost.",
+						"philosophy":"The past is not behind you. It is within you, waiting to awaken."
+					},
+					"beliefs":[
+						"Every choice births a shadow.",
+						"The future owes its shape to memory.",
+						"Destiny is not a river—it is a spiral, revisited through different feet."
+					],
+					"quotes":[
+						"Did you think time would forget you?",
+						"What you remember… remembers you."
+					],
+					"current_location":"The Shifting Interval — a drifting labyrinth of memory within the Yoos'Okaaz"
+				},
+				{
+					"name":"Rahrovahlok",
+					"name_pre_ascension":"Rovahlok",
+					"epithet":"The Harmonic Nexus",
+					"sigtaara":"RÂROVÂLOK",
+					"sex":"male",
+					"symbol":"Balanced Scale and Mandala",
+					"domains":[
+						"harmony",
+						"balance",
+						"resonance",
+						"cosmic equilibrium"
+					],
+					"appearance":{
+						"scales":"iridescent blue",
+						"eyes":"vibrant green",
+						"features":[
+							"curved horns",
+							"glowing mandala chest",
+							"multicolored auras"
+						]
+					},
+					"worship":{
+						"themes":[
+							"unity",
+							"resonance with the cosmos",
+							"personal balance"
+						],
+						"rituals":[
+							"meditative art",
+							"harmonic chants",
+							"symbolic weaving"
+						],
+						"temples":[
+							"circular chambers tuned for acoustic perfection"
+						]
+					},
+					"species_interpretations":{
+						"Sahrotsos":"Path to societal and inner order.",
+						"Lingraasos":"Cycle-guardian; aligns nature’s balances.",
+						"Lokraasos":"Embodiment of the winds' rhythm.",
+						"Zegtuzsos":"Martial balance through discipline and flow.",
+						"Aedhelirsos":"Icon of cultural and magical integration."
+					},
+					"myths":[
+						"Brought silence to a warring sky by singing a chord of peace.",
+						"Turned a battlefield into a garden overnight through harmonic resonance."
+					],
+					"festivals":[
+						"The Nexus Spiral",
+						"Echo of Balance"
+					],
+					"species":"Dova",
+					"classification":"Ra'a",
+					"description":"Rahrovahlok is the stillness between two notes...",
+					"held_items":[
+						"Loryk’Naal — the Tonebreaker Staff"
+					],
+					"abilities":[
+						"Resonant Shield: Cancels aggression by aligning emotional frequency.",
+						"Chord of Undoing: Silences chaos with a pure harmonic strike.",
+						"Pulse Communion: Temporarily links thoughts and feelings of nearby beings.",
+						"Echofold: Bends space slightly to fold sound over distance.",
+						"Symmetry Bloom: Creates fractal barriers or pathways that respond to emotion."
+					],
+					"personality":{
+						"traits":[
+							"Serene",
+							"Measured",
+							"Empathic"
+						],
+						"morality":"Nothing exists in isolation; meaning is made through resonance.",
+						"philosophy":"Harmony is not absence of conflict—it is the pattern beneath contradiction."
+					},
+					"beliefs":[
+						"Every being carries a tone. Let it be heard, then balanced.",
+						"Truth is found in the spaces between voices.",
+						"Even chaos hums, if you listen deeply enough."
+					],
+					"quotes":[
+						"You are not discord—you are a note awaiting its chord.",
+						"I have heard the universe sing, and it did not sing alone."
+					],
+					"current_location":"The Crystal Refrain — a floating harmonic basin deep in the Yoos'Okaaz"
+				},
+				{
+					"name":"Rahshaan",
+					"name_pre_ascension":"Shaan",
+					"epithet":"The Divine Muse",
+					"sigtaara":"RÂSHÂN",
+					"sex":"female",
+					"symbol":"Painter’s Brush",
+					"domains":[
+						"creativity",
+						"art",
+						"expression",
+						"divine inspiration"
+					],
+					"appearance":{
+						"colors":[
+							"vibrant pink",
+							"electric blue"
+						],
+						"essence":"pulsing with shifting hues and fluid light"
+					},
+					"worship":{
+						"themes":[
+							"art as offering",
+							"divine beauty",
+							"expression of emotion"
+						],
+						"rituals":[
+							"sky-dances",
+							"flame painting",
+							"storytelling feasts"
+						],
+						"temples":[
+							"performance halls",
+							"open galleries",
+							"living murals"
+						]
+					},
+					"species_interpretations":{
+						"Sahrotsos":"Muse of heroic legacy and grand design.",
+						"Aedhelirsos":"Bridge to divine creativity; enhancer of elven grace.",
+						"Lingraasos":"Honored via carvings and dream-lore.",
+						"Lokraasos":"Sky dances as living tribute.",
+						"Zegtuzsos":"Invoked for tactical innovation or symbolic battlemarks."
+					},
+					"myths":[
+						"Wove her own breath into a melody that birthed a continent of music.",
+						"Once painted the dreams of a dying child into the stars."
+					],
+					"festivals":[
+						"The Blooming Flare",
+						"Night of Thousand Brushes"
+					],
+					"species":"Dova",
+					"classification":"Ra'a",
+					"description":"Rahshaan is the fire that births vision, the breath that becomes song...",
+					"held_items":[
+						"Nyvrenol — the Brush of Becoming"
+					],
+					"abilities":[
+						"Canvasborn: Brings emotion to life as animated, temporary constructs.",
+						"Sigh of the Muse: Inspires mortal creativity in waves or fits of brilliance.",
+						"Shifting Palette: Alters her own body and aura to reflect nearby inspiration.",
+						"Flareweave: Paints temporary realities within dreams or ritual space.",
+						"Eclipsed Chorus: Channels tragic beauty into overwhelming emotional magic."
+					],
+					"personality":{
+						"traits":[
+							"Exuberant",
+							"Emotional",
+							"Mercurial"
+						],
+						"morality":"Beauty must be free. Even sorrow, when expressed, is divine.",
+						"philosophy":"To create is to defy oblivion with color."
+					},
+					"beliefs":[
+						"Even destruction leaves a pattern worth painting.",
+						"No emotion is too raw to become art.",
+						"The brush remembers what the soul forgets."
+					],
+					"quotes":[
+						"I weep, therefore I sculpt.",
+						"Your tears would make a glorious fresco."
+					],
+					"current_location":"The Blooming Spiral — a dream-mosaic reef adrift in the Yoos'Okaaz"
+				},
+				{
+					"name":"Rahsil'lah",
+					"name_pre_ascension":"Sil'lah",
+					"epithet":"The Elemental Tempest",
+					"sigtaara":"RÂSIL'LÂH",
+					"sex":"female",
+					"symbol":"Four-element kaleidoscope or storm spiral",
+					"domains":[
+						"elemental force",
+						"chaos of nature",
+						"raw power",
+						"storms"
+					],
+					"appearance":{
+						"scales":"shifting hues—red, blue, brown, white",
+						"form":"blazing with flickers of fire, water, air, and earth"
+					},
+					"worship":{
+						"themes":[
+							"surrender to nature",
+							"respect for force",
+							"riding the storm"
+						],
+						"rituals":[
+							"storm-invocation dances",
+							"elemental duels",
+							"sky-roars"
+						],
+						"temples":[
+							"open-air shrines on mountaintops, volcano calderas, or river bends"
+						]
+					},
+					"species_interpretations":{
+						"Sahrotsos":"Model of raw strength and unshackled flame.",
+						"Lingraasos":"Nature’s fury as teacher and warden.",
+						"Lokraasos":"Divine cyclone; revealer of true will.",
+						"Zegtuzsos":"Tactician of force and shifting terrain.",
+						"Aedhelirsos":"Wild magic made divine; feared and respected."
+					},
+					"myths":[
+						"Created the first storm by breathing in all four elements at once.",
+						"Once fought the ocean for seven days until both wept into rain."
+					],
+					"festivals":[
+						"Tempest's Bellow",
+						"The Kaleidoscope Hour"
+					],
+					"species":"Dova",
+					"classification":"Ra'a",
+					"description":"Rahsil’lah is the storm before speech, the quake beneath composure...",
+					"held_items":[
+						"Kravaxil — the Cyclone Fang"
+					],
+					"abilities":[
+						"Elemental Avatar: Can fully become fire, water, air, or earth depending on will and environment.",
+						"Stormheart Pulse: Emits shockwaves of raw elemental magic.",
+						"Maelstorm Step: Transports herself by folding into tempests and reforming elsewhere.",
+						"Wrathcall: Summons nature’s fury—quakes, floods, wildfires, or galewinds.",
+						"Balancebreaker: Temporarily disrupts leyline stability or magical equilibrium."
+					],
+					"personality":{
+						"traits":[
+							"Fierce",
+							"Instinctual",
+							"Unapologetic"
+						],
+						"morality":"Balance is a lie told by the comfortable. Life is forged in turbulence.",
+						"philosophy":"Only in the breaking of forms do truths emerge."
+					},
+					"beliefs":[
+						"Do not fear chaos—fear stagnation.",
+						"Nature is not cruel. It is honest.",
+						"Let the storm within you roar."
+					],
+					"quotes":[
+						"I do not destroy. I *unmake* what dares to remain still.",
+						"Pray for calm—but be ready when I answer otherwise."
+					],
+					"current_location":"The Kaleidurge — a spiral storm-temple drifting through the Arcane Sea’s elemental vortexes"
+				},
+				{
+					"name":"Rahvulhahnu",
+					"name_pre_ascension":"Vulhahnu",
+					"epithet":"The Abyssal Dreamer",
+					"sigtaara":"RÂVULHAHNU",
+					"sex":"male",
+					"symbol":"Closed eye above a spiral abyss",
+					"domains":[
+						"prophecy",
+						"dreams",
+						"cataclysm",
+						"visionary madness"
+					],
+					"appearance":{
+						"scales":"deep violet or void-black",
+						"eyes":"glow like eclipsed moons",
+						"aura":"shrouded in dreammist and whispering echoes"
+					},
+					"worship":{
+						"themes":[
+							"embracing uncertainty",
+							"revelation through darkness",
+							"visions as truth"
+						],
+						"rituals":[
+							"dream-communions",
+							"darkwater scrying",
+							"nightfire meditations"
+						],
+						"temples":[
+							"underground caverns, veiled sanctuaries, or floating monoliths"
+						]
+					},
+					"species_interpretations":{
+						"Sahrotsos":"First seer of flame; guide to potential ruin or glory.",
+						"Lingraasos":"Master of vision-waves and echo-lore.",
+						"Lokraasos":"Voice of the storm’s silence, where prophecy lives.",
+						"Zegtuzsos":"Omen-bringer and war-oracle.",
+						"Aedhelirsos":"Most sacred deity—soul-deep whisperer of convergence."
+					},
+					"myths":[
+						"Saw the end of dragons before their rise and still chose to ascend.",
+						"Dreamed the Ritual of Drakorys before time knew it could happen."
+					],
+					"festivals":[
+						"The Dreaming Descent",
+						"Eyes of the Spiral Moon"
+					],
+					"species":"Dova",
+					"classification":"Ra'a",
+					"description":"Rahvulhahnu is the eye that dreams the end. He does not see futures as paths to walk...",
+					"held_items":[
+						"Ulthakresis — the Eye Within the Eye"
+					],
+					"abilities":[
+						"Dreamfracture: Shatters enemy minds with cascading visions of multiple possible futures.",
+						"Abyssal Pulse: Erodes magical constructs and certainty through creeping unrealities.",
+						"Eclipsed Sight: Can see things that were never meant to exist—or never stopped existing.",
+						"Voidchant: Speaks truths that mutate those who hear them.",
+						"Cataclysm Seed: Plants apocalyptic potential that blooms only when denied."
+					],
+					"personality":{
+						"traits":[
+							"Obscure",
+							"Melancholy",
+							"Deliriously brilliant"
+						],
+						"morality":"Truth is corrosive but necessary. The lie of stability is a cruelty worse than chaos.",
+						"philosophy":"All things end. Those who prepare for the end awaken. Those who deny it, shatter."
+					},
+					"beliefs":[
+						"Dreams are truths unfiltered.",
+						"What you call madness is simply clarity too sharp to hold.",
+						"The spiral is not descent—it is convergence."
+					],
+					"quotes":[
+						"The stars are screaming. I just listen better than most.",
+						"You will not survive what is coming. But something of you might… echo."
+					],
+					"current_location":"The Maw of Stillwater — a motionless eye-shaped whirlpool in the Yoos’Okaaz said to only open in dreams"
+				}
+			]
+		}
