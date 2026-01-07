@@ -1,0 +1,48 @@
+"shapeshifter":{
+				"overview":{
+					"title":"Shapeshifters of Nixxia",
+					"summary":"An introduction to the five known species of natural shapeshifters across Nixxia.",
+					"description":"Shapeshifters in Nixxia are not a singular race or creation, but a phenomenon that manifests across vastly different species, environments, and magical origins. What binds them is their shared capacity to alter appearance—sometimes deliberately, sometimes involuntarily—as a biological or emergent trait. These creatures challenge the very idea of identity, and their presence often evokes fear, fascination, or philosophical unease in those who witness their transformations.",
+					"taxonomy":{
+						"definition":"Shapeshifters are defined here as naturally evolved or spontaneously formed beings whose core physiology allows them to mimic, alter, or assemble new forms in ways not dependent on ritual or arcane casting.",
+						"exclusions":[
+							"Humanoids who perform magical transformations through spells or curses",
+							"Possession-based or illusion-based entities",
+							"Artificial mimics created by wizards or engineered species"
+						]
+					},
+					"shared_traits":[
+						"Transformation or mimicry ability is innate and biological or emergent",
+						"Forms may replicate physical, emotional, symbolic, or optical features",
+						"They often provoke cultural myths, moral fears, or taboos",
+						"Several species operate without full control over their mimicry"
+					],
+					"ecological_roles":{
+						"predators":[
+							"Mireform"
+						],
+						"mirrors or empaths":[
+							"Whimkin",
+							"Echoed Skin"
+						],
+						"ritual archivists":[
+							"Kuur’shuul"
+						],
+						"phantasmic observers":[
+							"Glassling"
+						]
+					},
+					"philosophical_significance":"In many cultures of Nixxia, shapeshifters are seen not merely as creatures, but as questions given flesh. They blur the boundaries between soul and semblance, between memory and reality. Some consider them monsters, others messengers, and some—especially among the Kaelotaedhel—treat them as sacred reflections of mortality and memory.",
+					"known_species":[
+						"Doppelganger",
+						"Mireform",
+						"Glassling",
+						"Whimkin",
+						"Kuur’shuul",
+						"Echoed Skin"
+					],
+					"notes":{
+						"observation":"Many shapeshifters cannot be studied by traditional taxonomy due to their instability. As such, classification is ongoing and prone to revision.",
+						"warning":"Some shapeshifters (notably Echoed Skin and Whimkin) have caused identity loss, psychogenic fugue, or mimetic hallucination in observers. Approach with caution."
+					}
+				}
