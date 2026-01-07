@@ -1,0 +1,80 @@
+"horned_hellkite":{
+						"name":"Horned Hellkite",
+						"scientific_name":"Nehylkaadov Wogfooldov Wusygzil",
+						"classification":"Winged Wyrm",
+						"origin":"Silgolt",
+						"description":{
+							"short":"A fierce, horned predator adapted to the rugged and arid terrains of Silgolt.",
+							"full":"The Horned Hellkite is a lean and agile winged wyrm that inhabits the diverse environments of Silgolt, from rocky cliffs to desert dunes. Though smaller than its cousin, the Great Hellkite, it is no less formidable. With fiery eyes, curved horns, and cunning ambush strategies, it dominates its varied habitats through intelligence, speed, and precision."
+						},
+						"anatomy":{
+							"body_structure":"Lean, muscular quadruped with elongated wing bones for agile flight and curved horns for defense and dominance.",
+							"scale_characteristics":"Mottled scales ranging from fiery red to rusty brown, aiding in camouflage across various terrains.",
+							"facial_features":"Large curved horns, deep-set glowing eyes, serrated jaws for lethal bites."
+						},
+						"biological_data":{
+							"reproduction":{
+								"type":"Oviparous",
+								"gestation":"4 months",
+								"parental_care":"Minimal; hatchlings are independent shortly after birth."
+							},
+							"growth_stages":{
+								"hatchling":"0-1 year, rapid growth and horn development",
+								"juvenile":"1-3 years, molt stages and territorial training",
+								"mature":"5+ years, full size and dominance assertion"
+							},
+							"lifespan":"120 - 150 years"
+						},
+						"ecology":{
+							"habitat":"Rocky outcrops, desert dunes, and mountain ranges in Silgolt",
+							"role":"Versatile predator — maintains ecological balance across diverse Silgoltian biomes"
+						},
+						"diet":{
+							"type":"Carnivorous",
+							"primary_prey":"Small to medium mammals, birds, reptiles, occasional carrion",
+							"hunting_behavior":"Ambush predator using stealth, horns, and aerial speed"
+						},
+						"seasonal_behavior":{
+							"activity":"Less active in cooler months; territorial and reproductive behavior peaks in spring and summer",
+							"breeding":"Mating in spring, eggs laid in early summer, hatchlings emerge late summer"
+						},
+						"intelligence":{
+							"comparable_to":"Large terrestrial raptors or big cats — strategic and terrain-aware",
+							"skills":[
+								"Stealth-based ambushes",
+								"Adaptive use of environment",
+								"Camouflage and deception tactics"
+							]
+						},
+						"senses":{
+							"sight":"Exceptional motion detection at great distances",
+							"hearing":"Highly tuned for soft terrain sounds",
+							"smell":"Tracks prey via scent trails",
+							"thermal_vision":"Detects warm-blooded creatures even in low visibility"
+						},
+						"symbiosis":{
+							"symbiotic_species":[
+								"Scavenger birds that follow hunts and help remove parasites"
+							],
+							"parasites":[
+								"Silgoltian Bloodworm — controlled via grooming and bird assistance"
+							]
+						},
+						"domestication":{
+							"domesticated_by":null,
+							"status":"Undomesticated",
+							"process":null,
+							"adaptations":null
+						},
+						"dimensions":{
+							"height_avg_m":null,
+							"weight_kg":null,
+							"length_m":18,
+							"physique":"Lean, powerful frame for flight and ambush; highly agile in rugged terrain"
+						},
+						"distribution":{
+							"primary":"Silgolt",
+							"secondary":null
+						},
+						"discovered_by":null
+					},
