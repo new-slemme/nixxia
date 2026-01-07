@@ -1,0 +1,79 @@
+"moon_dragon":{
+						"name":"Moon Dragon",
+						"scientific_name":"Madudov",
+						"classification":"Winged Wyrm",
+						"origin":"Siniath (Jungle Canopy)",
+						"description":{
+							"short":"A tiny, luminous wyrm of the jungle canopy, revered for its nocturnal grace.",
+							"full":"The Moon Dragon is a miniature, deep-blue wyrm that dwells in the moonlit jungles of Siniath. Though only centimeters long, its shimmering scales and agile flight make it a vital part of the jungle ecosystem. Territorial and intelligent, it plays a key role in insect population control and nocturnal biodiversity."
+						},
+						"anatomy":{
+							"body_structure":"Compact, sturdy frame with four limbs — two hind legs and two wing-supported forelimbs; lightweight skeleton for agile flight.",
+							"scale_characteristics":"Deep blue, moonlight-reflective scales with hue variations for camouflage; males are more iridescent during breeding.",
+							"facial_features":"Gem-like eyes for night vision, fine sensory hairs on snout, tiny sharp teeth for gripping insects."
+						},
+						"biological_data":{
+							"reproduction":{
+								"type":"Sexual (oviparous)",
+								"gestation":"2 weeks",
+								"parental_care":"None; hatchlings are independent but remain near the nest briefly."
+							},
+							"growth_stages":{
+								"hatchling":"0-2 weeks, hidden and vulnerable",
+								"juvenile":"2 weeks - 1.5 months, learns to hunt and navigate",
+								"mature":"3 months, reaches full size and territorial behavior"
+							},
+							"lifespan":"15 years"
+						},
+						"ecology":{
+							"habitat":"Upper canopy of Siniath's dense jungles; prefers areas with strong moonlight exposure",
+							"role":"Keystone insectivore — controls flying insect populations; vital to jungle health"
+						},
+						"diet":{
+							"type":"Insectivorous",
+							"primary_prey":"Flying insects (moths, beetles), small leaf critters",
+							"hunting_behavior":"Agile mid-air capture using precise maneuvers and enhanced night vision"
+						},
+						"seasonal_behavior":{
+							"activity":"Peaks during full moon; reduces activity around new moon",
+							"breeding":"Annual cycle during peak moonlight; males perform aerial displays"
+						},
+						"intelligence":{
+							"comparable_to":"Songbirds and small mammals — strong memory and environmental navigation",
+							"skills":[
+								"Territory marking and recognition",
+								"Avoidance of predators using vibration and scent cues",
+								"Efficient prey location in complex environments"
+							]
+						},
+						"senses":{
+							"sight":"Excellent nocturnal vision; adapted to moonlight and dense foliage",
+							"smell":"Highly sensitive for detecting prey",
+							"vibration_detection":"Senses motion through foot contact with leaves and branches"
+						},
+						"symbiosis":{
+							"symbiotic_species":[
+								"Bioluminescent fungi that attract prey insects"
+							],
+							"parasites":[
+								"Tiny mites — generally harmless"
+							]
+						},
+						"domestication":{
+							"domesticated_by":null,
+							"status":"Undomesticated",
+							"process":null,
+							"adaptations":null
+						},
+						"dimensions":{
+							"height_avg_m":0.04,
+							"weight_kg":0.006,
+							"length_m":0.07,
+							"physique":"Lithe and agile; muscles and wing structure optimized for rapid, controlled flight in tight canopy spaces"
+						},
+						"distribution":{
+							"primary":"Siniath (Jungle Canopy)",
+							"secondary":null
+						},
+						"discovered_by":null
+					},
