@@ -1,0 +1,61 @@
+"ykheri":{
+				"name":"Ykheri",
+				"sigtaara":"Ykheri",
+				"translation":"Naturepower",
+				"definition":"The passive, ancient magic of the world itself — found in mountains, rivers, storms, and decay — but never in living beings.",
+				"can_be_wielded":false,
+				"description":"Ykheri is the unshaped, unspoken magic of Fir’Gol — the slow, monumental power of stone, sea, pressure, and cycle. It does not respond to will. It has no incantation. It is not shaped or cast like Kori or Tazri. It is perceived, endured, and at rare moments, it responds — not with obedience, but with allowance. Ykheri governs the structures and patterns of the natural world: the flow of rivers, tectonic drift, stormwinds, and the long breath of forests. While it cannot be wielded, skilled individuals may align with its rhythm to survive, predict, or harmonize with nature’s flow.",
+				"domain":[
+					"Mountains, hills, plains",
+					"Rivers, lakes, seas, oceans",
+					"Air currents, rain, stormfronts, lightning",
+					"Seasons, decay, erosion, tectonic activity"
+				],
+				"does_not_include":[
+					"Any living creatures, including monsters and beasts",
+					"Plants as individuals (though forests or ecosystems may reflect Ykheri's broader rhythm)"
+				],
+				"perception_effects":[
+					"Prediction of weather, quakes, and floods",
+					"Sensing of terrain shifts or natural imbalances",
+					"Harmonization with travel, hiding, or hunting conditions",
+					"Recognition of magical interference in natural cycles"
+				],
+				"interaction_with_other_magics":{
+					"kori":"Strong emotional or physical manifestations of Kori may momentarily alter local Ykheri (e.g., wind swerving around a battle-raged warrior), but this is temporary and not true control.",
+					"tazri":"High ritual magic may cause transient effects (e.g., storms delaying during rites), but such events risk imbalance if repeated.",
+					"consequence_of_abuse":[
+						"Magical flooding from repeated tide interference",
+						"Rockslides or droughts caused by Tazri-warped terrain",
+						"Gradual resistance to repeated magical intrusion"
+					]
+				},
+				"behavior":{
+					"is_active":false,
+					"is_reactive":"rarely, and only in response to overwhelming emotional or magical force",
+					"memory":"Ykheri remembers interference — patterns of imbalance may persist for decades or centuries"
+				},
+				"notable_quotes":[
+					{
+						"quote":"Nature does not tolerate impertinence. To lean on Ykheri is to lean on time — it may not crush you today, but it remembers.",
+						"source":"Stonepath Proverb"
+					},
+					{
+						"quote":"It is not cast. It is not shaped. It is observed — endured.",
+						"source":"Watcher of the Sixth Root"
+					}
+				],
+				"cultural_roles":[
+					"Storm-watchers",
+					"Landbound navigators",
+					"Earth-priests and root-scribes",
+					"Shamans of the Silt Tongue",
+					"Lorekeepers of erosion and ash"
+				],
+				"rarity_of_accurate_alignment":"Rare — only highly practiced individuals may sense Ykheri reliably; none may command it.",
+				"comparison_to_other_magics":{
+					"kori":"Internal, personal, born of will and soul",
+					"tazri":"Arcane, external, shaped by knowledge and structure",
+					"ykheri":"Impersonal, enduring, shaped only by time and presence"
+				}
+			},
