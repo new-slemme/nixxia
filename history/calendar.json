@@ -1,0 +1,117 @@
+"calendar":{
+		"notes":[
+			{
+				"date":"0-1",
+				"month":"0",
+				"day":"1",
+				"title":"Sin'Ruvos",
+				"note":" The new year's celebrations.",
+				"tags":"  success",
+				"icon":"fas scroll",
+				"recurrence":"annual-on-date",
+				"key":"0-1-fas scroll-sinruvos",
+				"duration":{
+					"period":1,
+					"isWrapped":false
+				},
+				"intercalary":{
+					"isActive":false,
+					"isAfter":false,
+					"isDistinct":false,
+					"isNewWeekDuring":false,
+					"isNewWeekAfter":false,
+					"dateAppearance":"normal"
+				},
+				"buttonPresentation":{
+					"title":"head-body-tail",
+					"icon":"head-body-tail",
+					"tags":"head-body-tail"
+				}
+			}
+		],
+		"calendarVersion":"0.8.3",
+		"name":"NSC",
+		"description":"\"The Nixxian Standard Calendar.\\nThis calendar starts counting from the seperation of the physical realm from the \\\"Arcane Sea\\\".\\nIt was first devised by the \\\"\\\".\"",
+		"currentYear":"13000",
+		"days":[
+			"Noskiinsur",
+			"Nayolsur",
+			"Esindsur",
+			"Turgrahsur",
+			"Gekulsur",
+			"Iaruthsur",
+			"Gurnoksur"
+		],
+		"daysPerWeek":7,
+		"months":[
+			{
+				"name":"Etzil",
+				"length":"78",
+				"desc":"The first month and simultaneously driest month of the year, during this period almost all rainfall, around the world, comes to a halt."
+			},
+			{
+				"name":"Zuzil",
+				"length":"62",
+				"desc":"The second month of the year, characterized by a steady increase of rainfall."
+			},
+			{
+				"name":"Daazil",
+				"length":"79",
+				"desc":"The third month of the year, consisting of rainfall that can last for weeks at a time."
+			},
+			{
+				"name":"Vurzil",
+				"length":"92",
+				"desc":"The fourth month brings with it balanced weather. It is also the start of the harvesting season."
+			},
+			{
+				"name":"Firzil",
+				"length":"54",
+				"desc":"The fifth and last month, ending the year with a slow decline of rainfall leading into the next year's dry season."
+			}
+		],
+		"monthsPerYear":5,
+		"celestials":[
+			{
+				"name":"Narumar",
+				"cycle":"730",
+				"shift":"",
+				"color":"red",
+				"classes":"",
+				"desc":"A giant red moon, taking up a third of the night sky, when it is full and the closest to Nixxia. This event happens in a two-year cycle.",
+				"phaseNames":{
+					"new":"New",
+					"young":"Young",
+					"waxingCrescent":"Waxing Crescent",
+					"waxingQuarter":"Waxing Quarter",
+					"waxingGibbous":"Waxing Gibbous",
+					"full":"Full",
+					"waningGibbous":"Waning Gibbous",
+					"waningQuarter":"Waning Quarter",
+					"waningCrescent":"Waning Crescent",
+					"old":"Old"
+				}
+			},
+			{
+				"name":"Aekiir",
+				"cycle":"73",
+				"shift":"",
+				"color":"blue",
+				"classes":"",
+				"desc":"A small blue moon appearing full once two twice a month.",
+				"phaseNames":{
+					"new":"New",
+					"young":"Young",
+					"waxingCrescent":"Waxing Crescent",
+					"waxingQuarter":"Waxing Quarter",
+					"waxingGibbous":"Waxing Gibbous",
+					"full":"Full",
+					"waningGibbous":"Waning Gibbous",
+					"waningQuarter":"Waning Quarter",
+					"waningCrescent":"Waning Crescent",
+					"old":"Old"
+				}
+			}
+		],
+		"celestialBodyCount":2
+	},
