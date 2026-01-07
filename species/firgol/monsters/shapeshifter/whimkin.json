@@ -1,0 +1,48 @@
+"whimkin":{
+						"name":"Whimkin",
+						"sigtaara":null,
+						"classification":"Shapeshifter",
+						"habitat":[
+							"Edges of the Arcane Sea",
+							"Liminal zones in Silgolt",
+							"Liminal zones in Siniath"
+						],
+						"description":{
+							"short":"Emotion-triggered shapeshifters born of mirth, grief, and whimsy.",
+							"full":"Whimkin are small, unpredictable shapeshifters that inhabit liminal zones near the Arcane Sea and emotionally volatile wildlands. Rather than choosing forms deliberately, they shapeshift when exposed to strong emotion, mimicking individuals they've seen laugh, cry, scream, or rejoice. Often mistaken for illusions, Whimkin are chaotic but not evil — driven by impulse, curiosity, and the desire to reflect the world’s feelings back at it in absurd or poetic forms."
+						},
+						"anatomy":{
+							"base_form":"Small furred creature with large reflective eyes and pastel-hued skin or fur",
+							"morphology":"Unstable and reactive; forms shift spontaneously based on emotional input",
+							"motion":"Erratic, agile, and often playful or unsettling in rhythm",
+							"size":"Roughly 0.5 meters tall in base form; variable when shifted"
+						},
+						"shapeshifting":{
+							"trigger":"Emotion-based; can only transform into beings they’ve seen during intense emotional moments",
+							"emotional_echoes":"Exaggerated or mixed features, e.g., laughing eyes on a weeping face",
+							"duration":"Short; shifts persist only while the Whimkin remains engaged or amused",
+							"limitations":"Cannot replicate individuals without observing emotion; shifts often break mid-sentence or scene"
+						},
+						"behavior":{
+							"cognition":"Intelligent in abstract, associative ways; understands rhythm, mimicry, and storytelling patterns",
+							"communication":"Speaks in mimicry, fragmented rhymes, or nonsensical repetition",
+							"temperament":"Mischievous, intrusive, but not violent; thrives on reaction",
+							"social_structure":"Loose clusters called 'gleams'; compete to out-mimic one another"
+						},
+						"reproduction":{
+							"method":"Unknown; possibly spontaneous manifestation from concentrated emotional residue",
+							"growth":"Gain new forms and precision by witnessing more complex or intense emotions",
+							"lifespan":"Variable; some vanish after days, others persist for centuries"
+						},
+						"weaknesses":[
+							"Cannot lie — all mimicked speech must come from truth or genuine belief",
+							"Disrupted by conflicting rhythms (e.g., off-beat music, logic puzzles, dissonant chants)",
+							"Vulnerable to emotional null zones (e.g., silence, apathy, or magically induced calm)",
+							"Attention-dependent — prolonged disregard may cause them to dissolve"
+						],
+						"cultural_significance":[
+							"Kaekreaedhel believe Whimkin are the laughter of lost gods given form",
+							"Blamed for emotional outbursts in Silgolt; treated as trickster spirits or chaos imps",
+							"Folk tales warn that a Whimkin may mimic you so perfectly, you vanish from the world"
+						]
+					},
