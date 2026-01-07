@@ -1,0 +1,83 @@
+"swamp_wyrm":{
+						"name":"Swamp Wyrm",
+						"scientific_name":"Nehylkaadov Pinursir Pinnad",
+						"classification":"Winged Wyrm",
+						"origin":"Siniath, Silgolt",
+						"description":{
+							"short":"A semi-aquatic, cat-sized jungle wyrm known for its camouflage, venom, and trainability.",
+							"full":"The Swamp Wyrm is a small, semi-aquatic winged wyrm native to the swamps and marshes of Siniath and Silgolt. With vivid green camouflage and bright orange head fins, it glides through underbrush and water in pursuit of prey. Territorial and social within family groups, it is both predator and prey in its ecosystem. Domesticated by hunters and anglers, Swamp Wyrms are valued for their agility, venom, and fierce loyalty when trained."
+						},
+						"anatomy":{
+							"body_structure":"Slender, elongated quadruped with webbed limbs for swimming and small wings for short bursts of flight.",
+							"scale_characteristics":"Predominantly green scales with vibrant orange markings on head and neck for warning and display.",
+							"facial_features":"Beady, low-light-adapted eyes, venomous fangs, and finned neck for agility and communication."
+						},
+						"biological_data":{
+							"reproduction":{
+								"type":"Sexual (oviparous)",
+								"gestation":"60 days",
+								"parental_care":"Female guards eggs; juveniles remain with parents until maturity."
+							},
+							"growth_stages":{
+								"egg":"0-2 months, swamp incubation",
+								"juvenile":"2-12 months, rapid growth and learning",
+								"adult":"2 years+, full independence and territorial behavior"
+							},
+							"lifespan":"12-15 years (up to 20 in captivity)"
+						},
+						"ecology":{
+							"habitat":"Swamps, riverbanks, and marshes of Siniath and Silgolt",
+							"role":"Mid-level predator — controls populations of small aquatic and amphibious fauna"
+						},
+						"diet":{
+							"type":"Piscivorous and opportunistic carnivore",
+							"primary_prey":"Fish, amphibians, insects, small mammals",
+							"hunting_behavior":"Silent stalking followed by venomous ambush or aquatic pursuit"
+						},
+						"seasonal_behavior":{
+							"activity":"Highly active during rainy season; becomes more terrestrial in dry season",
+							"breeding":"Occurs in wet season; nests built in secluded, swampy sites"
+						},
+						"intelligence":{
+							"comparable_to":"Domesticated cats — responsive, curious, and trainable",
+							"skills":[
+								"Hunting coordination within family units",
+								"Human recognition and command response in captivity",
+								"Navigational memory for water and land routes"
+							]
+						},
+						"senses":{
+							"sight":"Optimized for dim light; useful in murky waters and dense vegetation",
+							"hearing":"Detects faint prey and predator movements",
+							"smell":"Highly acute for tracking across terrain",
+							"echolocation":"Possible rudimentary ability in some individuals"
+						},
+						"symbiosis":{
+							"symbiotic_species":[
+								"Birds that clean parasites from their scales and benefit from their protection"
+							],
+							"parasites":[
+								"Leeches and ticks — mild health burden if unmanaged"
+							]
+						},
+						"domestication":{
+							"domesticated_by":"Jungle hunters and anglers of Siniath and Silgolt",
+							"status":"Domesticated",
+							"process":"Hatchlings are captured and trained using positive reinforcement; specialized diet and swampy habitat required",
+							"adaptations":{
+								"behavioral":"Increased affection and task response toward humans",
+								"training":"Used for prey tracking, fish recovery, and navigation in thick jungle"
+							}
+						},
+						"dimensions":{
+							"height_avg_m":0.3,
+							"weight_kg":4.5,
+							"length_m":1.1,
+							"physique":"Lean, agile, amphibious — powerful swimmer with limited gliding capability"
+						},
+						"distribution":{
+							"primary":"Siniath",
+							"secondary":"Silgolt"
+						},
+						"discovered_by":null
+					},
