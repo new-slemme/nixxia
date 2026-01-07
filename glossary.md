@@ -1,0 +1,4 @@
+-> Timeline, events and important historical figures are stored in /nixxia/history/*
+-> Gods and the magic system are explained under /nixxia/pantheons/* and /nixxia/magic/*
+-> Creatures living in the Arcane Sea (Yoos'Okaaz) and Material Plane (Fir'Gol) are described in /nixxia/species/*
+-> The language "Sigtaara" is described under /nixxia/languages/*
