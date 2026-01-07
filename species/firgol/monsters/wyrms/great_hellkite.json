@@ -1,0 +1,79 @@
+"great_hellkite":{
+						"name":"Great Hellkite",
+						"scientific_name":"Nehylkaadov Wogfooldov Yoljun",
+						"classification":"Winged Wyrm",
+						"origin":"Silgolt (Eastern Mountain Ranges)",
+						"description":{
+							"short":"A colossal, smoke-wreathed predator reigning over the mountains of Silgolt.",
+							"full":"The Great Hellkite is a massive and feared winged wyrm endemic to the eastern mountains of Silgolt. Known for its fiery breath, immense wingspan, and crimson scales that smolder like embers, it is the apex predator of its domain. Solitary, cunning, and devastating in combat, the Hellkite is both legend and nightmare to all who dwell near its range."
+						},
+						"anatomy":{
+							"body_structure":"Muscular, robust frame with dense bones, massive wings, and retractable claws.",
+							"scale_characteristics":"Crimson, ember-patterned scales with blackened ridges that emit plumes of smoke.",
+							"facial_features":"Elongated skull with horn-like protrusions, deep-set glowing eyes, and serrated jaws lined with razor-sharp teeth."
+						},
+						"biological_data":{
+							"reproduction":{
+								"type":"Oviparous",
+								"gestation":"6 months",
+								"parental_care":"Minimal; hatchlings are self-reliant from birth."
+							},
+							"growth_stages":{
+								"hatchling":"0-3 years, rapid growth to half adult size",
+								"juvenile":"3-6 years, physical development and first molts",
+								"mature":"10+ years, fully grown and territorial"
+							},
+							"lifespan":"200 years"
+						},
+						"ecology":{
+							"habitat":"High-altitude mountainous terrain, deep valleys, and caves in Silgolt",
+							"role":"Apex predator — regulates large fauna populations and limits other wyrms"
+						},
+						"diet":{
+							"type":"Carnivorous",
+							"primary_prey":"Mountain goats, deer, other wyrms (notably Silgoltian Ghostbacks)",
+							"hunting_behavior":"Combines aerial ambush and ground assault with use of fire breath"
+						},
+						"seasonal_behavior":{
+							"activity":"Reduced activity during winter semi-hibernation; heightened territorial patrols in warmer months",
+							"breeding":"Occurs during spring with temporary pair formation"
+						},
+						"intelligence":{
+							"comparable_to":"Large predatory birds (e.g., ravens, eagles) or big cats — strategic, adaptable, and capable of long-term planning",
+							"skills":[
+								"Ambush planning",
+								"Environmental manipulation",
+								"Territorial defense tactics"
+							]
+						},
+						"senses":{
+							"sight":"Exceptional long-range vision",
+							"smell":"Sensitive olfaction capable of tracking prey from kilometers away",
+							"vibration_detection":"Detects disturbances in ground and air currents"
+						},
+						"symbiosis":{
+							"symbiotic_species":[
+								"Small scavenger birds that feed on Hellkite kills"
+							],
+							"parasites":[
+								"Silgoltian Bloodworm — hematophagous parasite causing chronic irritation"
+							]
+						},
+						"domestication":{
+							"domesticated_by":null,
+							"status":"Undomesticated",
+							"process":null,
+							"adaptations":null
+						},
+						"dimensions":{
+							"height_avg_m":10,
+							"weight_kg":2300,
+							"length_m":30,
+							"physique":"Massive and muscular; optimized for aerial dominance and high-intensity combat"
+						},
+						"distribution":{
+							"primary":"Silgolt (Eastern Mountains)",
+							"secondary":null
+						},
+						"discovered_by":null
+					},
