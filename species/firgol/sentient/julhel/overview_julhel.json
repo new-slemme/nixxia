@@ -1,9 +1,11 @@
-"gragrahgot_group":{
+"julhel_group":{
 				"sigtaara":"Julhel",
 				"english":"Human-like",
 				"home_continent":"Hjemland",
         "included_species":[
           "Medesjul",
-          "Kaetijul"
+          "Kaetijul",
+		  "Jaajul",
+		  "Aedhelirjul"
         ]
 }
