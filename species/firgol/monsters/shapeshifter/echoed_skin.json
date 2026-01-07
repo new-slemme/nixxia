@@ -1,0 +1,50 @@
+"echoed_skin":{
+						"name":"Echoed Skin",
+						"sigtaara":null,
+						"classification":"Shapeshifter",
+						"habitat":[
+							"Battlefields",
+							"Haunted ruins",
+							"Cursed tombs",
+							"Trauma-saturated locations"
+						],
+						"description":{
+							"short":"Involuntary shapeshifters born of death echoes and emotional residue.",
+							"full":"Echoed Skin are shapeshifters that do not choose their forms. Instead, they reactively manifest appearances tied to emotional residue, death, or trauma in their environment. Their bodies flicker between faces and forms — ancestors, victims, strangers — often mimicking individuals they’ve never met but whose psychic imprints linger. They are haunted, fragmented beings, caught between identity and oblivion, memory and mimicry. While not aggressive by nature, their presence causes unease, hallucination, and identity confusion in others."
+						},
+						"anatomy":{
+							"form":"Constantly shifting humanoid silhouette; features change in race, age, and expression",
+							"skin":"Veil-like membrane rippling with emotional or magical pressure",
+							"eyes":"Shifting color or mismatched; sometimes mirror observer’s gaze",
+							"voice":"Layered echoes from other lives, often fragmented or nonsensical"
+						},
+						"shapeshifting":{
+							"control":"None; transformations are involuntary and based on surroundings",
+							"triggers":"Emotional intensity, proximity to death, lingering magical trauma",
+							"memory_absorption":"May involuntarily adopt habits, phrases, or memories",
+							"anchoring":"Can briefly stabilize if isolated or focused on in ritual silence"
+						},
+						"behavior":{
+							"cognition":"Fragmented; retains foreign memories, often confused or dissociated",
+							"communication":"Speaks in broken phrases; often recalls dreams or confessions",
+							"temperament":"Melancholic, timid, avoidant",
+							"existential_drift":"Prone to losing track of its current self; fears mirrors or being named"
+						},
+						"reproduction":{
+							"origin":"Spontaneously formed in areas of intense psychic trauma or death",
+							"growth":"Becomes more stable in emotionally calm environments",
+							"lifespan":"Highly variable — from days to centuries depending on conditions"
+						},
+						"weaknesses":[
+							"No control over form",
+							"Vulnerable to magical anchors or reflective surfaces",
+							"Affected by memory spells — can forget form or shatter under psychic weight",
+							"Naming its current form aloud may disrupt or unravel it"
+						],
+						"cultural_significance":[
+							"Kaelotaedhel view them as memory-shards striving for rebirth",
+							"Kaemisaedhel cults try to bind them for secrets and confessions",
+							"Folktales claim they may wear the face of the living, causing shared collapse",
+							"Feared in war zones as omens of unfinished grief"
+						]
+					}
