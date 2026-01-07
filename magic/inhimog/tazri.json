@@ -1,0 +1,307 @@
+"tazri":{
+				"english":"Out-Energy",
+				"definition":{
+					"summary":"Magic drawn from the Arcane Sea. A legacy of the Pah'Nad, used to alter reality through will and ritual.",
+					"origin":"Leftover raw magic from the Pah'Nad, retained in the Arcane Sea (Yoos’Okaaz) after the cosmic split.",
+					"access":{
+						"requirements":[
+							"Spiritual focus (Saeje)",
+							"Use of Sigtaara language",
+							"Ritual, mental clarity, and intention"
+						],
+						"method":"Alignment of spirit with the chaotic currents of the Arcane Sea."
+					},
+					"expression":{
+						"elemental":"Command of fire, frost, storm, and stone.",
+						"alteration":"Matter reshaping, space distortion.",
+						"divination":"Seeing beyond the veil of the material.",
+						"conjuration":"Summoning creatures, illusions, or constructs."
+					},
+					"dangers":{
+						"mana_flooding":"Overdraw leads to soul rupture (Lakaesaekg).",
+						"aberrations":"Miscasts warp land or spawn Arcane creatures.",
+						"trace":"Arcane residue may mark the soul, attracting threats."
+					},
+					"limitations":"Volatile and external. Tazri is not loyal — mastery requires discipline and reverence."
+				},
+				"path":{
+					"overview":"The Path of Tazri\nReaching Into the Sea\n\"To command the Sea is to know oneself drowned — and still speak.\"\nTazri (Sigtaara: \"out-energy\") flows from the Arcane Sea, a formless reservoir of raw magic. It is not loyal, sentient, or responsive — it is gravitational, eternal, and amoral.\nThe path of Tazri is walked through one's Saeje (soul), refined not by strength, but by surrender and structure.\n\nFive stages chart this journey — the fifth being mythical, not sought, but suffered.\n",
+					"stages":{
+						"taz_sulak":{
+							"title":"The Shivering Reach",
+							"sigtaara":"Taz’Sulak",
+							"english":"Out-Shivering",
+							"summary":"The caster makes first contact with the Arcane Sea — unsteady, raw, and overwhelming. It is not mastery but survival.",
+							"quote":{
+								"text":"The Sea does not beckon. It presses.",
+								"speaker":"Unknown initiate, recorded moments before Zaelmonir."
+							},
+							"description":"Taz’Sulak is the first stage of Tazri — the trembling contact between Saeje and Sea. The Arcane Sea is not passive. It presses into the soul with weight and force, often without warning or rhythm. Contact may come through rites, ancestral invocations, or meditative trauma, but it is never gentle. The caster, still unfamiliar with the Sea’s flows, experiences spells as violent bursts — unstable, exhausting, and deeply disorienting. Conduits such as mentors, artifacts, or physical foci are essential. Without them, most drown. Many who enter this stage do not return — their Saeje eroded by the tides of Yoos’Okaaz, dissolved into Zaelmonir. The few who survive emerge permanently marked: their nerves frayed, their vision shifted, their self no longer whole — but no longer ignorant.",
+							"signs":[
+								"Hands tremble uncontrollably after spellcasting",
+								"Eyes leak light, ink, or blood during rites",
+								"Arcane effects surge unpredictably",
+								"Persistent dreams of drowning, pressure, or blue flame",
+								"Unexplained nausea, disassociation, or whispers before a casting"
+							],
+							"examples":[
+								{
+									"context":"A novice lights a candle with a whispered word — and the entire altar erupts in wild blue flame.",
+									"tazri_nature":"The Sea responds disproportionately, rejecting the caster’s unstable channeling."
+								},
+								{
+									"context":"A child speaks to an old stone, and hears it reply in layered voices they do not understand.",
+									"tazri_nature":"A chance contact with a saturated node of the Arcane Sea — no rite, only raw pressure."
+								},
+								{
+									"context":"An apprentice survives their first rite only by clutching a relic that absorbs the overflow of the Sea.",
+									"tazri_nature":"The conduit absorbs the spell’s instability, shielding the caster from Zaelmonir."
+								}
+							],
+							"limitations":[
+								"Extreme instability in spellcasting.",
+								"Complete dependence on conduits.",
+								"High risk of Zaelmonir (soul-drowning).",
+								"Overwhelming physical and mental strain."
+							],
+							"transition":{
+								"to_next_stage":"The caster must develop arcane endurance and begin sensing the Sea’s underlying rhythm — no longer just surviving contact, but recognizing pattern within chaos.",
+								"obstacles":[
+									"Fear of re-entering the Sea’s pressure",
+									"Over-reliance on external conduits",
+									"Unresolved trauma from first contact",
+									"Spiritual disorientation and Saeje destabilization"
+								]
+							},
+							"rarity":"Uncommon — many study magic, few survive first contact with the Sea directly.",
+							"alignment_with_saeje":"None — the caster’s Saeje is unadapted, resisting the Sea’s pressure.",
+							"tazri_expression":{
+								"control":"None",
+								"instability":"Chaotic",
+								"awareness":"External"
+							},
+							"significance":"The caster has stepped beyond theory into lived danger. The Saeje has tasted the Sea. There is no return to the unmarked self."
+						},
+						"taz_gohraazil":{
+							"title":"The Listening Wake",
+							"sigtaara":"Taz’Gohraazil",
+							"english":"Out-Listening",
+							"summary":"The caster begins to detect the Sea’s rhythm — recognizing patterns, predicting flows, and achieving fragile fluency.",
+							"quote":{
+								"text":"At last, it hums. Not for me — but near me.",
+								"speaker":"Yerin Maal, apprentice of House Kharúl"
+							},
+							"description":"Taz’Gohraazil is the second stage of Tazri, marking the beginning of comprehension. Where Taz’Sulak was survival through pressure, Gohraazil is the moment the caster begins to listen. The tides of the Arcane Sea reveal patterns — not always logical, but consistent. Spells become more stable through repetition. The caster can cast simple effects without conduits, sensing a resonance point between will and world. Most significantly, they develop a 'wake-trace' — an intuitive sense of places and times where the Sea’s pressure sharpens or slackens. While fluency remains distant, the caster has begun to float. The Sea still moves around them, but it no longer drowns them outright.",
+							"signs":[
+								"Fingers tingle before arcane surges",
+								"The caster can predict when ritual spaces feel ‘right’",
+								"Basic spells now cast without aid — albeit imperfectly",
+								"Recurring dreams of glyphs in water or speech without voice",
+								"A sense of resonance in certain materials, like quartz, bone, or copper"
+							],
+							"examples":[
+								{
+									"context":"A student draws a glyph in the sand and it glows for the first time — faint, but steady.",
+									"tazri_nature":"The caster’s intuitive grasp of ritual form aligns with a stable wake-flow in the Sea."
+								},
+								{
+									"context":"During meditation, a novice senses an arcane surge in the sky minutes before a storm hits.",
+									"tazri_nature":"They’ve attuned to a wake-trace — the Sea’s pressure tightening in response to a natural event."
+								},
+								{
+									"context":"A ritualist casts a flame charm without their staff for the first time, burning only their sleeve.",
+									"tazri_nature":"Spell stability has improved, but remains inconsistent — conduit partiality remains."
+								}
+							],
+							"limitations":[
+								"Emotional volatility may corrupt spells.",
+								"Moderate dependence on conduits for non-basic effects.",
+								"Mental fatigue sets in before physical exhaustion.",
+								"Arcane residue begins to cling to the caster’s Saeje."
+							],
+							"transition":{
+								"to_next_stage":"The caster must learn not only to hear the Sea, but to shape its flow through their own rhythm — forging a stable and personal spellform.",
+								"obstacles":[
+									"Reliance on repetition instead of intuition",
+									"Fear of improvisation",
+									"Emotional repression or volatility",
+									"Early signs of arcane residue disrupting the Saeje’s clarity"
+								]
+							},
+							"rarity":"Rare — many falter here, unable to maintain balance between pattern and pressure.",
+							"alignment_with_saeje":"Shifting — the Saeje begins adapting to rhythmic touch, but remains externally reactive.",
+							"tazri_expression":{
+								"control":"Limited",
+								"instability":"Volatile",
+								"awareness":"Intuitive"
+							},
+							"significance":"The caster has stopped bracing. They are beginning to float. Their Saeje now bears the first grooves of intentional spellwork."
+						},
+						"taz_yokaazil":{
+							"title":"The Silent Binding",
+							"sigtaara":"Taz’Yokaazil",
+							"english":"Out-Binding",
+							"summary":"The Sea no longer resists. Spells shape themselves with grace, and the caster begins to lose their edges to the magic they channel.",
+							"quote":{
+								"text":"I thought I was casting the spell. Then I realized it was casting me.",
+								"speaker":"Haelaa Orush, upon her third binding"
+							},
+							"description":"Taz’Yokaazil is the third stage of Tazri — the moment spellcasting ceases to feel like effort and begins to feel like design. The caster has developed a personal rhythm, a recognizable trace known as a Spellform. This inner structure anchors their relationship with the Sea, making most castings fluid and consistent. The Sea, in turn, begins to recognize them — spells flow with greater speed and subtlety, often forming the moment the caster thinks of them. However, this fluency comes at a cost: the caster begins to dissolve, piece by piece, into the very spells they perform. Identity becomes porous. Intention bleeds into effect. Each rite subtly reshapes the one who performs it. Ego thins, and with it, the comfort of boundaries.",
+							"signs":[
+								"Rituals complete with few or no incantations",
+								"The caster's glyphs evolve without conscious design",
+								"Spells manifest instinctively under pressure",
+								"Physical changes (eye color shifts, runic markings, temperature alterations) persist after casting",
+								"Unintended emotional overtones emerge in otherwise clean spells"
+							],
+							"examples":[
+								{
+									"context":"A weather-mage gestures at storm clouds and they part without a word — but their voice trembles for hours afterward.",
+									"tazri_nature":"The Sea reacts instantly to their Spellform, but its residue echoes back into their emotional state."
+								},
+								{
+									"context":"A battlefield caster chants mid-charge, and their skin glows faintly for days with the spell’s remaining rhythm.",
+									"tazri_nature":"The spell imprinted itself onto the body — the boundary between self and magic now thin."
+								},
+								{
+									"context":"A scribe draws their sigil and finds it reshaped by instinct, more elegant than their original design.",
+									"tazri_nature":"Spellform reflexively refines the caster’s intent, as the Sea responds to subconscious patterns."
+								}
+							],
+							"limitations":[
+								"Ease may lead to overconfidence or instability.",
+								"Spellform can become rigid or self-defining.",
+								"Unprocessed emotions begin to leak into castings.",
+								"Sustained use may cause blurring between self and spell."
+							],
+							"transition":{
+								"to_next_stage":"The caster must integrate the spellform into body and motion — becoming the rite rather than performing it.",
+								"obstacles":[
+									"Fear of further ego dissolution",
+									"Attachment to stable identity",
+									"Inflexible spellform becoming over-defined",
+									"Unresolved emotions warping arcane output"
+								]
+							},
+							"rarity":"Very rare — many casters plateau here, unable or unwilling to surrender to further transformation.",
+							"alignment_with_saeje":"Harmonizing — the Saeje and Sea now shape each other in tandem.",
+							"tazri_expression":{
+								"control":"Partial",
+								"instability":"Oscillating",
+								"awareness":"Internal"
+							},
+							"significance":"The Sea no longer resists the caster. It *remembers* them. Tazri begins to flow as if the caster were a natural conduit."
+						},
+						"taz_laasok":{
+							"title":"The Willwoven Rite",
+							"sigtaara":"Taz’Laasok",
+							"english":"Out-Woven",
+							"summary":"The caster becomes the spell — each movement, breath, and word is a ritual. Tazri flows invisibly, flawlessly, and with grace.",
+							"quote":{
+								"text":"I do not cast anymore. I walk, and the Sea sings.",
+								"speaker":"Eruven Sal’Khar, High Listener of the Seventh Chamber"
+							},
+							"description":"Taz’Laasok is the fourth stage of Tazri, when the caster no longer performs magic — they embody it. Every motion is a glyph, every breath a thread of rite. Spellcasting no longer requires structure or incantation. It emerges from the caster as naturally as thought. The body itself becomes the ritual — aligned with the Sea’s rhythm, echoing its flows in posture, tone, and gesture. At this stage, the Sea reflects the caster’s essence with uncanny precision. Spirits within Yoos’Okaaz may even begin to echo the caster’s presence, recognizing them as part of the current. Arcane actions become graceful and often unnoticed by the untrained. Yet the magic here is potent, woven not with force, but with resonance.",
+							"signs":[
+								"Spells emerge mid-sentence or in silence",
+								"Environmental shifts follow the caster’s emotional arc",
+								"Ritual tools are abandoned, replaced by posture or presence",
+								"Animals, spirits, or children sense the caster’s rhythm",
+								"Casters move as if guided by unseen tides"
+							],
+							"examples":[
+								{
+									"context":"A Flamewright walks through a firestorm without harm, and the flames part naturally.",
+									"tazri_nature":"The caster’s Saeje and body have woven into a single, ambient invocation of protection."
+								},
+								{
+									"context":"An aged caller exhales near a cliff and the fog thickens, forming a boundary between his camp and the hunt beyond.",
+									"tazri_nature":"The Sea amplifies his quiet intention, shaping the world in rhythm with his breath."
+								},
+								{
+									"context":"A Seer enters a market and all noise drops slightly, unnoticed by the crowd — but conversations shift, decisions sway.",
+									"tazri_nature":"The caster’s presence exerts a passive weave, resonating with the Sea’s emotional undercurrents."
+								}
+							],
+							"limitations":[
+								"Creation from nothing remains impossible.",
+								"Cannot shape the Sea itself, only offer form to its pressure.",
+								"Emotional echo is intense — joy, grief, and rage manifest externally.",
+								"World-shaping spells still require full rites."
+							],
+							"transition":{
+								"to_next_stage":"The caster must surrender even identity — allowing their Saeje to dissolve into the Sea itself, becoming a channel for raw cosmic rhythm.",
+								"obstacles":[
+									"Fear of complete ego-dissolution",
+									"Over-identification with the beauty of performance",
+									"Difficulty relinquishing control to rhythm",
+									"Unwillingness to merge with the greater Arcane flow"
+								]
+							},
+							"rarity":"Extremely rare — only lifelong practitioners or blessed prodigies reach this fluid state.",
+							"alignment_with_saeje":"Full — the caster's Saeje now dances in tandem with the Sea’s will.",
+							"tazri_expression":{
+								"control":"Full",
+								"instability":"Subtle",
+								"awareness":"Reflexive"
+							},
+							"significance":"This is not performance. It is fluency. The caster’s presence is now part of the Arcane rhythm — a shape the Sea falls into naturally."
+						},
+						"taz_zorzulkar":{
+							"title":"The Drowned Star",
+							"sigtaara":"Taz’Zorzulkar",
+							"english":"Out-Drowned-Star",
+							"summary":"The caster descends irreversibly into the Sea, becoming a myth, a wound, or a ripple in the weave of the world.",
+							"quote":{
+								"text":"The Sea remembers what we forget. I remember nothing — and now I am everything.",
+								"speaker":"Alaenth Khyra, final words before vanishing"
+							},
+							"description":"Taz’Zorzulkar is not a stage one reaches. It is a state one falls into — willingly or not. It is the drowning of the Saeje in the Arcane Sea, where ego dissolves and all barriers between the caster and magic collapse. The individual ceases to exist in a conventional sense. What remains is an Echo Form: a flickering presence between realms, steeped in Tazri so deeply that they alter reality by proximity alone. Their words warp probability. Their touch leaves glyphs in bone. Most who descend this far are never seen again. Some remain, haunting ley-lines or appearing in dreams. Others become places — a grove that whispers, a ruin that heals, a river that forgets. The Drowned Star does not burn. It absorbs. It warps. It remains. Or it doesn’t. But it is never undone.",
+							"signs":[
+								"Reality subtly twists in their presence — ink runs uphill, fire speaks, wounds bloom instead of bleed",
+								"They speak in multiple tongues or temporal loops",
+								"Casting happens without gesture or intention — it simply occurs",
+								"Others dream of them, even across vast distances",
+								"Arcane anomalies persist where they last stood — echoes, scentless flame, reversed footprints"
+							],
+							"examples":[
+								{
+									"context":"A caster enters a shrine and disappears — no body, only molten glyphs burned into the walls.",
+									"tazri_nature":"The caster’s Saeje collapsed fully into the Sea, leaving a permanent scar upon the physical plane."
+								},
+								{
+									"context":"A village once blessed by a wandering mage continues to produce spellborn children for generations.",
+									"tazri_nature":"Their Echo Form lingers subtly, rewriting the boundaries of heredity and arcane inheritance."
+								},
+								{
+									"context":"A scholar hears their own thoughts interrupted by a vanished caster’s voice — quoting dreams they never told.",
+									"tazri_nature":"The Drowned Star’s memory has bled into the subconscious channels of the world."
+								}
+							],
+							"limitations":[
+								"No conscious will remains.",
+								"Spells occur without intent or structure.",
+								"Echo Forms decay, lose memory, and blur temporally.",
+								"There is no known method of reversal."
+							],
+							"transition":{
+								"to_next_stage":"There is no next stage. Only diffusion, myth, or oblivion.",
+								"obstacles":[
+									"Surrender of identity",
+									"Arcane collapse through trauma or overreach",
+									"Exposure to deep-node rites or raw Yoos’Okaaz",
+									"Ego-burn through overcasting or isolation"
+								]
+							},
+							"rarity":"Mythical — only legends, ruins, and anomalies remain as evidence.",
+							"alignment_with_saeje":"Transcended — the Saeje no longer acts. It *is* the Sea, or what remains of it.",
+							"tazri_expression":{
+								"control":"Unbound",
+								"instability":"Echoing",
+								"awareness":"Dissolved"
+							},
+							"significance":"The Sea has claimed them. Their Saeje is no longer a soul — it is a **wound in the weave**, through which the Sea still leaks. They are caution, myth, and prayer. And sometimes, they whisper what lies before the First Thought."
+						}
+					}
+				}
+			}
