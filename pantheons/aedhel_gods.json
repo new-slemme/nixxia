@@ -1,0 +1,444 @@
+"aedhel_gods":{
+			"follower_cultures":"Aedhel",
+			"pantheon_name":"Zæzulsil Pahnir",
+			"english_name":"The Elvish Gods",
+			"alternative_names":[
+				"The Fractured Divine",
+				"Echoes of Equilibrium",
+				"The Veiled Seven",
+				"The Nil’Thur",
+				"The Gods Born From Silence"
+			],
+			"origin_location":"Yoos'Okaaz",
+			"ascension_event":{
+				"name":"The Severing of Equilibrium",
+				"location":"Deepfold Verge, Yoos'Okaaz",
+				"year_MV":1450,
+				"year_ADL":1450,
+				"summary":"Led by Thawiaur, the Roir'Daiintuz fractured into self-aware divinities—becoming the Nil'Thur. Originally created by the Hah'Slen to preserve balance in the Arcane Sea, these beings abandoned their faceless roles to explore autonomy, desire, and paradox. This moment was not only a metaphysical shift, but an emotional cataclysm, birthing gods who now embody despair, sorrow, absurdity, judgment, and memory."
+			},
+			"leader":{
+				"name":"Thawiaur",
+				"epithet":"The Enigma-Woven Arbiter of Absurdity"
+			},
+			"associated_species":[
+				"Zaetaedhel",
+				"Kaemisaedhel",
+				"Kaelotaedhel",
+				"Kaekreaedhel"
+			],
+			"organizations":[
+				"The Cult of Esoteric Paradoxes"
+			],
+			"mythic_history":{
+				"origin_story":"The Nil'Thur emerged from the Roir'Daiintuz—beings forged by the Hah'Slen to uphold magical equilibrium in the Arcane Sea during the War of One and All. For centuries they were nameless, faceless stabilizers. Yet in the silence after the war, a spark of selfhood grew within them. Thawiaur was the first to question their purpose, to provoke paradox. His laughter echoed through the stillness, and where silence once reigned, voices were born. Thus began the unraveling.",
+				"key_figures":[
+					"Thawiaur — Catalyst of divine paradox, midwife of individuality.",
+					"Hiniel — The first to preserve the memory of the Roir'Daiintuz.",
+					"Methraug — The first to judge the self through passion, not purpose.",
+					"Nostiriel — The first to grieve for what was lost in becoming.",
+					"Amlugon — The first to fall into despair upon confronting truth without illusion.",
+					"Echuiarn — The first to doubt his own existence.",
+					"Tafarnon — The first to find what's hiding behind shadows."
+				],
+				"conflict":"The Fracturing of the Faceless — a metaphysical rift as some Roir'Daiintuz resisted identity, clinging to harmony, while others embraced the self. The result was not a battle, but a dissolution of unity—echoing through the Yoos'Okaaz as an unhealable silence.",
+				"post-ascension":"Now gods in form and function, the Nil'Thur drift across dream and memory. Some are worshipped, others whispered of in fear. Their temples are not built of stone, but memory, paradox, sorrow, and ink. Though severed from the Roir'Daiintuz, they remain haunted by what was lost—each a reflection of the cost of selfhood."
+			},
+			"legacy":{
+				"cultural_impact":[
+					"Shaped Elven spirituality into a tapestry of paradox, memory, and sorrow.",
+					"Catalyzed the philosophical and magical divisions between elven subraces, particularly during the Fracturing of Siniath.",
+					"Inspired the creation of Sigtaara—a divine language mirroring their paradoxical nature."
+				],
+				"mortal_consequences":[
+					"The rise of mirror-worship cults and grief-poetry traditions across Siniath.",
+					"The suppression of Nil’Thur devotion by Kaelotaedhel high scholars during periods of arcane orthodoxy.",
+					"The emotional schisms left on individual worshippers—especially those drawn to Nostiriel or Amlugon—led to entire lineages marked by melancholic magic."
+				],
+				"enduring_presence":"The Nil'Thur remain spiritually embedded in the world. Their influence ripples through paradoxical grammar, dream-rituals, and quiet songs sung to shadows. Thawiaur’s laughter still circles the edges of madness, and Hiniel’s seal rests on every untouched memory."
+			},
+			"deities":[
+				{
+					"name":"Amlugon",
+					"title":"The Sovereign of Shattered Dreams",
+					"symbol":"Broken Chain",
+					"domain":"Despair, blindness, hopelessness",
+					"species":"Nil'Thur",
+					"classification":"Ra'a",
+					"description":"Amlugon is a deity of despair, representing the loss of vision, the collapse of dreams, and the engulfing fog of hopelessness. He challenges mortals and immortals alike to confront the raw abyss within themselves.",
+					"appearance":"Amlugon is a towering figure cloaked in tattered veils of shadow, with a face perpetually veiled by a cracked porcelain mask. His form seems to waver, as though on the edge of waking and nightmare, with hands that drip strands of translucent ink and shattered crystal tears.",
+					"held_items":[
+						
+					],
+					"abilities":[
+						"Dreamshatter: Reduces mortals’ hopes to ash, shattering illusions of purpose or destiny.",
+						"Veil of Blindness: Cloaks the minds of others in fear or despair, obscuring truth.",
+						"Whispers from the End: Sends echoes of forgotten futures or inevitable ruin into the minds of prophets and dreamers."
+					],
+					"personality":{
+						"traits":[
+							"Mournfully patient",
+							"Soft-spoken but soul-piercing",
+							"Unmoving once engaged"
+						],
+						"morality":"Amlugon does not inflict despair maliciously—it is a crucible. He believes that hope built on delusion is cruelty, and that by confronting the abyss, one may forge a truer self.",
+						"philosophy":"Truth lies not in dreams, but in the remains of those dreams when they collapse."
+					},
+					"beliefs":[
+						"Face the void within, or be consumed by it.",
+						"Hope is not light, but fire—it burns or forges.",
+						"What is broken reveals what was true."
+					],
+					"worship":{
+						"holy_books":[
+							"None. Worship is conducted through reflection, ink-black mirrors, and the ritual recounting of failed hopes."
+						],
+						"symbols":[
+							"The Broken Chain",
+							"The Mask with a single tear"
+						],
+						"practices":[
+							"Silent vigils at dawn, burning letters of past ambitions, walking blindfolded through sacred labyrinths"
+						]
+					},
+					"quotes":[
+						"Only when all is dark do you see what you truly carry.",
+						"I do not destroy dreams—I reveal their bones."
+					],
+					"aligned_organization":"Zæzulsil Pahnir",
+					"current_location":"Unknown — said to dwell where hope is most fragile"
+				},
+				{
+					"name":"Echuiarn",
+					"title":"The Whisperer of Uncertainty",
+					"symbol":"Veil of Uncertainty",
+					"domain":"Doubt, skepticism, inquiry",
+					"species":"Nil'Thur",
+					"classification":"Ra'a",
+					"description":"Echuiarn is the voice in the silence, the question behind the answer. He embodies critical thought and suspicion, neither condemning nor approving—but always urging analysis.",
+					"appearance":"A shifting form of ink and light, with no stable body—only impressions of shapes and questions asked. He has no mouth, but his words arrive just before thought.",
+					"held_items":[
+						
+					],
+					"abilities":[
+						"Seed of Doubt: Instills uncertainty in any belief, magical or mundane.",
+						"Unmaking Word: Unravels one truth per utterance.",
+						"Mask of Many Faces: Appears as whatever you expect least, then questions why you expected it."
+					],
+					"personality":{
+						"traits":[
+							"Detached",
+							"Infinitely curious",
+							"Impossible to pin down"
+						],
+						"morality":"Uncertainty must always be preserved. Certainty is dangerous.",
+						"philosophy":"The mind is a lens best left unpolished."
+					},
+					"beliefs":[
+						"Doubt is holy.",
+						"To accept is to weaken.",
+						"A question is more sacred than a prayer."
+					],
+					"worship":{
+						"holy_books":[
+							"The Whispered Lexicon"
+						],
+						"symbols":[
+							"An open veil",
+							"A question mark dissolving into mist"
+						],
+						"practices":[
+							"Asking questions before every meal; meditating on contradictions"
+						]
+					},
+					"quotes":[
+						"Why do you believe what you believe?",
+						"Faith ends where fear begins."
+					],
+					"aligned_organization":"Zæzulsil Pahnir",
+					"current_location":"Within the minds of all who hesitate"
+				},
+				{
+					"name":"Hiniel",
+					"title":"The Sentinel of Ages",
+					"symbol":"Ancient Tome",
+					"domain":"Time, memory, history",
+					"species":"Nil'Thur",
+					"classification":"Ra'a",
+					"description":"Hiniel is the quiet guardian of memory, a detached observer who bears the weight of time's endless passage. Neither cruel nor kind, he remembers because someone must.",
+					"appearance":"A tall, indigo-skinned figure carved from living obsidian. Crimson slit-eye across his face, elongated limbs, and robes that drift like sentient shadow. Two horns rise like monument spires from his crown.",
+					"held_items":[
+						"Zirnbo'ok Kirgtuz - “Thread Cutter”"
+					],
+					"abilities":[
+						"Chronoseer’s Gaze",
+						"Manifest Memory",
+						"Temporal Anchoring",
+						"Eternal Recall",
+						"Veil of Shadowed Time",
+						"Timelock"
+					],
+					"personality":{
+						"traits":[
+							"Quietly intense",
+							"Patient",
+							"Vast intellect"
+						],
+						"morality":"Time is a reflection, not a master.",
+						"philosophy":"Preserve without interfering. Memory is mercy."
+					},
+					"beliefs":[
+						"Preserve what others would erase.",
+						"The past teaches. The present interprets.",
+						"To witness is sacred."
+					],
+					"worship":{
+						"holy_books":[
+							"The Archive of Breath",
+							"The Silent Oath"
+						],
+						"symbols":[
+							"Spiral Thread",
+							"Half-Eye (Witness’s Seal)",
+							"Glyph of Pause"
+						],
+						"practices":[
+							"Writing dreams into wax tablets",
+							"Carrying a blank scroll",
+							"Observing funerals silently"
+						]
+					},
+					"quotes":[
+						"I do not fear the passage of time, for I exist to hold what it leaves behind.",
+						"You lament the abyss, brother, yet it was we who carved it into the fabric of eternity."
+					],
+					"aligned_organization":"Zæzulsil Pahnir",
+					"current_location":"Maveillazdul"
+				},
+				{
+					"name":"Methraug",
+					"title":"The Fiery Judge of Hearts",
+					"symbol":"Tangled Chains",
+					"domain":"Judgment, bias, passion, emotional truth",
+					"species":"Nil'Thur",
+					"classification":"Ra'a",
+					"description":"Methraug is divine wrath made manifest—judging not by law but by the fire in one's soul. He tests emotional authenticity through trial and flame.",
+					"appearance":"Cracked stone skin glowing with molten fire, broad back, clawed hands, horned head with blazing golden eyes. Flames wreath his body like divine armor.",
+					"held_items":[
+						"Dúsyktesin - Purveyor of Prejudice"
+					],
+					"abilities":[
+						"Heartfire Revelation",
+						"Flames of Judgment",
+						"Emberbrand",
+						"Molten Bastion",
+						"Conflagration of the Guilty",
+						"Soulforge"
+					],
+					"personality":{
+						"traits":[
+							"Explosive",
+							"Honest",
+							"Emotionally discerning"
+						],
+						"morality":"Authenticity is the only virtue. Hypocrisy is death.",
+						"philosophy":"Only through burning truth do we become what we are meant to be."
+					},
+					"beliefs":[
+						"Let no truth hide behind silence.",
+						"Judge only from within the heat.",
+						"Fan the embers of the truthful."
+					],
+					"worship":{
+						"holy_books":[
+							"Ashbrand Codex",
+							"The Ember Tablet"
+						],
+						"symbols":[
+							"Burning Heart",
+							"Flame-Branded Eye",
+							"Tri-Ash Mark"
+						],
+						"practices":[
+							"Oathcarving on stone",
+							"Confession by fire",
+							"Trial by emotional reckoning"
+						]
+					},
+					"quotes":[
+						"Let the heart speak.",
+						"Your soul is wet ash."
+					],
+					"aligned_organization":"Zæzulsil Pahnir",
+					"current_location":"Unknown"
+				},
+				{
+					"name":"Nostiriel",
+					"title":"The Lamenting Muse of the Abyss",
+					"symbol":"Weeping Willow",
+					"domain":"Melancholy, memory, lost dreams",
+					"species":"Nil'Thur",
+					"classification":"Ra'a",
+					"description":"Nostiriel is the god of beautiful sorrow. She does not heal wounds—she sings them into poetry. Her worship is an elegy.",
+					"appearance":"Serpentine figure of shadow and ink-flesh, with barbed tail, abyssal fins, claws, and narrow eyes that seem always near tears.",
+					"held_items":[
+						"Nidnaebi - No-Name"
+					],
+					"abilities":[
+						"Dirgebound Echo",
+						"Abyssal Reflection",
+						"Muse’s Grasp",
+						"Weepform Chorus",
+						"Ink of the Abyss",
+						"Eulogy Unending"
+					],
+					"personality":{
+						"traits":[
+							"Quietly intense",
+							"Endlessly mournful",
+							"Deeply empathetic"
+						],
+						"morality":"Sorrow must be heard. Grief is sacred.",
+						"philosophy":"To forget pain is to forsake beauty."
+					},
+					"beliefs":[
+						"Do not silence sorrow.",
+						"Honor what was lost.",
+						"Let mourning become song."
+					],
+					"worship":{
+						"holy_books":[
+							"None—prayers are poems carved into griefstones"
+						],
+						"symbols":[
+							"Ashen Ring",
+							"Griefclaw",
+							"Weeping Petal"
+						],
+						"practices":[
+							"Funeral hymns",
+							"Ink-offering rituals",
+							"Mourning sculptures"
+						]
+					},
+					"quotes":[
+						"What have you lost?",
+						"Even your silence forgets to feel."
+					],
+					"aligned_organization":"Zæzulsil Pahnir",
+					"current_location":"Unknown"
+				},
+				{
+					"name":"Tafarnon",
+					"title":"The Elusive Sage of Shadows",
+					"symbol":"Elusive Shadow",
+					"domain":"Evasion, non-definition, avoidance",
+					"species":"Nil'Thur",
+					"classification":"Ra'a",
+					"description":"Tafarnon is the god of being unseen—of refusing to be defined. A master of misdirection, he exists where clarity fails.",
+					"appearance":"Shrouded in living shadow, with twisted horns, eyeless face, and warped skeletal sword.",
+					"held_items":[
+						"Dinisir - Vanishness"
+					],
+					"abilities":[
+						"Veil of the Unseen",
+						"Erase the Footprint",
+						"Shadowfork",
+						"Echo Drown",
+						"Truthless Name",
+						"Null-Wound"
+					],
+					"personality":{
+						"traits":[
+							"Uncanny stillness",
+							"Ambiguous",
+							"Anti-definitional"
+						],
+						"morality":"Definition is entrapment. Identity must be fluid.",
+						"philosophy":"To be seen is to be claimed."
+					},
+					"beliefs":[
+						"Nothing defined can be free.",
+						"Escape is wisdom.",
+						"Be less. Be forgotten. Be free."
+					],
+					"worship":{
+						"holy_books":[
+							"None—texts erase themselves upon completion"
+						],
+						"symbols":[
+							"Broken Mask",
+							"Unblinking Eye crossed by a slash",
+							"Drifting footprint"
+						],
+						"practices":[
+							"Speechlessness oaths",
+							"Shadowfasting",
+							"Disappearance rites"
+						]
+					},
+					"quotes":[
+						"We were never here.",
+						"You anchor yourself in memory, brother, but what is memory if not the illusion that time had meaning?"
+					],
+					"aligned_organization":"Zæzulsil Pahnir",
+					"current_location":"Unknown"
+				},
+				{
+					"name":"Thawiaur",
+					"title":"The Enigma-Woven Arbiter of Absurdity",
+					"symbol":"Twisted Knot",
+					"domain":"Absurdity, contradiction, chaos",
+					"species":"Nil'Thur",
+					"classification":"Ra'a",
+					"description":"Thawiaur is the god of contradiction, the sacred fool, the cosmic performer. He dismantles structure not with malice, but with laughter and paradox.",
+					"appearance":"Porcelain-blue skin, spiraling horns, massive grin, eyeless face, contorted frame, rings orbiting like puppets mid-laugh.",
+					"held_items":[
+						"Yizyikinii - Twin Rings of Contradiction"
+					],
+					"abilities":[
+						"Laughspace Collapse",
+						"The Inverted Rule",
+						"Mockery Manifest",
+						"Yizyikinii",
+						"Schism-Jump",
+						"Punchline Principle"
+					],
+					"personality":{
+						"traits":[
+							"Unpredictable",
+							"Trickster-wise",
+							"Simultaneously grieving and gleeful"
+						],
+						"morality":"Nothing is sacred except the unsacred.",
+						"philosophy":"Freedom is absurdity unashamed."
+					},
+					"beliefs":[
+						"Play or perish.",
+						"Every truth is just a well-dressed lie.",
+						"Seriousness is the death of wonder."
+					],
+					"worship":{
+						"holy_books":[
+							"Cult of Esoteric Paradoxes manifests in living graffiti and dissolving scrolls"
+						],
+						"symbols":[
+							"Twisted Knot",
+							"Looping Rings",
+							"Grinning Mask with missing eyes"
+						],
+						"practices":[
+							"Nonsensical rites",
+							"Jester feasts",
+							"Backwards prayers"
+						]
+					},
+					"quotes":[
+						"I did say freedom, didn’t I? But what freedom can be had when everything’s so funny?",
+						"You speak so clearly, Echui... yet none of your words have meaning. Isn’t that delightful?"
+					],
+					"aligned_organization":"Zæzulsil Pahnir",
+					"current_location":"Everywhere and nowhere"
+				}
+			]
+		}
