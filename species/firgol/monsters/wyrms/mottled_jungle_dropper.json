@@ -1,0 +1,79 @@
+"mottled_jungle_dropper":{
+						"name":"Mottled Jungle-Dropper",
+						"scientific_name":null,
+						"classification":"Winged Wyrm",
+						"origin":"Siniath, Silgolt",
+						"description":{
+							"short":"A vivid, social canopy wyvern with fierce territorial instincts and stunning coloration.",
+							"full":"The Mottled Jungle-Dropper is a small, agile winged wyrm that thrives in the dense upper canopy of the Siniath and Silgolt jungles. With brilliant orange skin and striking blue markings, it glides through the foliage with precision. Known for its intelligence, social hierarchy, and group-based defense, it plays a crucial role in maintaining insect populations in its ecosystem."
+						},
+						"anatomy":{
+							"body_structure":"Compact and muscular, with bat-like wings and strong hind limbs for grasping foliage; four-limbed anatomy with forelimbs modified into wings.",
+							"scale_characteristics":"Smooth skin with vibrant orange base coloration and blue markings; ridged back with spines for camouflage and defense.",
+							"facial_features":"Broad, flat head with small spines; large, wide-set eyes for a broad field of vision; sharp insect-tearing teeth."
+						},
+						"biological_data":{
+							"reproduction":{
+								"type":"Oviparous",
+								"gestation":"4 weeks",
+								"parental_care":"Juveniles initially fed by parents; grow independent shortly after hatching."
+							},
+							"growth_stages":{
+								"hatchling":"0-2 months, dependent and molting frequently",
+								"juvenile":"2-8 months, learning to hunt, gaining agility",
+								"mature":"1 year+, full size and territorial behavior"
+							},
+							"lifespan":"15 years"
+						},
+						"ecology":{
+							"habitat":"Upper jungle canopy of Siniath and Silgolt",
+							"role":"Essential insectivore — regulates canopy insect populations and contributes to biodiversity"
+						},
+						"diet":{
+							"type":"Insectivorous",
+							"primary_prey":"Flying and crawling insects",
+							"hunting_behavior":"Mid-air pursuit and ambush tactics; sharp reflexes and high maneuverability"
+						},
+						"seasonal_behavior":{
+							"activity":"Highly active in rainy season; less so in dry season with reduced movement and feeding",
+							"breeding":"Tied to rainy season when food is abundant"
+						},
+						"intelligence":{
+							"comparable_to":"Corvids or parrots — capable of problem-solving and social coordination",
+							"skills":[
+								"Cooperative hunting and group defense",
+								"Strategic use of terrain",
+								"Strong memory for territory and nesting zones"
+							]
+						},
+						"senses":{
+							"sight":"Highly acute for detecting prey movements",
+							"hearing":"Sensitive to faint insect sounds in foliage",
+							"smell":null
+						},
+						"symbiosis":{
+							"symbiotic_species":[
+								"None confirmed, but known to defend tree zones beneficial to multiple canopy dwellers"
+							],
+							"parasites":[
+								"Typical small canopy mites and lice"
+							]
+						},
+						"domestication":{
+							"domesticated_by":null,
+							"status":"Undomesticated",
+							"process":null,
+							"adaptations":null
+						},
+						"dimensions":{
+							"height_avg_m":0.5,
+							"weight_kg":2.5,
+							"length_m":1.2,
+							"physique":"Lightweight and agile; built for precise gliding and quick aerial maneuvers"
+						},
+						"distribution":{
+							"primary":"Siniath",
+							"secondary":"Silgolt"
+						},
+						"discovered_by":null
+					},
