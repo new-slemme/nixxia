@@ -5,6 +5,7 @@
 								"genus":"Dovahsos",
 								"species":"Aedheldov",
 								"appeared_in_age":"fourth_age",
+								"hybrid":"yes",
 								"genetic_ancestors":[
 									"Kaelotaedhel",
 									"Saarotsos"
