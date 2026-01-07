@@ -1,0 +1,50 @@
+"kuurshuul":{
+						"name":"Kuur’shuul",
+						"alt_name":"The Thousand Fold",
+						"sigtaara":null,
+						"classification":"Shapeshifter",
+						"habitat":[
+							"Tropical reefs",
+							"Bioluminescent coasts",
+							"Tide-touched archipelagos"
+						],
+						"description":{
+							"short":"Modular coral-shifters that assemble into humanoid or symbolic forms through swarm coordination.",
+							"full":"The Kuur’shuul, known as 'The Thousand Fold', are a shapeshifting species composed of modular hexapedal organisms that fuse into elaborate forms. Rather than changing shape individually, they assemble larger constructs through swarm coordination, mimicking humanoids, animals, or symbolic gestures. They are not individually intelligent but demonstrate remarkable collective cognition when clustered together, creating expressive simulations of dance, grief, combat, or prayer. Sailors, mystics, and shamans often interpret their performances as echoes of lost rituals or ancestral messages."
+						},
+						"anatomy":{
+							"segment_type":"Hexapedal, crab-like organisms with light-emitting soft coral shells",
+							"connection_method":"Chitin-locking grooves and harmonic pulses for synchronization",
+							"coloration":"Iridescent coral, shifting with emotion and tides",
+							"mobility":"Erratic individually, fluid and coherent when joined"
+						},
+						"shapeshifting":{
+							"method":"Assembly-based — new forms constructed by swarming and arranging modules",
+							"form_library":"Can replicate witnessed postures, rituals, and symbolic representations",
+							"symbolic_forms":"Some shapes are abstract representations of emotion or history",
+							"pattern_precision":"Highly accurate in motion, posture, and rhythm; limited in facial or vocal mimicry"
+						},
+						"behavior":{
+							"cognition":"Emergent intelligence only during clustering; no sapience in isolated units",
+							"communication":"Harmonic pulses, synchronized movement, and shifting body color",
+							"personality":"Reflective and reactive; rarely initiate contact",
+							"memory":"Stored in swarm behavior — larger clusters 'remember' more complex forms"
+						},
+						"reproduction":{
+							"method":"Spawning — modules are shed during full moons and fertilized in reef beds",
+							"lifespan":"Segments live decades; collective consciousness may persist centuries",
+							"growth":"More segments enable more articulate, detailed, and symbolic shapeshifting"
+						},
+						"weaknesses":[
+							"Cannot maintain form if segments are separated",
+							"Require water or humid conditions to remain cohesive",
+							"Disrupted by high-frequency sound or chaotic magical interference",
+							"No individual willpower — fragmentation causes loss of focus and mimicry collapse"
+						],
+						"cultural_significance":[
+							"Revered as preservers of lost rituals and ancestral dances",
+							"Believed by some to be the 'Sea’s Theater', re-enacting forgotten stories",
+							"Left undisturbed when mimicking funerals — seen as sacred or prophetic",
+							"Some coastal mythkeepers believe they house the gestures of the dead"
+						]
+					},
