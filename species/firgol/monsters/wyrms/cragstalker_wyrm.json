@@ -1,0 +1,85 @@
+"cragstalker_wyrm":{
+						"name":"Cragstalker Wyrm",
+						"scientific_name":"Zemodov Irhadrul",
+						"classification":"Terrestrial Wyrm",
+						"origin":"Hjemland",
+						"description":{
+							"short":"A highly intelligent, pack-hunting terrestrial wyrm native to the crags of Hjemland.",
+							"full":"The Cragstalker Wyrm is a social, terrestrial wyrm endemic to the rocky highlands of Hjemland. Measuring 3 to 5 meters in length, it hunts in coordinated packs using ambush tactics and terrain manipulation. Domesticated by dwarves and humans, it serves as a loyal companion in war and wilderness alike, exhibiting primate-level intelligence and deep social memory."
+						},
+						"anatomy":{
+							"body_structure":"Stocky, low-slung quadruped with muscular limbs and flexible spine for leaping across rocky terrain.",
+							"scale_characteristics":"Slate-gray armored scales with ash-white belly; dark bony ridges along back used in communication and threat display.",
+							"facial_features":"Forward-facing eyes, short serrated teeth, thick jaw muscles; expressive face with raised brow ridges and flaring nostrils."
+						},
+						"biological_data":{
+							"reproduction":{
+								"type":"Sexual (oviparous)",
+								"gestation":"Unknown (wild nests rarely observed)",
+								"parental_care":"Juveniles are raised communally in the pack for several years before joining hunts."
+							},
+							"growth_stages":{
+								"hatchling":"Nursed and guarded by full pack; blind for first few weeks",
+								"juvenile":"1–5 years, trained through play and mock hunts",
+								"mature":"6+ years, full adult responsibilities in pack structure"
+							},
+							"lifespan":"40–50 years"
+						},
+						"ecology":{
+							"habitat":"Highland crags, rocky valleys, tundra fringes of Hjemland",
+							"role":"Apex predator — controls large herbivore populations and prevents ecological overbrowsing"
+						},
+						"diet":{
+							"type":"Carnivorous",
+							"primary_prey":"Tuskhorns, cliffgoats, drakeboars, and large reptiles",
+							"hunting_behavior":"Pack ambushes using terrain traps, flanking, decoys, and coordinated attack signals"
+						},
+						"seasonal_behavior":{
+							"activity":"Year-round hunters; range expands in lean winter months",
+							"breeding":"Breeding appears to peak in late spring; pups born in sheltered cliff nests"
+						},
+						"intelligence":{
+							"comparable_to":"Primates — capable of problem-solving, social memory, and complex coordination",
+							"skills":[
+								"Group communication via body language and vocalizations",
+								"Terrain-based trap setting",
+								"Recognition of individuals, commands, and hand signals in domesticated forms"
+							]
+						},
+						"senses":{
+							"sight":"Excellent binocular vision for depth and movement",
+							"hearing":"Can detect sub-vocalized rumbles and ground movement",
+							"smell":"Moderately acute; used for social recognition and prey tracking"
+						},
+						"symbiosis":{
+							"symbiotic_species":[
+								"Domesticated by humans and dwarves; bonds deeply with handlers"
+							],
+							"parasites":[
+								"Occasionally afflicted by highland scale-mites; groomed socially or with handler aid"
+							]
+						},
+						"domestication":{
+							"domesticated_by":"Dwarves and highland humans of Hjemland",
+							"status":"Domesticated (majority population in lowland and frontier settlements)",
+							"process":"Domesticated from hatchlings using imprinting, command association, and territory sharing",
+							"adaptations":{
+								"behavioral":"Reduced aggression, heightened social tolerance for humanoids",
+								"training":"Responds to commands; used for hunting, guarding, scouting, and war"
+							}
+						},
+						"dimensions":{
+							"height_avg_m":2.5,
+							"weight_kg":750,
+							"length_m":{
+								"female":6,
+								"male":7
+							},
+							"physique":"Powerful and low to the ground; ideal for rocky terrain and pouncing maneuvers"
+						},
+						"distribution":{
+							"primary":"Hjemland",
+							"secondary":null
+						},
+						"discovered_by":null
+					}
