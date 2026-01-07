@@ -1,0 +1,86 @@
+"silgoltian_ghostback":{
+						"name":"Silgoltian Ghostback",
+						"scientific_name":"Nehylkaadov Revakdova Hikezdinok",
+						"classification":"Winged Wyrm",
+						"origin":"Silgolt",
+						"description":{
+							"short":"A gliding, ghostlike predator of Silgolt’s steppes, shrouded in mist and ice.",
+							"full":"The Silgoltian Ghostback is a winged wyrm native to the rugged high steppes of Silgolt. Adapted for flight and stealth, it exhibits a spectral presence, especially under moonlight. Intelligent, territorial, and occasionally tamed by the Saarotsos, these creatures maintain a precarious balance between wilderness and legend."
+						},
+						"anatomy":{
+							"body_structure":"Quadrupedal with powerful membranous wings, hollow bones, and muscular limbs with talons.",
+							"scale_characteristics":"Pale blue iridescent scales with navy spined ridges.",
+							"facial_features":"Streamlined head, glowing eyes, long snout, sharp teeth, elevated nostrils for aerial scenting."
+						},
+						"biological_data":{
+							"reproduction":{
+								"type":"Oviparous",
+								"gestation":"90 days",
+								"parental_care":"Female cares for young until they are ~1 year old."
+							},
+							"growth_stages":{
+								"hatchling":"0-1 year, rapid growth to half adult size",
+								"juvenile":"1-5 years, development of flight and hunting skills",
+								"mature":"10+ years, fully grown and territorial"
+							},
+							"lifespan":"180 years"
+						},
+						"ecology":{
+							"habitat":"Windswept steppes and mountainous regions of Silgolt",
+							"role":"Apex predator — controls populations of small mammals, birds, reptiles"
+						},
+						"diet":{
+							"type":"Carnivorous",
+							"primary_prey":"Small mammals, birds, reptiles",
+							"hunting_behavior":"Nocturnal, prefers fresh kill but will scavenge. Uses ice breath to immobilize prey."
+						},
+						"seasonal_behavior":{
+							"activity":"Higher activity in cooler seasons; decreased movement in heat.",
+							"breeding":"Courtship and mating in spring; territorial displays."
+						},
+						"intelligence":{
+							"comparable_to":"Human child",
+							"skills":[
+								"Problem-solving",
+								"Memory-based hunting patterns",
+								"Vocal and physical communication during mating season"
+							]
+						},
+						"senses":{
+							"sight":"Excellent long-distance vision",
+							"hearing":"Acute, can detect faint sounds",
+							"thermosensory":"Detects temperature shifts via snout organ"
+						},
+						"symbiosis":{
+							"symbiotic_species":[
+								"Small birds that clean parasites"
+							],
+							"parasites":[
+								"Mites",
+								"Wyrm-specific ticks"
+							]
+						},
+						"domestication":{
+							"domesticated_by":"Saarotsos of Silgolt",
+							"status":"Rare and difficult",
+							"process":"Begins with hatchlings; bonding essential for control",
+							"adaptations":{
+								"morphological":"Smaller size, altered wing structure, thicker non-camouflage scales",
+								"behavioral":"Less aggressive, responds to commands, increased social tolerance"
+							}
+						},
+						"dimensions":{
+							"height_avg_m":2.5,
+							"weight_kg":[
+								500,
+								700
+							],
+							"length_m":12,
+							"physique":"Lean but muscular, long limbs and strong wing strokes for agile flight"
+						},
+						"distribution":{
+							"primary":"Northern Silgolt",
+							"secondary":"Adjacent similar-climate regions"
+						},
+						"discovered_by":"Kaemisyol"
+					}
