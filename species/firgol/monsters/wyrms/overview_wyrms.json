@@ -1,1 +1,16 @@
-
+"wyrm_group":{
+				"sigtaara":"Motidova",
+				"english":"Wyrms",
+				"home_continent":"Hjemland, Siniath, Silgolt, Lotkrosis, Irudy"
+        "included_species":[
+          "silgoltian_ghostback",
+          "beaked_finneck",
+          "coastal_drake",
+          "great_hellkite",
+          "horned_hellkite",
+          "moon_dragon",
+          "mottled_jungle_dropper",
+          "swamp_wyrm",
+          "cragstalker_wyrm"
+        ]
+}
