@@ -101,7 +101,7 @@
 				}
 			}
 		],
-		"celestialBodyCount":2
+		"celestialBodyCount":2,
 		"historical_ages":[
 			"details":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/history/ages_and_events.json",
 			"first_age":{
