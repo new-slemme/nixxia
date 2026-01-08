@@ -14,25 +14,13 @@
 					"period":1,
 					"isWrapped":false
 				},
-				"intercalary":{
-					"isActive":false,
-					"isAfter":false,
-					"isDistinct":false,
-					"isNewWeekDuring":false,
-					"isNewWeekAfter":false,
-					"dateAppearance":"normal"
-				},
-				"buttonPresentation":{
-					"title":"head-body-tail",
-					"icon":"head-body-tail",
-					"tags":"head-body-tail"
-				}
 			}
 		],
 		"calendarVersion":"0.8.3",
 		"name":"NSC",
+		"designation":"MV",
 		"description":"\"The Nixxian Standard Calendar.\\nThis calendar starts counting from the seperation of the physical realm from the \\\"Arcane Sea\\\".\\nIt was first devised by the \\\"\\\".\"",
-		"currentYear":"13000",
+		"currentYear":"13000 MV",
 		"days":[
 			"Noskiinsur",
 			"Nayolsur",
@@ -114,4 +102,25 @@
 			}
 		],
 		"celestialBodyCount":2
-	},
+		"historical_ages":[
+			"details":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/history/ages_and_events.json"
+			"first_age":{
+				"designation":"ADL"
+			},
+			"second_age":{
+				"designation":"ASY"
+			},
+			"third_age":{
+				"designation":"AZN"
+			},
+			"fourth_age":{
+				"designation":"AMD"
+			},
+			"fifth_age":{
+				"designation":"ASS"
+			},
+			"sixth_age":{
+				"designation":"ABP"
+			}
+		],
+}
