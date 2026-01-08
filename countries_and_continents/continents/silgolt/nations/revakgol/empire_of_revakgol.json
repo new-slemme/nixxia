@@ -1,0 +1,210 @@
+{
+  "name": "Empire of Revakgol",
+  "motto": "ÂKNI ARK ZUGÄ",
+  "motto_translation": "Aakni Ark Zugae - Endure And Shape",
+  "description": "Born in flame and bound by conquest, the Empire of Revakgol is the mightiest dominion in the known world — a vast, stratified realm where Saarotsos warlords, Zegtuzsos high-speakers, and Lingraasos tide-scholars all serve the will of a single, absolute ruler: the Aalki. Its capital, Vusokaar, rises from a basalt plateau like a drakonite fang, reflecting the unshakable ideals of strength, discipline, and divine authority. Founded in the Age of Screams and Silence (AZN) by Vazaa’Dovaajun Kaemisyol, a saarotsos chieftain turned empire-forger, Revakgol now spans deserts, riverlands, and highlands, each province overseen by trusted Furaktuzir beneath a rigid central hierarchy. Its heart is fire — not just literal, but symbolic. Magic is regulated. Service is sacred. Even memory is governed. Revakgol does not merely endure. It imposes order. It remembers everything.",
+  "structure": {
+    "aalki": {
+      "title": "Aalki – The Living Pyre",
+      "description": "At the pinnacle of the Empire stands the Aalki, a hereditary sovereign and embodiment of imperial will. The Aalki is the supreme ruler of Revakgol, commander of its legions, high judge of its law, and spiritual figurehead of its flamebound legacy. All lines of authority converge upon this singular throne.",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/aalki-rank",
+	  "github_path":""
+    },
+    "paathur_and_nijitehk": {
+      "title": "Paathur & Nijitehk – The Twin Pillars of Accord",
+      "description": "Directly beneath the Aalki are the Paathur, high leaders of the Zegtuzsos, and the Nijitehk, the sacred \"Water-Singers\" who represent the Lingraasos. These figures are not mere governors, but cultural stewards and sovereign intermediaries, ensuring their peoples’ traditions are preserved even under imperial rule.",
+      "paathur": "The Paathur presides over Zegtuzsos affairs, both domestic and martial.",
+      "nijitehk": "The Nijitehk governs the island of Julot, a Special Administrative Zone, and speaks with the voice of the sea-wrought Turtlekin."
+    },
+    "dovaarein": {
+      "title": "Dovaarein – The Ember Council",
+      "description": "Beneath the triad of imperial power lies the Dovaarein, a council of sixteen Saarotsos clan leaders, descended from the first bloodlines to kneel before Kaemisyol. They serve as guardians of tradition and advisors to the throne, each wielding influence over military doctrine, cultural law, and succession."
+    },
+    "daiintuz": {
+      "title": "Daiintuz – The Flamekeepers",
+      "description": "Six Daiintuz (\"Keepers\") oversee the six administrative sectors of the Empire, serving as high bureaucrats and regional stewards. They coordinate the will of the Aalki across distant territories and enforce imperial doctrine. While not hereditary, their titles are granted for life — revoked only by the Aalki’s decree."
+    },
+    "furaktuz": {
+      "title": "Furaktuz – Governors",
+      "description": "Each imperial province is governed by a Furaktuz (\"Governor\"), selected from among the dominant racial lineage of that region: Dovjunir (pl. of Dovjun) – Saarotsos governors, Mulaagjunir (pl. of Mulaagjun) – Zegtuzsos governors. These Furaktuz answer to the appropriate Daiintuz and enforce law, collect tribute, and maintain local military readiness."
+    },
+    "junir": {
+      "title": "Junir – City and Village Leaders",
+      "description": "At the lowest tier of official governance are the Junir — magistrates, chieftains, or elected overseers of towns and villages. They manage the day-to-day needs of the populace, settle local disputes, and serve as the eyes and ears of the Furaktuz."
+    }
+  },
+  "culture": {
+    "description": "The culture of the Empire of Revakgol is one of discipline, reverence, and hierarchical purpose — shaped by centuries of conquest, draconic inheritance, and the unrelenting vision of Kaemisyol. It is not a culture that merely endures hardship, but one that sees trial as sanctification, and structure as a sacred act.",
+    "flame_is_authority": {
+      "title": "The Flame Is Authority",
+      "description": "Revakgolians believe that order itself is a divine principle — strength, properly applied, is moral. The flame, as both symbol and element, is revered not only for its destructive potential but for its refining power. Those who survive hardship are seen as elevated, having been tempered by fire. This belief pervades everything from education to punishment. Imperial justice is harsh but precise. Imperial merit is earned, not presumed. One’s worth is proven through endurance, skill, and submission to the greater whole."
+    },
+    "tazri": {
+      "title": "Tazri – The Leashed Storm",
+      "description": "While nearly all citizens pursue Kori, the Empire strictly regulates the use of Tazri — the external magic drawn from the Arcane Sea. Tazri is not forbidden, but it is feared — a volatile force treated like divine fire stolen from the gods. Only registered practitioners may legally wield Tazri, and even they must carry ritual licenses and glyph-seals identifying their level of mastery. Unauthorized use is punishable by exile, Kaegromik, or death — depending on the scale of the breach. Tazri academies exist, but are state-sanctioned and often monitored by imperial scribes. The Empire values power, but only when bound in oath and form."
+    },
+    "kaegromik": {
+      "title": "Kaegromik – Bound Service",
+      "description": "The practice of Kaegromik (from kaegro “bound” + amik “service”) is an accepted institution within the Empire — a voluntary, limited form of slavery, wherein individuals bind themselves or others into contractual servitude. Kaegromik may arise from: Debt (economic or ritual), Punishment (as an alternative to execution or exile), Honor-binding (such as a family offering a member in penance), Oath-vassalage (ritualized fealty for a fixed term). Terms are overseen by a magistrate, and duration cannot exceed fifty years without imperial dispensation. Kaegromik is not hereditary. Children of bound servants are born free unless explicitly included in the terms — a rare but legal clause. Those who violate the codes of Kaegromik may be branded, while those who serve honorably may receive imperial recognition, elevated caste status, or Kori rites as reward."
+    },
+    "reverence_for_teachers": {
+      "title": "Reverence for Teachers",
+      "description": "In the Empire of Revakgol, teaching is sacred — whether in the form of a flamepriest instructing initiates, a craftsmaster guiding an apprentice, or a Tazri scholar reciting sigils to a scribe. To teach is to shape; to learn is to endure. The title of Zundakaar (“Light-Giver”) is given to especially honored mentors, and many warbands or artisan guilds offer life-blood oaths to the teachers who shaped them. An insult to one’s teacher is considered a deeper wound than an insult to one’s bloodline."
+    },
+    "cultural_traits_and_norms": {
+      "title": "Cultural Traits & Norms",
+      "traits": [
+        "Discipline is public virtue: excess emotion is viewed with suspicion. Rage is accepted only in combat; grief, only in ritual.",
+        "Hospitality is layered: One offers food to an equal, shelter to a lesser, and silence to a stranger. Offering too much is viewed as suspect — generosity is meant to reinforce structure, not erase it.",
+        "Ceremonial speech is formalized: High Saarotsos use structured greeting-forms and parting-rhythms. Deviating from these without cause is seen as uncultured or defiant.",
+        "Suffering is contextualized: hardship is not pitied — it is respected, but only when survived. Mourning is a collective rite, not an individual burden.",
+        "Art is didactic: sculpture, mural, and even music are expected to carry historical, martial, or spiritual meaning. Pure abstraction is rare and often treated with suspicion."
+      ]
+    }
+  },
+  "public_agenda": "The Empire of Revakgol proclaims its mission not in slogans, but in stone, fire, and silence. Its agenda is carved into the walls of its cities, spoken in the syllables of its laws, and burned into the hearts of its citizens: to preserve unity, enshrine legacy, and bind the world to memory. From the days of the Vazaa’Dovaajun, Kaemisyol himself, the empire has claimed a singular mandate — to refine civilization through discipline and order. Expansion is not framed as conquest, but as the rectification of chaos, a sacred task to bring harmony to fragmented peoples under the architecture of flame and purpose. Yet in contrast to its martial roots, the modern Empire presents itself as a keeper of truth. In the chambers of the Imperial Archives, beneath the flame-sealed vaults of Vusokaar, are not only Saarotsos chronicles but scrolls from Zegtuzsos tribes, Lingraasos coral-etched tablets, and even Manaet folios, carefully preserved and studied. Revakgol declares that to master the future, one must collect every shard of the past, even those that once stood in defiance. This guardianship of memory is not passive. The empire dispatches scribes, historians, and flame-sworn translators across the known world to recover, document, and sanctify knowledge before it can be lost to time or rebellion. These emissaries carry not swords, but oaths and wax, and are protected under imperial law as Servants of the Record. To the public, the empire offers not promises of peace — peace is conditional, and fleeting — but a pledge of continuity. In an ever-changing world, Revakgol will remain: a spine of stone, a breath of flame, a record that does not forget.",
+  "history": {
+    "great_wyrm_war": {
+      "name": "Great Wyrm War",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/great-wyrm-war-militaryConflict",
+	  "github_path":""
+    },
+    "founding_date": "11 of Etzil 1266 AZN (5866 MV)",
+    "type": "Geopolitical, State",
+    "capital": {
+      "name": "Vusokaar",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/vusokaar-settlement",
+	  "github_path":""
+    },
+    "alternative_names": ["Revak"],
+    "predecessor_organization": {
+      "name": "Disjurktul do Kaemisyol",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/disjurktul-do-kaemisyol-organization",
+	  "github_path":""
+    },
+    "training_level": "Professional",
+    "leader_title": {
+      "name": "Aalki",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/aalki-rank",
+	  "github_path":""
+    },
+    "founders": [
+      {
+        "name": "Kaemisyol",
+        "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/kaemisyol-article",
+	    "github_path":"https://github.com/new-slemme/nixxia/blob/main/history/historical_characters.json"
+      }
+    ],
+    "government_system": "Monarchy, Absolute",
+    "power_structure": "Feudal state",
+    "economic_system": "Market economy",
+    "legislative_body": "In the Empire of Revakgol, legislation is not the product of debate — it is the codification of imperial will. The Aalki is the sole source of law, but to shape that will into enduring form, he relies on the Six Daiintuz — the Keepers — who oversee the empire’s administrative sectors. These Daiintuz serve as the legislative engine of Revakgol: they draft, revise, and enforce imperial decrees, translating the Aalki’s vision into policy, tax code, military standards, and civic doctrine. However, the Daiintuz do not act unilaterally. They are advised — and, on rare occasions, challenged — by the Dovaarein, the council of sixteen Saarotsos clan leaders descended from those who first bent the knee to the Vazaa’Dovaajun. While not a legislative body in the formal sense, the Dovaarein holds the authority to interpret tradition, and their assent is often sought when laws touch on matters of bloodline, honor, or flame-bound rite. Once ratified, laws are carved into memory-stone tablets and housed in the Citadel Vaults of Vusokaar, accessible to any who can read Sigtaara. These records are copied and distributed to provincial Furaktuz (governors), who enforce them with the aid of scribes, Tufae, and local Junir. There is no formal system of petition or appeal — though exceptional grievances may be brought before a Daiintuz or, in dire cases, the Aalki himself.",
+    "judicial_body": "The Kaalir’Lukan (Judges of Flame) are the Empire’s highest judicial caste. Trained in both the laws of conquest and the rites of fire, they preside over imperial courts, resolve disputes, and enact judgment upon violators of order. Drawn from the ranks of senior Yol’Tikjootuz, select Zegtuzsos, and proven scholars of the Archive Vaults, the Kaalir’Lukan are known for their ritual impartiality and ferocious integrity. Their rulings are public, binding, and ceremonial—often accompanied by flame rites, blood-oaths, or exile brands. In imperial cities, they carry seared staves engraved with their own Kori paths, used as both badge and binding tool.",
+    "executive_body": "The Aalki, sovereign ruler and living flame-throne of the Empire, serves as its supreme executive authority. All branches ultimately answer to his will. His commands are carried out through a vast and loyal bureaucracy of: Furaktuzir (provincial governors), Daiintuz (administrative high keepers), and emissary-lords such as the Paathur (Zegtuzsos high leader) and Nijitehk (governor of Julot and speaker for the Lingraasos). This body ensures the enforcement of imperial law, coordination of provinces, mobilization of legions, and regulation of both Kori and Tazri usage across the realm. In times of unrest or existential threat, the Aalki may invoke Yol'Kaeyoog do Aalir Rel — “The Fire-Right of Absolute Rule” — suspending all other bodies and ruling by command alone."
+  },
+  "religion": {
+    "official_state_religion": {
+      "name": "The Dragon Gods - Firraaii",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/the-dragon-gods---firraaii-organization",
+	  "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/pantheons/dovagoraan_gods.json"
+    },
+    "deities": [
+      {
+        "name": "Rahboksul, the Time-Weaver",
+        "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/rahboksul2C-the-time-weaver-person",
+	    "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/pantheons/dovagoraan_gods.json"
+      },
+      {
+        "name": "Rahrovahlok, the Harmonic Nexus",
+        "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/rahrovahlok2C-the-harmonic-nexus-person",
+	    "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/pantheons/dovagoraan_gods.json"
+      },
+      {
+        "name": "Rahshaan, the Divine Muse",
+        "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/rahshaan2C-the-divine-muse-person",
+	    "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/pantheons/dovagoraan_gods.json"
+      },
+      {
+        "name": "Rahsil'lah, the Elemental Tempest",
+        "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/rahsil-lah2C-the-elemental-tempest-person",
+	    "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/pantheons/dovagoraan_gods.json"
+      },
+      {
+        "name": "Rahvulhahnu, the Abyssal Dreamer",
+        "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/rahvulhahnu2C-the-abyssal-dreamer-person",
+	    "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/pantheons/dovagoraan_gods.json"
+      }
+    ]
+  },
+  "location": {
+    "name": "Eastern Silgolt",
+    "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/eastern-silgolt-location",
+	"github_path":""
+  },
+  "official_languages": [
+    {
+      "name": "Sigtaara",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/sigtaara-language",
+	  "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/languages/sigtaara.json"
+    }
+  ],
+  "controlled_territories": [
+    {
+      "name": "Eastern Silgolt",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/eastern-silgolt-location",
+	  "github_path":""
+    },
+    {
+      "name": "Vusokaar",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/vusokaar-settlement",
+	  "github_path":""
+    }
+  ],
+  "notable_members": [
+    {
+      "name": "Kaemisyol",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/kaemisyol-article",
+	  "github_path":""
+    }
+  ],
+  "related_species": [
+    {
+      "name": "Aedhelirsos",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/aedhelirsos-species",
+	  "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/species/firgol/sentient/dovagoraan/aedhelirsos.jon"
+    },
+    {
+      "name": "Kaekreaedhel",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/kaekreaedhel-species",
+	  "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/species/firgol/sentient/lahkiin/kaekreaedhel.json"
+    },
+    {
+      "name": "Lingraasos",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/lingraasos-species",
+	  "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/species/firgol/sentient/dovagoraan/lingraasos.json"
+    },
+    {
+      "name": "Lokraasos",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/lokraasos-species",
+	  "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/species/firgol/sentient/dovagoraan/lokraasos.json"
+    },
+    {
+      "name": "Saarotsos",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/saarotsos-species",
+	  "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/species/firgol/sentient/dovagoraan/saarotsos.json"
+    },
+    {
+      "name": "Zegtuzsos",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/a/zegtuzsos-species",
+	  "github_path":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/species/firgol/sentient/dovagoraan/zegtuzsos.json"
+    }
+  ],
+  "related_historical_events": [
+    {
+      "date": "5866 MV",
+      "name": "The Empire of Revakgol",
+      "worldanvil_url": "https://www.worldanvil.com/w/nixxia-slemme/h/bd240c4a-61bb-4222-ae88-d0281d79542c",
+	  "github_path":""
+    }
+  ]
+}
