@@ -70,4 +70,4 @@
 │   │           ├── overview_elves.json
 │   │           └── zaetaedhel.json
 │   └── glossary.md
-└── glossary.md
+└── structure.md
