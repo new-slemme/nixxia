@@ -1,5 +1,5 @@
 {
-"calendar":{
+	"calendar":{
 		"notes":[
 			{
 				"date":"0-1",
@@ -14,7 +14,7 @@
 				"duration":{
 					"period":1,
 					"isWrapped":false
-				},
+				}
 			}
 		],
 		"calendarVersion":"0.8.3",
@@ -104,25 +104,27 @@
 		],
 		"celestialBodyCount":2,
 		"historical_ages":[
-			"details":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/history/ages_and_events.json",
-			"first_age":{
-				"designation":"ADL"
-			},
-			"second_age":{
-				"designation":"ASY"
-			},
-			"third_age":{
-				"designation":"AZN"
-			},
-			"fourth_age":{
-				"designation":"AMD"
-			},
-			"fifth_age":{
-				"designation":"ASS"
-			},
-			"sixth_age":{
-				"designation":"ABP"
+			{
+				"details":"https://raw.githubusercontent.com/new-slemme/nixxia/refs/heads/main/history/ages_and_events.json",
+				"first_age":{
+					"designation":"ADL"
+				},
+				"second_age":{
+					"designation":"ASY"
+				},
+				"third_age":{
+					"designation":"AZN"
+				},
+				"fourth_age":{
+					"designation":"AMD"
+				},
+				"fifth_age":{
+					"designation":"ASS"
+				},
+				"sixth_age":{
+					"designation":"ABP"
+				}
 			}
-		],
-}
+		]
+	}
 }
