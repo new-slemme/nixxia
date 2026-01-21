@@ -1,0 +1,31 @@
+{
+"name": "Silgoltian Trailstrider",
+"local_name": "Vúkrɔsoh",
+"etymology": "Derived from Sigtaara terms 'vúk' for strong and 'rɔsoh' for runner",
+"overview": "The Silgoltian Trailstrider serves as the primary horse analogue in Nixxia's continent of Silgolt. This quadrupedal herbivore fills the ecological and cultural niche of a versatile mount and beast of burden, adapted to the continent's varied biomes including deserts, riverlands, highlands, steppes, and lush jungles with swamps. Unlike wyrms, which are predatory monsters, the Trailstrider is a non-aggressive, social mammal-like creature, emphasizing endurance over aggression. It has been domesticated for millennia by Silgolt's inhabitants, such as the Saarotsos warlords and Lingraasos tide-scholars, for transportation, agriculture, and occasional warfare. As Nixxia remains in development, this species expands the fauna under the 'firgol' category, potentially as a new subcategory for non-monstrous beasts (e.g., species/firgol/beasts/trailstrider.json). It draws consistency from existing elements: its adaptations mirror the environmental diversity seen in Revakgol's geography and the semi-aquatic traits of local wyrms like the Swamp Wyrm, while avoiding any descent from dovagoraan or wyrms.",
+"physical_traits": {
+"body_structure": "Quadrupedal with a muscular, elongated frame optimized for long-distance travel. It features powerful hindquarters for sprinting across steppes, flexible joints for navigating uneven highland terrain, and partially webbed hooves for stability in riverlands and swamps.",
+"coat_and_skin": "Thick, mottled fur in shades of brown, green, and gray for camouflage in jungles and riverlands; shorter and sand-resistant in desert variants. The skin is tough and leathery to resist insect bites and thorny vegetation common in Silgolt's lush areas.",
+"facial_features": "Broad muzzle with large nostrils for efficient breathing during exertion, large eyes adapted for low-light in jungles, and flat teeth suited for grinding vegetation. Males often have short, curved horns for defense and display.",
+"dimensions": "Average shoulder height of 1.7 meters, body length of 2.4 meters (excluding tail), and weight between 400-550 kg. Physique is athletic and resilient, with a long tail for balance in rough terrain."
+},
+"ecology_and_habitats": {
+"habitats": "Thrives across Silgolt's diverse landscapes, from the windswept steppes of the north (similar to the Silgoltian Ghostback's domain) to the swampy jungles shared with Swamp Wyrms. Prefers open grasslands and river valleys for grazing but migrates seasonally to avoid extreme dry spells in deserts or floods in lowlands.",
+"ecological_role": "As herbivores, they control vegetation overgrowth, promoting biodiversity in ecosystems. Predators like wyrms occasionally hunt juveniles, but adult herds use coordinated stampedes for defense.",
+"geographic_distribution": "Endemic to Silgolt, with highest populations in eastern Revakgol's riverlands and highlands. Rare sightings in adjacent continents like Siniath via ancient migration routes.",
+"diet": "Primarily grasses, leaves, and aquatic plants; can digest tough fibers thanks to a multi-chambered stomach. In deserts, they store fat in humps for water conservation, allowing survival up to 7 days without drinking."
+},
+"behavior": {
+"social_structure": "Herd-based, with groups of 10-50 individuals led by a dominant female. They communicate through low-frequency rumbles and body language, fostering strong bonds.",
+"activity_patterns": "Diurnal in open areas, crepuscular in jungles to avoid heat. Higher activity during wet seasons for breeding and foraging; they enter a low-energy state in dry periods.",
+"intelligence": "Comparable to a well-trained dog—capable of route memory, owner recognition, and basic problem-solving like crossing rivers strategically.",
+"senses": "Acute hearing for detecting predators, strong sense of smell for locating water sources (up to 5 km away), and good vision for spotting threats in varied light.",
+"symbiosis_and_threats": "Birds often perch on them to eat parasites, forming mutualistic relationships. Common parasites include ticks and mites, mitigated by mud-rolling in swamps."
+},
+"biological_data": {
+"reproduction": "Sexual and viviparous, with a 11-month gestation. Females give birth to 1-2 foals, providing care for the first year.",
+"growth_stages": "Foal (0-1 year: dependent, rapid growth to 1 meter height); Juvenile (1-3 years: learning herd dynamics); Adult (4+ years: full size, reproductive maturity).",
+"lifespan": "25-35 years in the wild, up to 45 years in domestication with proper care."
+},
+"domestication": "Widely domesticated by Silgolt's dovagoraan species (e.g., Saarotsos for war mounts, Zegtuzsos for highland travel). The process starts with capturing foals from wild herds and using positive reinforcement training. Domesticated Trailstriders show adaptations like increased docility, larger size (up to 600 kg), and tolerance for saddles or loads up to 150 kg. They excel in jungle navigation, desert treks, and river crossings, making them indispensable for trade caravans and exploration. Unlike the rare taming of Ghostbacks, Trailstriders breed reliably in captivity, with selective breeding enhancing traits like speed (up to 60 km/h sprints) or endurance (traveling 80 km daily)."
+}
