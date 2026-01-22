@@ -406,6 +406,14 @@
 			"end_ASS":3265,
 			"events":[
 				{
+					"title":"Kaemisaedhel Incursions into Northern Siniath",
+					"summary":"Kaemisaedhel incursions into northern Siniath escalate, raiding Kaelotaedhel arcane repositories in retaliation for historical exile. Kaelotaedhel city-states, including Ael’theryn, form loose defensive coalitions, marking the first stirrings of renewed unity among High Elves.",
+					"year_start_ASS":195,
+					"year_end_ASS":295,
+					"year_start_MV":9800,
+					"year_end_MV":9900
+				},
+				{
 					"title":"The Awakening of Namuzdus",
 					"summary":"A lone Kaetijul explorer returns to Hjemland after a years-long journey through western Silgolt, telling of a titanic mountain range suffused with mineral veins, geothermal warmth, and uncanny echoes of ancestral stone-speech. Though dismissed by many, small dwarven caravans begin departing Hjemland in secret.",
 					"year_start_ASS":231,
@@ -438,6 +446,14 @@
 					"year_end_MV":10118
 				},
 				{
+					"title":"Shadow Veil Conflicts",
+					"summary":"Following the Kaekreaedhel Unbinding (MV 10226), Twisted Elves establish hidden enclaves in eastern subterranean networks, allying sporadically with Kaemisaedhel against Kaelotaedhel surveillance. This sparks the Shadow Veil Conflicts, where Kaelotaedhel deploy illusion veils to monitor and disrupt these alliances.",
+					"year_start_ASS":545,
+					"year_end_ASS":595,
+					"year_start_MV":10150,
+					"year_end_MV":10200
+				},
+				{
 					"title":"The First Unbinding",
 					"summary":"In northern Siniath, a nameless Kaekreaedhel slave assassinates their Kaelotaedhel master by hurling them from the summit of a living-glass tower. The act — part of a secret, coordinated uprising — triggers a wave of revolts across hidden Kaekreaedhel enclaves. Later retellings call this moment 'The First Unbinding.'",
 					"year_start_ASS":620,
@@ -468,6 +484,14 @@
 					"year_end_ASS":742,
 					"year_start_MV":10348,
 					"year_end_MV":10348
+				},
+				{
+					"title":"Tide Accord",
+					"summary":"Zaetaedhel coastal clans, facing resource shortages from overland trade disruptions, broker neutral pacts with Kaelotaedhel for access to arcane enhancements in exchange for maritime reconnaissance. This 'Tide Accord' strengthens Kaelotaedhel influence over southeastern waters but sows distrust among Kaemisaedhel.",
+					"year_start_ASS":745,
+					"year_end_ASS":795,
+					"year_start_MV":10350,
+					"year_end_MV":10400
 				},
 				{
 					"title":"The Blooming of Izheim",
@@ -516,6 +540,14 @@
 					"year_end_ASS":886,
 					"year_start_MV":10492,
 					"year_end_MV":10492
+				},
+				{
+					"title":"Arcane Anomalies in Northern Siniath",
+					"summary":"A series of arcane anomalies in northern Siniath, linked to Hiniel cult activities, weakens independent elven holdings. Kaelotaedhel archmagi propose a provisional council in Thalon to stabilize magic flows, laying groundwork for the Triumvirate's revival.",
+					"year_start_ASS":895,
+					"year_end_ASS":995,
+					"year_start_MV":10500,
+					"year_end_MV":10600
 				},
 				{
 					"title":"The Burning Cradle",
@@ -590,6 +622,14 @@
 					"summary":"Time anomalies recur at Issalyr ruins, now spreading to nearby Kaemisaedhel enclaves. A 'witness voice' echoes prophecies of 'forgotten blood rising.' Hiniel cults grow, blending memory rites with rebellion themes."
 				},
 				{
+					"title":"Intensification of Border Wars",
+					"summary":"Border wars intensify as Kaekreaedhel diaspora groups launch guerrilla strikes on Kaelotaedhel borders, drawing Zaetaedhel into defensive roles along coastlines. Kaelotaedhel respond with the Arcane Levy, conscripting allied mages to fortify northern strongholds.",
+					"year_start_ASS":1195,
+					"year_end_ASS":1295,
+					"year_start_MV":10800,
+					"year_end_MV":10900
+				},
+				{
 					"year_start_ASS":1200,
 					"year_end_ASS":1250,
 					"year_start_MV":10806,
@@ -622,6 +662,14 @@
 					"summary":"Internal strife shatters Ogim-Gogil mage-lord alliances in Irudy. Power vacuums lead to tribal wars, with some factions seeking aid from Hjemland humans or Siniath elves, diluting traditional greenskin autonomy."
 				},
 				{
+					"title":"Reformation of Thalon",
+					"summary":"The Reformation of Thalon: Three prominent Kaelotaedhel archmagi—Elyndor the Veilweaver, Thalira the Stormcaller, and Vorian the Bindbreaker—declare the second Triumvirate on 12 of Daazil, MV 11100. Modeled after the first, it centralizes governance in Ael’theryn, focusing on arcane supremacy to counter subrace fragmentation.",
+					"year_start_ASS":1445,
+					"year_end_ASS":1595,
+					"year_start_MV":11050,
+					"year_end_MV":11200
+				},
+				{
 					"year_start_ASS":1500,
 					"year_end_ASS":1525,
 					"year_start_MV":11106,
@@ -644,6 +692,14 @@
 					"year_end_MV":11256,
 					"title":"Izheim's Arcane Renaissance",
 					"summary":"Gnome inventors in Izheim blend Tazri with Deepmetal, creating self-sustaining automatons and flying vessels. This draws Zaetaedhel diplomats and Kaekreaedhel refugees, transforming Izheim into a multicultural innovation hub."
+				},
+				{
+					"title":"Triumvirate Expansion Campaigns",
+					"summary":"Triumvirate Expansion Campaigns begin, with Kaelotaedhel forces using tazri magic to reclaim eastern mountain territories from Kaemisaedhel clans. Key battles include the Siege of the Abyss Echo (MV 11420), where blood magic defenses are breached, forcing Dark Elf retreats to diaspora outposts.",
+					"year_start_ASS":1695,
+					"year_end_ASS":1895,
+					"year_start_MV":11300,
+					"year_end_MV":11500
 				},
 				{
 					"year_start_ASS":1700,
@@ -686,6 +742,14 @@
 					"summary":"Tensions over Deepmetal erupt into open conflict. Revakgol legions clash with dwarven fortifications, but gnome inventions turn the tide. The war ends in stalemate, forging uneasy trade pacts."
 				},
 				{
+					"title":"Deep Harmony Pact",
+					"summary":"Diplomatic overtures to Zaetaedhel yield the Deep Harmony Pact (MV 11700), integrating Sea Elf naval expertise into the Triumvirate's structure. In return, Zaetaedhel gain protected underwater domains, shifting their neutrality toward Kaelotaedhel allegiance.",
+					"year_start_ASS":1995,
+					"year_end_ASS":2195,
+					"year_start_MV":11600,
+					"year_end_MV":11800
+				},
+				{
 					"year_start_ASS":2000,
 					"year_end_ASS":2025,
 					"year_start_MV":11606,
@@ -700,6 +764,14 @@
 					"year_end_MV":11656,
 					"title":"The Echoed Crown Prophecy",
 					"summary":"Namuzdus seers interpret a mountain tremor as prophecy: 'The Echoed Crown awakens when blood meets stone.' This fuels dwarven isolationism and preparations for unknown threats."
+				},
+				{
+					"title":"Twisted Revolt",
+					"summary":"Kaekreaedhel resistance peaks in the Twisted Revolt, with underground uprisings aided by remnant Kaemisaedhel. The Triumvirate deploys elite bindbreaker units, culminating in the Unbinding Purge (MV 12050), which scatters Twisted Elves and secures subterranean routes.",
+					"year_start_ASS":2345,
+					"year_end_ASS":2495,
+					"year_start_MV":11950,
+					"year_end_MV":12100
 				},
 				{
 					"year_start_ASS":2100,
@@ -774,6 +846,14 @@
 					"summary":"A massive oceanic lament draws Zaetaedhel fleets south. Visions reveal 'buried flames' in Lotkrosis depths, prompting the first deep-sea explorations of the continent's submerged ruins."
 				},
 				{
+					"title":"Resolution of Continental Trade Wars",
+					"summary":"Continental trade wars resolve in Triumvirate favor through economic blockades on non-aligned enclaves. Zaetaedhel-mediated talks incorporate remaining Kaemisaedhel holdouts via conditional autonomy, establishing puppet clans under Kaelotaedhel oversight.",
+					"year_start_ASS":2595,
+					"year_end_ASS":2795,
+					"year_start_MV":12200,
+					"year_end_MV":12400
+				},
+				{
 					"year_start_ASS":2600,
 					"year_end_ASS":2625,
 					"year_start_MV":12206,
@@ -814,6 +894,14 @@
 					"summary":"Izheim becomes a neutral hub for continent-spanning trade. Deepmetal, echo-stones, and Tazri tomes flow freely, enriching all — but breeding espionage and black markets."
 				},
 				{
+					"title":"Consolidation Phase",
+					"summary":"Consolidation Phase: The Triumvirate enacts the Unity Edict (MV 12580), mandating arcane oaths of loyalty from all Siniath inhabitants. Dissenting Kaekreaedhel and Kaemisaedhel factions are exiled or integrated, solidifying control over eastern and coastal regions.",
+					"year_start_ASS":2895,
+					"year_end_ASS":3045,
+					"year_start_MV":12500,
+					"year_end_MV":12650
+				},
+				{
 					"year_start_ASS":2900,
 					"year_end_ASS":2925,
 					"year_start_MV":12506,
@@ -844,6 +932,14 @@
 					"year_end_MV":12656,
 					"title":"Nostiriel's Abyss Call",
 					"summary":"Zaetaedhel dreamers report collective visions of 'sorrow's crown' in Lotkrosis depths. Expeditions multiply, unearthing Firraaii relics that reshape Dragonbrood theology."
+				},
+				{
+					"title":"Prelude to Discord Escalation",
+					"summary":"Prelude to Discord escalates external threats from neighboring continents, prompting the Triumvirate to fortify Siniath's borders. By MV 12870, the second Triumvirate achieves full continental dominion, with subraces operating under its hierarchical rule, setting the stage for Sixth Age stability.",
+					"year_start_ASS":3095,
+					"year_end_ASS":3245,
+					"year_start_MV":12700,
+					"year_end_MV":12850
 				},
 				{
 					"year_start_ASS":3100,
