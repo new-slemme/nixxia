@@ -114,9 +114,9 @@
     },
     "growth": {
       "neonate": "Advanced cognition, slow physical development (0–20 years).",
-      "childhood": "20–100 years; focused on knowledge and cultural training.",
-      "adolescence": "100–250 years; rapid growth, magical training, advanced apprenticeship.",
-      "adulthood": "250–300+ years; stability, mastery, and the peak of magical, artistic, or political achievement."
+      "childhood": "20–60 years; focused on knowledge and cultural training.",
+      "adolescence": "60–110 years; rapid growth, magical training, advanced apprenticeship.",
+      "adulthood": "110–300 years; stability, mastery, and the peak of magical, artistic, or political achievement."
     },
     "growth_rate": "Very slow; full maturity near first century, functional adulthood after 250 years.",
     "sexual_dimorphism": "Males: denser muscle, broader shoulders. Females: more flexible, higher endurance."
